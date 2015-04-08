@@ -1,0 +1,349 @@
+R iRL 1
+========================================================
+author: Alexander Tolmach
+date: April 2015
+
+## Introduction
+
+Bla-bla-bla History
+========================================================
+
+* 1976: In Bell Labs `S` language was created (by John Chambers)
+* 1988: Commercial version `S-PLUS` appeared
+* 1993: Fork `R` appeared
+* ~2000: `R` getting more and more popular
+* 2007 Revolution Analytics was founded to provide commercial support
+
+Bla-bla-bla OpenSource
+========================================================
+
+R is distributed under GNU GPL license, which means:
+
+* the freedom to run the software for any purpose,
+* the freedom to study and change the software to suit your needs,
+* the freedom to share the software with your friends and neighbors, and
+* the freedom to share the changes you make.
+
+RiRL: Use R + RStudio
+========================================================
+
+[http://cran.r-project.org/](http://cran.r-project.org/)
+
+[http://www.rstudio.com/products/rstudio/download/](http://www.rstudio.com/products/rstudio/download/)
+
+![RStudio](images/RStudio.png)
+
+What is R
+========================================================
+
+## Officially:
+
+R is a free software environment for statistical computing and graphics.
+
+## Actually:
+
+R is an overgrown calculator.
+
+```{r, eval=F}
+> 8 + 8
+[1] 16
+> 4 ^ 2
+[1] 16
+> 2 + 2 + 2 + 2 + 2 + 2 + 2 + 2 - 2 + 2 * 0 
+[1] 14
+```
+
+Hands on
+========================================================
+
+Math
+```{r, eval=F}
+> 17 / 4
+> 17 %/% 4
+> 17 %% 4
+```
+
+Fucntions
+```{r, eval=FALSE}
+> round(10.152, 1)
+> abs(-10.152)
+> cos(0.5)
+```
+
+***
+
+Variables
+```{r, eval=FALSE}
+> foo <- 10
+> foo + 5
+> pi
+```
+
+Algorithms
+```{r, eval=FALSE}
+> for(i in 1:10){
+>   print(i)
+> }
+```
+
+From vars and algs to FUN's
+========================================================
+
+Using `varibales` we can name our data bricks, and apply them as needed.
+
+Using `algorithmic` structures we can automate reproducible calculations.
+
+```{eval=F}
+Example: 
+Weekly reports.
+Data bricks different.
+Proccesing is alike.
+```
+
+From vars and algs to FUN's
+========================================================
+
+It's useful to combine code bricks into `functions`:
+
+```{r}
+last.month.day <- function(date){
+  date <- as.POSIXlt(date)
+  year <- 1900 + date$year
+  month <- 1 + date$mon + 1
+  day <- '01'
+  next.month.first.day <- as.Date(paste(year, month, day, sep='-'))
+  last.day <- next.month.first.day - 1
+  return(last.day)
+}
+
+last.month.day(Sys.Date())
+```
+
+Packages
+========================================================
+
+We can combine multiple functions to package, write documentation for others and share it.
+
+AND: Always look for package, you are interested in, before writing it yourself.
+
+Places to look through:
+
+* CRAN - Comprehensive R archive network: [http://cran.r-project.org/](http://cran.r-project.org/)
+* Bioconductor (genomic data): [http://www.bioconductor.org/](http://www.bioconductor.org/)
+* GitHub: [https://github.com/](https://github.com/)
+
+About GitHub
+========================================================
+
+# Reomte Git server
+
+* Facebook for programmers
+* Not only R sources
+
+```
+Go to https://github.com/ and create your account!
+```
+
+Packages iRL
+========================================================
+
+* ggplot2
+* RColorBrewer
+* RCurl
+* reshape2
+* RSiteCatalyst
+* scales
+
+```{r, eval=F}
+install.packages('ggplot2')
+```
+
+Datasets
+========================================================
+
+* AirPassengers
+* iris
+* mtcars
+
+```{r, eval=FALSE}
+# To learn more about:
+?mtcars
+
+# To look through
+head(iris)
+```
+
+The most useful command
+========================================================
+
+## ?what_are_you_interested_in
+
+Use it for:
+
+* packages
+* functions
+* datasets
+* etc.
+
+```{r}
+?lm
+?summary
+```
+
+Different editors
+========================================================
+
+* **Pure R**: Entering command line by line, only console available.
+  
+* **RStudio**: Separate windows for script/console/help/output/etc.
+
+  Good for 1 user work.
+  
+* **Jupyter**: Unified output/console/script window.
+
+  Great for collaboration and reproducible researches.
+
+First line of a script: file encoding
+========================================================
+
+First line for every script:
+
+```{r}
+# -*- coding: utf-8 -*-
+```
+
+It's comment, so it is ignored by interpreter. But used by editor.
+
+Solves a lot of encoding problems (especially on Windows machines).
+
+Another great command to begin with:
+
+```{r}
+Sys.setlocale(category="LC_ALL", locale = "en_US.UTF-8")
+```
+
+Second line of a script: working directory
+========================================================
+
+The place, where file "works" (being interpreted).
+
+```{r}
+getwd()
+```
+
+Here it looks for files (by default). Saves files, etc.
+
+```{r, eval=FALSE}
+dir()
+```
+
+Best practice: set WD to folder, where script is saved
+
+```{r, eval=FALSE}
+setwd('C:/My_R_Folder/')
+```
+
+## Data types
+
+Objects
+========================================================
+
+Everything in R is an object. Every object belongs to it's class.
+
+* character
+
+```{r, eval=F}
+var <- 'Hello, world!'
+```
+
+* numeric/integer
+```{r, eval=FALSE}
+var1 <- 5.143
+var2 <- 10L # Specify L to get integer
+```
+
+* logical
+```{r, eval=FALSE}
+var <- FALSE
+```
+
+Objects
+========================================================
+
+Custom object classes:
+* factor
+
+  For categorial variables. Has levels scale. It's character var with levels.
+  
+* date/time objects
+
+  Main objects: POSIXlt/POSIXct/Date. It's numeric var with formatting.
+
+* functions
+
+Factors
+========================================================
+
+Better than numbers: 
+* self-describing
+* treated specially by functions like `lm()`
+
+Issues:
+* self-apearing
+* Missings due to factor-levels
+
+So:
+
+```{r}
+options(stringsAsFactors=FALSE)
+```
+
+Date/time
+========================================================
+
+* POSIXct: seconds since UNIX epoch
+* POSIXlt: list of day, month, year, hour, minute, second, etc.
+* Date: days since UNIX epoch
+
+POSIXlt most convinient wrapper - it has vars like `sec`, `min`, `hour`, `mday`, `year`, etc.
+
+```{r}
+?POSIXlt
+```
+
+Functions on object classes
+========================================================
+
+Get class
+
+```{r}
+class('Hello')
+class(pi)
+class(Sys.Date())
+```
+
+Functions on object classes
+========================================================
+
+Transform class
+
+```{r}
+as.character(pi)
+as.Date('2015-05-01')
+as.numeric(Sys.Date())
+```
+
+Homework
+========================================================
+
+1. Create folder for your homeworks.
+
+2. Create file with `.R` extension (or notebook, if you use Jupyter)
+
+3. Set encoding and working directory.
+
+4. Save it.
+
+5. Try other math/help/assigning commands in your script/notebook.
+
+6. Mail me your script.
