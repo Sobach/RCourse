@@ -1,0 +1,4798 @@
+"Date","Criterion","Parameter 1","Parameter 2","Value"
+"15.04.2015","views","","",996
+"15.04.2015","visitors","","",494
+"15.04.2015","gender","F","",106
+"15.04.2015","gender","M","",300
+"15.04.2015","age","1-18","",34
+"15.04.2015","age","18-21","",73
+"15.04.2015","age","21-24","",67
+"15.04.2015","age","24-27","",53
+"15.04.2015","age","27-30","",45
+"15.04.2015","age","30-35","",48
+"15.04.2015","age","35-45","",25
+"15.04.2015","age","45+","",22
+"15.04.2015","gender_age","F","1-18",9
+"15.04.2015","gender_age","F","18-21",15
+"15.04.2015","gender_age","F","21-24",27
+"15.04.2015","gender_age","F","24-27",16
+"15.04.2015","gender_age","F","27-30",7
+"15.04.2015","gender_age","F","30-35",13
+"15.04.2015","gender_age","F","45+",8
+"15.04.2015","gender_age","M","1-18",25
+"15.04.2015","gender_age","M","18-21",58
+"15.04.2015","gender_age","M","21-24",40
+"15.04.2015","gender_age","M","24-27",37
+"15.04.2015","gender_age","M","27-30",38
+"15.04.2015","gender_age","M","30-35",35
+"15.04.2015","gender_age","M","35-45",25
+"15.04.2015","gender_age","M","45+",14
+"15.04.2015","cities","Moscow","",31
+"15.04.2015","cities","Saint Petersburg","",17
+"15.04.2015","cities","Novosibirsk","",12
+"15.04.2015","cities","Rostov-on-Don","",8
+"15.04.2015","cities","Perm","",6
+"15.04.2015","cities","Kazan","",6
+"15.04.2015","cities","Astana","",5
+"15.04.2015","cities","Yekaterinburg","",4
+"15.04.2015","cities","Chelyabinsk","",4
+"15.04.2015","cities","Kaluga","",3
+"15.04.2015","cities","Yaroslavl","",3
+"15.04.2015","cities","Naberezhnye Chelny","",3
+"15.04.2015","cities","Ulyanovsk","",3
+"15.04.2015","cities","Saratov","",2
+"15.04.2015","cities","Karaganda","",2
+"15.04.2015","cities","Kiev","",2
+"15.04.2015","cities","Lobnya","",2
+"15.04.2015","cities","Kemerovo","",2
+"15.04.2015","cities","Kharkiv","",2
+"15.04.2015","cities","Donetsk","",2
+"15.04.2015","cities","Voronezh","",2
+"15.04.2015","cities","Lutsk","",2
+"15.04.2015","cities","Magnitogorsk","",2
+"15.04.2015","cities","Veliky Novgorod","",2
+"15.04.2015","cities","Chişinău ","",2
+"15.04.2015","countries","Russia","",378
+"15.04.2015","countries","Ukraine","",39
+"15.04.2015","countries","Kazakhstan","",22
+"15.04.2015","countries","Belarus","",14
+"15.04.2015","countries","USA","",13
+"15.04.2015","countries","China","",4
+"15.04.2015","countries","Germany","",3
+"15.04.2015","countries","Netherlands","",2
+"15.04.2015","countries","Switzerland","",2
+"15.04.2015","countries","Kyrgyzstan","",2
+"15.04.2015","countries","","",2
+"15.04.2015","countries","Moldova","",2
+"15.04.2015","countries","Peru","",1
+"15.04.2015","countries","India","",1
+"15.04.2015","countries","Vietnam","",1
+"15.04.2015","countries","Spain","",1
+"15.04.2015","countries","Turkey","",1
+"15.04.2015","countries","Norway","",1
+"15.04.2015","countries","Czech Republic","",1
+"15.04.2015","countries","Tajikistan","",1
+"15.04.2015","countries","Armenia","",1
+"15.04.2015","countries","France","",1
+"15.04.2015","countries","Ghana","",1
+"15.04.2015","sections","Discussion board","",72
+"15.04.2015","sections","Videos","",2
+"15.04.2015","sections","Photos","",15
+"15.04.2015","activity","Wall posts","",14
+"15.04.2015","activity","Photo comments","",68
+"15.04.2015","activity","Discussion comments","",17
+"15.04.2015","feedback","Like","",71
+"15.04.2015","feedback","Share","",10
+"15.04.2015","feedback","Comments","",138
+"15.04.2015","members","New members","",21
+"15.04.2015","members","Members lost","",23
+"15.04.2015","ads","New members from ads","",1
+"15.04.2015","ads","Visitors from ads","",60
+"14.04.2015","views","","",812
+"14.04.2015","visitors","","",430
+"14.04.2015","gender","F","",73
+"14.04.2015","gender","M","",274
+"14.04.2015","age","1-18","",37
+"14.04.2015","age","18-21","",49
+"14.04.2015","age","21-24","",48
+"14.04.2015","age","24-27","",55
+"14.04.2015","age","27-30","",42
+"14.04.2015","age","30-35","",35
+"14.04.2015","age","35-45","",25
+"14.04.2015","age","45+","",17
+"14.04.2015","gender_age","F","1-18",12
+"14.04.2015","gender_age","F","18-21",8
+"14.04.2015","gender_age","F","21-24",10
+"14.04.2015","gender_age","F","24-27",10
+"14.04.2015","gender_age","F","27-30",8
+"14.04.2015","gender_age","F","30-35",9
+"14.04.2015","gender_age","F","35-45",4
+"14.04.2015","gender_age","F","45+",4
+"14.04.2015","gender_age","M","1-18",25
+"14.04.2015","gender_age","M","18-21",41
+"14.04.2015","gender_age","M","21-24",38
+"14.04.2015","gender_age","M","24-27",45
+"14.04.2015","gender_age","M","27-30",34
+"14.04.2015","gender_age","M","30-35",26
+"14.04.2015","gender_age","M","35-45",21
+"14.04.2015","gender_age","M","45+",13
+"14.04.2015","cities","Moscow","",30
+"14.04.2015","cities","Saint Petersburg","",16
+"14.04.2015","cities","Krasnodar","",6
+"14.04.2015","cities","Kazan","",6
+"14.04.2015","cities","Nizhny Novgorod","",5
+"14.04.2015","cities","Vladivostok","",5
+"14.04.2015","cities","Perm","",4
+"14.04.2015","cities","Omsk","",4
+"14.04.2015","cities","Novosibirsk","",4
+"14.04.2015","cities","Cheboxary","",4
+"14.04.2015","cities","Pyatigorsk","",4
+"14.04.2015","cities","Donetsk","",3
+"14.04.2015","cities","Nizhny Tagil","",3
+"14.04.2015","cities","Minsk ","",3
+"14.04.2015","cities","Zaporizhia","",3
+"14.04.2015","cities","Rostov-on-Don","",3
+"14.04.2015","cities","Sevastopol","",3
+"14.04.2015","cities","Ufa","",3
+"14.04.2015","cities","Yekaterinburg","",3
+"14.04.2015","cities","Naberezhnye Chelny","",3
+"14.04.2015","cities","Saratov","",2
+"14.04.2015","cities","Joshkar-Ola","",2
+"14.04.2015","cities","Boston","",2
+"14.04.2015","cities","Kaluga","",2
+"14.04.2015","cities","Krasnoyarsk","",2
+"14.04.2015","countries","Russia","",319
+"14.04.2015","countries","Ukraine","",43
+"14.04.2015","countries","Kazakhstan","",18
+"14.04.2015","countries","Belarus","",15
+"14.04.2015","countries","USA","",14
+"14.04.2015","countries","France","",7
+"14.04.2015","countries","Italy","",2
+"14.04.2015","countries","Ghana","",2
+"14.04.2015","countries","Germany","",1
+"14.04.2015","countries","Turkey","",1
+"14.04.2015","countries","Norway","",1
+"14.04.2015","countries","Armenia","",1
+"14.04.2015","countries","Moldova","",1
+"14.04.2015","countries","India","",1
+"14.04.2015","countries","Iraq","",1
+"14.04.2015","countries","Czech Republic","",1
+"14.04.2015","countries","Canada","",1
+"14.04.2015","countries","Vietnam","",1
+"14.04.2015","sections","Discussion board","",22
+"14.04.2015","sections","Videos","",2
+"14.04.2015","sections","Photos","",4
+"14.04.2015","activity","Wall posts","",7
+"14.04.2015","activity","Photo comments","",11
+"14.04.2015","feedback","Like","",79
+"14.04.2015","feedback","Share","",4
+"14.04.2015","feedback","Comments","",31
+"14.04.2015","members","New members","",21
+"14.04.2015","members","Members lost","",24
+"14.04.2015","ads","Visitors from ads","",20
+"13.04.2015","views","","",884
+"13.04.2015","visitors","","",507
+"13.04.2015","gender","F","",125
+"13.04.2015","gender","M","",280
+"13.04.2015","age","1-18","",39
+"13.04.2015","age","18-21","",68
+"13.04.2015","age","21-24","",69
+"13.04.2015","age","24-27","",60
+"13.04.2015","age","27-30","",33
+"13.04.2015","age","30-35","",47
+"13.04.2015","age","35-45","",34
+"13.04.2015","age","45+","",15
+"13.04.2015","gender_age","F","1-18",10
+"13.04.2015","gender_age","F","18-21",23
+"13.04.2015","gender_age","F","21-24",24
+"13.04.2015","gender_age","F","24-27",18
+"13.04.2015","gender_age","F","27-30",7
+"13.04.2015","gender_age","F","30-35",14
+"13.04.2015","gender_age","F","35-45",5
+"13.04.2015","gender_age","F","45+",7
+"13.04.2015","gender_age","M","1-18",29
+"13.04.2015","gender_age","M","18-21",45
+"13.04.2015","gender_age","M","21-24",45
+"13.04.2015","gender_age","M","24-27",42
+"13.04.2015","gender_age","M","27-30",26
+"13.04.2015","gender_age","M","30-35",33
+"13.04.2015","gender_age","M","35-45",29
+"13.04.2015","gender_age","M","45+",8
+"13.04.2015","cities","Moscow","",42
+"13.04.2015","cities","Saint Petersburg","",17
+"13.04.2015","cities","Nizhny Novgorod","",10
+"13.04.2015","cities","Perm","",9
+"13.04.2015","cities","Omsk","",9
+"13.04.2015","cities","Yekaterinburg","",7
+"13.04.2015","cities","Novosibirsk","",6
+"13.04.2015","cities","Tyumen","",4
+"13.04.2015","cities","Naberezhnye Chelny","",4
+"13.04.2015","cities","Krasnoyarsk","",4
+"13.04.2015","cities","Kaluga","",4
+"13.04.2015","cities","Mariupol","",3
+"13.04.2015","cities","Kiev","",3
+"13.04.2015","cities","Kemerovo","",3
+"13.04.2015","cities","Minsk ","",3
+"13.04.2015","cities","Krasnodar","",3
+"13.04.2015","cities","Surgut","",2
+"13.04.2015","cities","Ulan-Ude","",2
+"13.04.2015","cities","Tolyatti","",2
+"13.04.2015","cities","Brest","",2
+"13.04.2015","cities","Kharkiv","",2
+"13.04.2015","cities","Novocherkassk","",2
+"13.04.2015","cities","Baku","",2
+"13.04.2015","cities","Kirovograd","",2
+"13.04.2015","cities","Abakan","",2
+"13.04.2015","countries","Russia","",390
+"13.04.2015","countries","Ukraine","",42
+"13.04.2015","countries","Kazakhstan","",19
+"13.04.2015","countries","Belarus","",16
+"13.04.2015","countries","USA","",15
+"13.04.2015","countries","Germany","",6
+"13.04.2015","countries","France","",4
+"13.04.2015","countries","Azerbaijan","",3
+"13.04.2015","countries","Japan","",2
+"13.04.2015","countries","Moldova","",2
+"13.04.2015","countries","Netherlands","",1
+"13.04.2015","countries","United Kingdom","",1
+"13.04.2015","countries","Georgia","",1
+"13.04.2015","countries","Uzbekistan","",1
+"13.04.2015","countries","Belgium","",1
+"13.04.2015","countries","Taiwan","",1
+"13.04.2015","countries","Canada","",1
+"13.04.2015","countries","Singapore","",1
+"13.04.2015","sections","Discussion board","",33
+"13.04.2015","sections","Videos","",2
+"13.04.2015","sections","Photos","",3
+"13.04.2015","activity","Wall posts","",3
+"13.04.2015","activity","Photo comments","",15
+"13.04.2015","activity","Discussion comments","",2
+"13.04.2015","feedback","Like","",87
+"13.04.2015","feedback","Share","",14
+"13.04.2015","feedback","Comments","",43
+"13.04.2015","members","New members","",21
+"13.04.2015","members","Members lost","",30
+"13.04.2015","ads","Visitors from ads","",40
+"12.04.2015","views","","",750
+"12.04.2015","visitors","","",370
+"12.04.2015","gender","F","",50
+"12.04.2015","gender","M","",258
+"12.04.2015","age","1-18","",39
+"12.04.2015","age","18-21","",48
+"12.04.2015","age","21-24","",35
+"12.04.2015","age","24-27","",44
+"12.04.2015","age","27-30","",36
+"12.04.2015","age","30-35","",29
+"12.04.2015","age","35-45","",26
+"12.04.2015","age","45+","",24
+"12.04.2015","gender_age","F","1-18",5
+"12.04.2015","gender_age","F","18-21",7
+"12.04.2015","gender_age","F","21-24",6
+"12.04.2015","gender_age","F","24-27",6
+"12.04.2015","gender_age","F","27-30",5
+"12.04.2015","gender_age","F","30-35",5
+"12.04.2015","gender_age","F","35-45",2
+"12.04.2015","gender_age","F","45+",8
+"12.04.2015","gender_age","M","1-18",34
+"12.04.2015","gender_age","M","18-21",41
+"12.04.2015","gender_age","M","21-24",29
+"12.04.2015","gender_age","M","24-27",38
+"12.04.2015","gender_age","M","27-30",31
+"12.04.2015","gender_age","M","30-35",24
+"12.04.2015","gender_age","M","35-45",24
+"12.04.2015","gender_age","M","45+",16
+"12.04.2015","cities","Moscow","",34
+"12.04.2015","cities","Saint Petersburg","",14
+"12.04.2015","cities","Novosibirsk","",6
+"12.04.2015","cities","Perm","",6
+"12.04.2015","cities","Tyumen","",4
+"12.04.2015","cities","Penza","",4
+"12.04.2015","cities","Lipetsk","",4
+"12.04.2015","cities","Kiev","",4
+"12.04.2015","cities","Cheboxary","",4
+"12.04.2015","cities","Kemerovo","",3
+"12.04.2015","cities","Volgograd","",3
+"12.04.2015","cities","Ryazan","",3
+"12.04.2015","cities","Omsk","",3
+"12.04.2015","cities","Minsk ","",3
+"12.04.2015","cities","Nizhnevartovsk","",2
+"12.04.2015","cities","Donetsk","",2
+"12.04.2015","cities","Barnaul","",2
+"12.04.2015","cities","Naberezhnye Chelny","",2
+"12.04.2015","cities","Kharkiv","",2
+"12.04.2015","cities","Kirovograd","",2
+"12.04.2015","cities","Sterlitamak","",2
+"12.04.2015","cities","Kaluga","",2
+"12.04.2015","cities","Dnipropetrovsk","",2
+"12.04.2015","cities","Krasnoyarsk","",2
+"12.04.2015","cities","Gadyach","",2
+"12.04.2015","countries","Russia","",280
+"12.04.2015","countries","Ukraine","",36
+"12.04.2015","countries","Belarus","",19
+"12.04.2015","countries","Kazakhstan","",10
+"12.04.2015","countries","USA","",8
+"12.04.2015","countries","Lithuania","",3
+"12.04.2015","countries","Norway","",2
+"12.04.2015","countries","Japan","",2
+"12.04.2015","countries","Azerbaijan","",2
+"12.04.2015","countries","Colombia","",1
+"12.04.2015","countries","Bangladesh","",1
+"12.04.2015","countries","China","",1
+"12.04.2015","countries","Greece","",1
+"12.04.2015","countries","","",1
+"12.04.2015","countries","Saudi Arabia","",1
+"12.04.2015","countries","Slovakia","",1
+"12.04.2015","countries","Sweden","",1
+"12.04.2015","sections","Discussion board","",44
+"12.04.2015","sections","Videos","",2
+"12.04.2015","sections","Photos","",1
+"12.04.2015","activity","Wall posts","",12
+"12.04.2015","activity","Photo comments","",22
+"12.04.2015","activity","Discussion comments","",4
+"12.04.2015","feedback","Like","",100
+"12.04.2015","feedback","Share","",13
+"12.04.2015","feedback","Comments","",65
+"12.04.2015","members","New members","",21
+"12.04.2015","members","Members lost","",19
+"11.04.2015","views","","",643
+"11.04.2015","visitors","","",360
+"11.04.2015","gender","F","",56
+"11.04.2015","gender","M","",221
+"11.04.2015","age","1-18","",36
+"11.04.2015","age","18-21","",43
+"11.04.2015","age","21-24","",43
+"11.04.2015","age","24-27","",34
+"11.04.2015","age","27-30","",28
+"11.04.2015","age","30-35","",23
+"11.04.2015","age","35-45","",25
+"11.04.2015","age","45+","",19
+"11.04.2015","gender_age","F","1-18",10
+"11.04.2015","gender_age","F","18-21",6
+"11.04.2015","gender_age","F","21-24",14
+"11.04.2015","gender_age","F","24-27",3
+"11.04.2015","gender_age","F","27-30",4
+"11.04.2015","gender_age","F","30-35",2
+"11.04.2015","gender_age","F","35-45",5
+"11.04.2015","gender_age","F","45+",5
+"11.04.2015","gender_age","M","1-18",26
+"11.04.2015","gender_age","M","18-21",37
+"11.04.2015","gender_age","M","21-24",29
+"11.04.2015","gender_age","M","24-27",31
+"11.04.2015","gender_age","M","27-30",24
+"11.04.2015","gender_age","M","30-35",21
+"11.04.2015","gender_age","M","35-45",20
+"11.04.2015","gender_age","M","45+",14
+"11.04.2015","cities","Moscow","",27
+"11.04.2015","cities","Saint Petersburg","",9
+"11.04.2015","cities","Volgograd","",5
+"11.04.2015","cities","Kiev","",4
+"11.04.2015","cities","Nizhny Novgorod","",4
+"11.04.2015","cities","Samara","",4
+"11.04.2015","cities","Yekaterinburg","",4
+"11.04.2015","cities","Naberezhnye Chelny","",4
+"11.04.2015","cities","Kaluga","",3
+"11.04.2015","cities","Kazan","",3
+"11.04.2015","cities","Tyumen","",3
+"11.04.2015","cities","Lipetsk","",3
+"11.04.2015","cities","Donetsk","",2
+"11.04.2015","cities","Astana","",2
+"11.04.2015","cities","Krasnodar","",2
+"11.04.2015","cities","Gadyach","",2
+"11.04.2015","cities","Kirovograd","",2
+"11.04.2015","cities","Perm","",2
+"11.04.2015","cities","Sterlitamak","",2
+"11.04.2015","cities","Ivanovo","",2
+"11.04.2015","cities","Smolensk","",2
+"11.04.2015","cities","Nizhnevartovsk","",2
+"11.04.2015","cities","Shymkent","",2
+"11.04.2015","cities","Almaty","",2
+"11.04.2015","cities","Petrozavodsk","",2
+"11.04.2015","countries","Russia","",268
+"11.04.2015","countries","Ukraine","",31
+"11.04.2015","countries","Kazakhstan","",18
+"11.04.2015","countries","Belarus","",12
+"11.04.2015","countries","USA","",7
+"11.04.2015","countries","Canada","",5
+"11.04.2015","countries","Azerbaijan","",3
+"11.04.2015","countries","Japan","",3
+"11.04.2015","countries","China","",2
+"11.04.2015","countries","Netherlands","",2
+"11.04.2015","countries","Germany","",1
+"11.04.2015","countries","Norway","",1
+"11.04.2015","countries","South Korea","",1
+"11.04.2015","countries","Spain","",1
+"11.04.2015","countries","Lithuania","",1
+"11.04.2015","countries","Tunisia","",1
+"11.04.2015","countries","France","",1
+"11.04.2015","countries","Iraq","",1
+"11.04.2015","countries","Armenia","",1
+"11.04.2015","sections","Discussion board","",19
+"11.04.2015","sections","Videos","",2
+"11.04.2015","sections","Photos","",1
+"11.04.2015","activity","Wall posts","",8
+"11.04.2015","activity","Photo comments","",10
+"11.04.2015","activity","Discussion comments","",6
+"11.04.2015","feedback","Like","",43
+"11.04.2015","feedback","Share","",4
+"11.04.2015","feedback","Comments","",23
+"11.04.2015","members","New members","",15
+"11.04.2015","members","Members lost","",24
+"10.04.2015","views","","",928
+"10.04.2015","visitors","","",501
+"10.04.2015","gender","F","",62
+"10.04.2015","gender","M","",356
+"10.04.2015","age","1-18","",37
+"10.04.2015","age","18-21","",62
+"10.04.2015","age","21-24","",68
+"10.04.2015","age","24-27","",67
+"10.04.2015","age","27-30","",54
+"10.04.2015","age","30-35","",36
+"10.04.2015","age","35-45","",29
+"10.04.2015","age","45+","",23
+"10.04.2015","gender_age","F","1-18",8
+"10.04.2015","gender_age","F","18-21",3
+"10.04.2015","gender_age","F","21-24",13
+"10.04.2015","gender_age","F","24-27",10
+"10.04.2015","gender_age","F","27-30",6
+"10.04.2015","gender_age","F","30-35",5
+"10.04.2015","gender_age","F","35-45",3
+"10.04.2015","gender_age","F","45+",3
+"10.04.2015","gender_age","M","1-18",29
+"10.04.2015","gender_age","M","18-21",59
+"10.04.2015","gender_age","M","21-24",55
+"10.04.2015","gender_age","M","24-27",57
+"10.04.2015","gender_age","M","27-30",48
+"10.04.2015","gender_age","M","30-35",31
+"10.04.2015","gender_age","M","35-45",26
+"10.04.2015","gender_age","M","45+",20
+"10.04.2015","cities","Moscow","",57
+"10.04.2015","cities","Saint Petersburg","",16
+"10.04.2015","cities","Novosibirsk","",8
+"10.04.2015","cities","Kazan","",7
+"10.04.2015","cities","Tyumen","",5
+"10.04.2015","cities","Krasnoyarsk","",5
+"10.04.2015","cities","Kaluga","",5
+"10.04.2015","cities","Chelyabinsk","",5
+"10.04.2015","cities","Pskov","",4
+"10.04.2015","cities","Nizhny Novgorod","",4
+"10.04.2015","cities","Ufa","",4
+"10.04.2015","cities","Volgograd","",4
+"10.04.2015","cities","Cheboxary","",4
+"10.04.2015","cities","Simferopol","",4
+"10.04.2015","cities","Ulyanovsk","",4
+"10.04.2015","cities","Samara","",4
+"10.04.2015","cities","Yaroslavl","",3
+"10.04.2015","cities","Donetsk","",3
+"10.04.2015","cities","Naberezhnye Chelny","",3
+"10.04.2015","cities","Krasnodar","",3
+"10.04.2015","cities","Cherepovets","",3
+"10.04.2015","cities","Ryazan","",3
+"10.04.2015","cities","Voronezh","",3
+"10.04.2015","cities","Ulan-Ude","",2
+"10.04.2015","cities","Khabarovsk","",2
+"10.04.2015","countries","Russia","",402
+"10.04.2015","countries","Ukraine","",46
+"10.04.2015","countries","Kazakhstan","",14
+"10.04.2015","countries","USA","",12
+"10.04.2015","countries","Belarus","",12
+"10.04.2015","countries","Serbia","",2
+"10.04.2015","countries","Moldova","",2
+"10.04.2015","countries","Germany","",2
+"10.04.2015","countries","Norway","",1
+"10.04.2015","countries","Spain","",1
+"10.04.2015","countries","","",1
+"10.04.2015","countries","Latvia","",1
+"10.04.2015","countries","Netherlands","",1
+"10.04.2015","countries","Bulgaria","",1
+"10.04.2015","countries","Azerbaijan","",1
+"10.04.2015","countries","Poland","",1
+"10.04.2015","countries","Czech Republic","",1
+"10.04.2015","sections","Discussion board","",36
+"10.04.2015","sections","Videos","",3
+"10.04.2015","sections","Photos","",4
+"10.04.2015","activity","Wall posts","",4
+"10.04.2015","activity","Photo comments","",10
+"10.04.2015","activity","Discussion comments","",8
+"10.04.2015","feedback","Like","",62
+"10.04.2015","feedback","Share","",12
+"10.04.2015","feedback","Comments","",37
+"10.04.2015","members","New members","",29
+"10.04.2015","members","Members lost","",12
+"10.04.2015","ads","New members from ads","",6
+"10.04.2015","ads","Visitors from ads","",115
+"09.04.2015","views","","",912
+"09.04.2015","visitors","","",557
+"09.04.2015","gender","F","",73
+"09.04.2015","gender","M","",372
+"09.04.2015","age","1-18","",51
+"09.04.2015","age","18-21","",72
+"09.04.2015","age","21-24","",64
+"09.04.2015","age","24-27","",68
+"09.04.2015","age","27-30","",50
+"09.04.2015","age","30-35","",46
+"09.04.2015","age","35-45","",26
+"09.04.2015","age","45+","",25
+"09.04.2015","gender_age","F","1-18",13
+"09.04.2015","gender_age","F","18-21",8
+"09.04.2015","gender_age","F","21-24",13
+"09.04.2015","gender_age","F","24-27",10
+"09.04.2015","gender_age","F","27-30",8
+"09.04.2015","gender_age","F","30-35",8
+"09.04.2015","gender_age","F","35-45",1
+"09.04.2015","gender_age","F","45+",3
+"09.04.2015","gender_age","M","1-18",38
+"09.04.2015","gender_age","M","18-21",64
+"09.04.2015","gender_age","M","21-24",51
+"09.04.2015","gender_age","M","24-27",58
+"09.04.2015","gender_age","M","27-30",42
+"09.04.2015","gender_age","M","30-35",38
+"09.04.2015","gender_age","M","35-45",25
+"09.04.2015","gender_age","M","45+",22
+"09.04.2015","cities","Moscow","",55
+"09.04.2015","cities","Saint Petersburg","",26
+"09.04.2015","cities","Kazan","",7
+"09.04.2015","cities","Samara","",5
+"09.04.2015","cities","Nizhny Novgorod","",5
+"09.04.2015","cities","Rostov-on-Don","",5
+"09.04.2015","cities","Naberezhnye Chelny","",4
+"09.04.2015","cities","Cheboxary","",4
+"09.04.2015","cities","Novosibirsk","",4
+"09.04.2015","cities","Ryazan","",4
+"09.04.2015","cities","Ufa","",3
+"09.04.2015","cities","Khabarovsk","",3
+"09.04.2015","cities","Yaroslavl","",3
+"09.04.2015","cities","Izhevsk","",3
+"09.04.2015","cities","Donetsk","",3
+"09.04.2015","cities","Kharkiv","",3
+"09.04.2015","cities","Saratov","",3
+"09.04.2015","cities","Irkutsk","",2
+"09.04.2015","cities","Nizhnevartovsk","",2
+"09.04.2015","cities","Maykop","",2
+"09.04.2015","cities","Kanash","",2
+"09.04.2015","cities","Kirov","",2
+"09.04.2015","cities","Kiev","",2
+"09.04.2015","cities","Kaluga","",2
+"09.04.2015","cities","Lipetsk","",2
+"09.04.2015","countries","Russia","",433
+"09.04.2015","countries","Ukraine","",43
+"09.04.2015","countries","USA","",15
+"09.04.2015","countries","Belarus","",14
+"09.04.2015","countries","Canada","",13
+"09.04.2015","countries","Switzerland","",8
+"09.04.2015","countries","Kazakhstan","",8
+"09.04.2015","countries","India","",4
+"09.04.2015","countries","Poland","",3
+"09.04.2015","countries","Germany","",3
+"09.04.2015","countries","Uzbekistan","",3
+"09.04.2015","countries","Moldova","",3
+"09.04.2015","countries","Azerbaijan","",2
+"09.04.2015","countries","","",1
+"09.04.2015","countries","Norway","",1
+"09.04.2015","countries","Kyrgyzstan","",1
+"09.04.2015","countries","Latvia","",1
+"09.04.2015","countries","Netherlands","",1
+"09.04.2015","sections","Discussion board","",37
+"09.04.2015","sections","Videos","",7
+"09.04.2015","sections","Photos","",4
+"09.04.2015","activity","Wall posts","",2
+"09.04.2015","activity","Photo comments","",31
+"09.04.2015","activity","Discussion comments","",9
+"09.04.2015","feedback","Like","",73
+"09.04.2015","feedback","Share","",5
+"09.04.2015","feedback","Comments","",85
+"09.04.2015","members","New members","",30
+"09.04.2015","members","Members lost","",28
+"09.04.2015","ads","New members from ads","",16
+"09.04.2015","ads","Visitors from ads","",128
+"08.04.2015","views","","",739
+"08.04.2015","visitors","","",392
+"08.04.2015","gender","F","",64
+"08.04.2015","gender","M","",227
+"08.04.2015","age","1-18","",37
+"08.04.2015","age","18-21","",38
+"08.04.2015","age","21-24","",36
+"08.04.2015","age","24-27","",47
+"08.04.2015","age","27-30","",32
+"08.04.2015","age","30-35","",27
+"08.04.2015","age","35-45","",18
+"08.04.2015","age","45+","",17
+"08.04.2015","gender_age","F","1-18",14
+"08.04.2015","gender_age","F","18-21",5
+"08.04.2015","gender_age","F","21-24",5
+"08.04.2015","gender_age","F","24-27",13
+"08.04.2015","gender_age","F","27-30",6
+"08.04.2015","gender_age","F","30-35",2
+"08.04.2015","gender_age","F","35-45",3
+"08.04.2015","gender_age","F","45+",4
+"08.04.2015","gender_age","M","1-18",23
+"08.04.2015","gender_age","M","18-21",33
+"08.04.2015","gender_age","M","21-24",31
+"08.04.2015","gender_age","M","24-27",34
+"08.04.2015","gender_age","M","27-30",26
+"08.04.2015","gender_age","M","30-35",25
+"08.04.2015","gender_age","M","35-45",15
+"08.04.2015","gender_age","M","45+",13
+"08.04.2015","cities","Moscow","",37
+"08.04.2015","cities","Saint Petersburg","",6
+"08.04.2015","cities","Krasnodar","",5
+"08.04.2015","cities","Tyumen","",4
+"08.04.2015","cities","Novosibirsk","",4
+"08.04.2015","cities","Naberezhnye Chelny","",3
+"08.04.2015","cities","Abakan","",3
+"08.04.2015","cities","Chelyabinsk","",3
+"08.04.2015","cities","Cheboxary","",3
+"08.04.2015","cities","Petrozavodsk","",3
+"08.04.2015","cities","Syktyvkar","",3
+"08.04.2015","cities","Vitebsk","",3
+"08.04.2015","cities","Kaluga","",3
+"08.04.2015","cities","Donetsk","",2
+"08.04.2015","cities","Pskov","",2
+"08.04.2015","cities","Komsomolsk-Na-Amure","",2
+"08.04.2015","cities","Korolyov","",2
+"08.04.2015","cities","Berlin","",2
+"08.04.2015","cities","Tomsk","",2
+"08.04.2015","cities","Orenburg","",2
+"08.04.2015","cities","Perm","",2
+"08.04.2015","cities","Barnaul","",2
+"08.04.2015","cities","Gadyach","",2
+"08.04.2015","cities","Kirovograd","",2
+"08.04.2015","cities","Boston","",2
+"08.04.2015","countries","Russia","",289
+"08.04.2015","countries","Ukraine","",38
+"08.04.2015","countries","USA","",17
+"08.04.2015","countries","Belarus","",17
+"08.04.2015","countries","Kazakhstan","",12
+"08.04.2015","countries","India","",4
+"08.04.2015","countries","Germany","",3
+"08.04.2015","countries","Ghana","",1
+"08.04.2015","countries","Netherlands","",1
+"08.04.2015","countries","Moldova","",1
+"08.04.2015","countries","Tajikistan","",1
+"08.04.2015","countries","Norway","",1
+"08.04.2015","countries","Czech Republic","",1
+"08.04.2015","countries","Ireland","",1
+"08.04.2015","countries","Armenia","",1
+"08.04.2015","countries","Latvia","",1
+"08.04.2015","countries","China","",1
+"08.04.2015","countries","Kyrgyzstan","",1
+"08.04.2015","countries","Spain","",1
+"08.04.2015","sections","Discussion board","",27
+"08.04.2015","sections","Audio files","",1
+"08.04.2015","sections","Videos","",4
+"08.04.2015","sections","Photos","",9
+"08.04.2015","activity","Wall posts","",10
+"08.04.2015","activity","Photo comments","",29
+"08.04.2015","activity","Discussion comments","",4
+"08.04.2015","feedback","Like","",26
+"08.04.2015","feedback","Share","",2
+"08.04.2015","feedback","Comments","",51
+"08.04.2015","members","New members","",14
+"08.04.2015","members","Members lost","",13
+"07.04.2015","views","","",947
+"07.04.2015","visitors","","",428
+"07.04.2015","gender","F","",68
+"07.04.2015","gender","M","",267
+"07.04.2015","age","1-18","",40
+"07.04.2015","age","18-21","",49
+"07.04.2015","age","21-24","",50
+"07.04.2015","age","24-27","",39
+"07.04.2015","age","27-30","",47
+"07.04.2015","age","30-35","",28
+"07.04.2015","age","35-45","",24
+"07.04.2015","age","45+","",21
+"07.04.2015","gender_age","F","1-18",4
+"07.04.2015","gender_age","F","18-21",8
+"07.04.2015","gender_age","F","21-24",10
+"07.04.2015","gender_age","F","24-27",8
+"07.04.2015","gender_age","F","27-30",8
+"07.04.2015","gender_age","F","30-35",5
+"07.04.2015","gender_age","F","35-45",9
+"07.04.2015","gender_age","F","45+",4
+"07.04.2015","gender_age","M","1-18",36
+"07.04.2015","gender_age","M","18-21",41
+"07.04.2015","gender_age","M","21-24",40
+"07.04.2015","gender_age","M","24-27",31
+"07.04.2015","gender_age","M","27-30",39
+"07.04.2015","gender_age","M","30-35",23
+"07.04.2015","gender_age","M","35-45",15
+"07.04.2015","gender_age","M","45+",17
+"07.04.2015","cities","Moscow","",41
+"07.04.2015","cities","Saint Petersburg","",13
+"07.04.2015","cities","Yekaterinburg","",11
+"07.04.2015","cities","Nizhny Novgorod","",6
+"07.04.2015","cities","Lviv","",4
+"07.04.2015","cities","Almaty","",4
+"07.04.2015","cities","Kirovograd","",3
+"07.04.2015","cities","Vitebsk","",3
+"07.04.2015","cities","Minsk ","",3
+"07.04.2015","cities","Naberezhnye Chelny","",3
+"07.04.2015","cities","Perm","",3
+"07.04.2015","cities","Omsk","",3
+"07.04.2015","cities","Rostov-on-Don","",3
+"07.04.2015","cities","Lipetsk","",3
+"07.04.2015","cities","Syktyvkar","",3
+"07.04.2015","cities","Ufa","",3
+"07.04.2015","cities","Yaroslavl","",2
+"07.04.2015","cities","Boston","",2
+"07.04.2015","cities","Novy Urengoy","",2
+"07.04.2015","cities","Bryansk","",2
+"07.04.2015","cities","Kaliningrad","",2
+"07.04.2015","cities","Ulyanovsk","",2
+"07.04.2015","cities","Kaluga","",2
+"07.04.2015","cities","Volgograd","",2
+"07.04.2015","cities","Alexandrov","",2
+"07.04.2015","countries","Russia","",305
+"07.04.2015","countries","Ukraine","",49
+"07.04.2015","countries","Belarus","",23
+"07.04.2015","countries","Kazakhstan","",17
+"07.04.2015","countries","USA","",14
+"07.04.2015","countries","Canada","",8
+"07.04.2015","countries","Germany","",2
+"07.04.2015","countries","","",2
+"07.04.2015","countries","Moldova","",2
+"07.04.2015","countries","Tajikistan","",1
+"07.04.2015","countries","Latvia","",1
+"07.04.2015","countries","Sweden","",1
+"07.04.2015","countries","Azerbaijan","",1
+"07.04.2015","countries","","",1
+"07.04.2015","countries","Ghana","",1
+"07.04.2015","sections","Discussion board","",31
+"07.04.2015","sections","Videos","",6
+"07.04.2015","sections","Photos","",4
+"07.04.2015","activity","Wall posts","",9
+"07.04.2015","activity","Photo comments","",29
+"07.04.2015","activity","Discussion comments","",4
+"07.04.2015","feedback","Like","",110
+"07.04.2015","feedback","Share","",17
+"07.04.2015","feedback","Comments","",70
+"07.04.2015","members","New members","",20
+"07.04.2015","members","Members lost","",23
+"06.04.2015","views","","",865
+"06.04.2015","visitors","","",415
+"06.04.2015","gender","F","",68
+"06.04.2015","gender","M","",254
+"06.04.2015","age","1-18","",38
+"06.04.2015","age","18-21","",45
+"06.04.2015","age","21-24","",59
+"06.04.2015","age","24-27","",48
+"06.04.2015","age","27-30","",35
+"06.04.2015","age","30-35","",24
+"06.04.2015","age","35-45","",21
+"06.04.2015","age","45+","",18
+"06.04.2015","gender_age","F","1-18",8
+"06.04.2015","gender_age","F","18-21",8
+"06.04.2015","gender_age","F","21-24",13
+"06.04.2015","gender_age","F","24-27",10
+"06.04.2015","gender_age","F","27-30",7
+"06.04.2015","gender_age","F","30-35",5
+"06.04.2015","gender_age","F","35-45",2
+"06.04.2015","gender_age","F","45+",5
+"06.04.2015","gender_age","M","1-18",30
+"06.04.2015","gender_age","M","18-21",37
+"06.04.2015","gender_age","M","21-24",46
+"06.04.2015","gender_age","M","24-27",38
+"06.04.2015","gender_age","M","27-30",28
+"06.04.2015","gender_age","M","30-35",19
+"06.04.2015","gender_age","M","35-45",19
+"06.04.2015","gender_age","M","45+",12
+"06.04.2015","cities","Moscow","",38
+"06.04.2015","cities","Saint Petersburg","",13
+"06.04.2015","cities","Kiev","",7
+"06.04.2015","cities","Nizhny Novgorod","",5
+"06.04.2015","cities","Naberezhnye Chelny","",5
+"06.04.2015","cities","Kaluga","",5
+"06.04.2015","cities","Chelyabinsk","",5
+"06.04.2015","cities","Cheboxary","",4
+"06.04.2015","cities","Perm","",4
+"06.04.2015","cities","Kemerovo","",4
+"06.04.2015","cities","Kazan","",4
+"06.04.2015","cities","Tyumen","",3
+"06.04.2015","cities","Barnaul","",3
+"06.04.2015","cities","Orenburg","",3
+"06.04.2015","cities","Mogilev","",3
+"06.04.2015","cities","Astana","",2
+"06.04.2015","cities","Volgograd","",2
+"06.04.2015","cities","Sochi","",2
+"06.04.2015","cities","Brest","",2
+"06.04.2015","cities","Izhevsk","",2
+"06.04.2015","cities","Kirovograd","",2
+"06.04.2015","cities","Nizhnevartovsk","",2
+"06.04.2015","cities","Boston","",2
+"06.04.2015","cities","Sterlitamak","",2
+"06.04.2015","cities","Yaroslavl","",2
+"06.04.2015","countries","Russia","",296
+"06.04.2015","countries","Ukraine","",36
+"06.04.2015","countries","Belarus","",22
+"06.04.2015","countries","USA","",22
+"06.04.2015","countries","Kazakhstan","",14
+"06.04.2015","countries","Germany","",6
+"06.04.2015","countries","Netherlands","",2
+"06.04.2015","countries","Czech Republic","",2
+"06.04.2015","countries","Italy","",2
+"06.04.2015","countries","Georgia","",1
+"06.04.2015","countries","Turkmenistan","",1
+"06.04.2015","countries","China","",1
+"06.04.2015","countries","Lithuania","",1
+"06.04.2015","countries","Moldova","",1
+"06.04.2015","countries","Greece","",1
+"06.04.2015","countries","Japan","",1
+"06.04.2015","countries","Brazil","",1
+"06.04.2015","countries","Sweden","",1
+"06.04.2015","countries","Canada","",1
+"06.04.2015","countries","Latvia","",1
+"06.04.2015","countries","","",1
+"06.04.2015","countries","Turkey","",1
+"06.04.2015","sections","Discussion board","",53
+"06.04.2015","sections","Videos","",5
+"06.04.2015","sections","Photos","",5
+"06.04.2015","activity","Wall posts","",9
+"06.04.2015","activity","Photo comments","",33
+"06.04.2015","activity","Discussion comments","",5
+"06.04.2015","feedback","Like","",47
+"06.04.2015","feedback","Share","",4
+"06.04.2015","feedback","Comments","",110
+"06.04.2015","members","New members","",24
+"06.04.2015","members","Members lost","",28
+"05.04.2015","views","","",834
+"05.04.2015","visitors","","",435
+"05.04.2015","gender","F","",72
+"05.04.2015","gender","M","",265
+"05.04.2015","age","1-18","",38
+"05.04.2015","age","18-21","",54
+"05.04.2015","age","21-24","",54
+"05.04.2015","age","24-27","",42
+"05.04.2015","age","27-30","",31
+"05.04.2015","age","30-35","",26
+"05.04.2015","age","35-45","",27
+"05.04.2015","age","45+","",31
+"05.04.2015","gender_age","F","1-18",9
+"05.04.2015","gender_age","F","18-21",10
+"05.04.2015","gender_age","F","21-24",13
+"05.04.2015","gender_age","F","24-27",8
+"05.04.2015","gender_age","F","27-30",9
+"05.04.2015","gender_age","F","30-35",1
+"05.04.2015","gender_age","F","35-45",5
+"05.04.2015","gender_age","F","45+",7
+"05.04.2015","gender_age","M","1-18",29
+"05.04.2015","gender_age","M","18-21",44
+"05.04.2015","gender_age","M","21-24",41
+"05.04.2015","gender_age","M","24-27",34
+"05.04.2015","gender_age","M","27-30",22
+"05.04.2015","gender_age","M","30-35",25
+"05.04.2015","gender_age","M","35-45",22
+"05.04.2015","gender_age","M","45+",24
+"05.04.2015","cities","Moscow","",38
+"05.04.2015","cities","Saint Petersburg","",14
+"05.04.2015","cities","Almaty","",6
+"05.04.2015","cities","Kiev","",6
+"05.04.2015","cities","Kazan","",6
+"05.04.2015","cities","Minsk ","",5
+"05.04.2015","cities","Nizhny Novgorod","",5
+"05.04.2015","cities","Tyumen","",3
+"05.04.2015","cities","Boston","",3
+"05.04.2015","cities","Volgograd","",3
+"05.04.2015","cities","Lipetsk","",3
+"05.04.2015","cities","Kaluga","",3
+"05.04.2015","cities","Perm","",3
+"05.04.2015","cities","Tomsk","",3
+"05.04.2015","cities","Kemerovo","",3
+"05.04.2015","cities","Krasnodar","",3
+"05.04.2015","cities","Yaroslavl","",3
+"05.04.2015","cities","Chelyabinsk","",2
+"05.04.2015","cities","Bratsk","",2
+"05.04.2015","cities","Novocherkassk","",2
+"05.04.2015","cities","Donetsk","",2
+"05.04.2015","cities","Naberezhnye Chelny","",2
+"05.04.2015","cities","Orsk","",2
+"05.04.2015","cities","Alexandrov","",2
+"05.04.2015","cities","Rameshki","",2
+"05.04.2015","countries","Russia","",294
+"05.04.2015","countries","Ukraine","",48
+"05.04.2015","countries","Kazakhstan","",25
+"05.04.2015","countries","USA","",24
+"05.04.2015","countries","Belarus","",17
+"05.04.2015","countries","France","",8
+"05.04.2015","countries","Germany","",6
+"05.04.2015","countries","China","",4
+"05.04.2015","countries","Azerbaijan","",2
+"05.04.2015","countries","Netherlands","",1
+"05.04.2015","countries","Bolivia","",1
+"05.04.2015","countries","United Kingdom","",1
+"05.04.2015","countries","Poland","",1
+"05.04.2015","countries","Hungary","",1
+"05.04.2015","countries","Turkey","",1
+"05.04.2015","countries","Israel","",1
+"05.04.2015","sections","Discussion board","",22
+"05.04.2015","sections","Audio files","",1
+"05.04.2015","sections","Videos","",7
+"05.04.2015","sections","Photos","",4
+"05.04.2015","activity","Wall posts","",9
+"05.04.2015","activity","Photo comments","",28
+"05.04.2015","activity","Discussion comments","",1
+"05.04.2015","feedback","Like","",16
+"05.04.2015","feedback","Share","",1
+"05.04.2015","feedback","Comments","",85
+"05.04.2015","members","New members","",22
+"05.04.2015","members","Members lost","",24
+"04.04.2015","views","","",833
+"04.04.2015","visitors","","",423
+"04.04.2015","gender","F","",66
+"04.04.2015","gender","M","",261
+"04.04.2015","age","1-18","",50
+"04.04.2015","age","18-21","",43
+"04.04.2015","age","21-24","",36
+"04.04.2015","age","24-27","",39
+"04.04.2015","age","27-30","",34
+"04.04.2015","age","30-35","",28
+"04.04.2015","age","35-45","",32
+"04.04.2015","age","45+","",29
+"04.04.2015","gender_age","F","1-18",10
+"04.04.2015","gender_age","F","18-21",7
+"04.04.2015","gender_age","F","21-24",9
+"04.04.2015","gender_age","F","24-27",6
+"04.04.2015","gender_age","F","27-30",2
+"04.04.2015","gender_age","F","30-35",5
+"04.04.2015","gender_age","F","35-45",6
+"04.04.2015","gender_age","F","45+",10
+"04.04.2015","gender_age","M","1-18",40
+"04.04.2015","gender_age","M","18-21",36
+"04.04.2015","gender_age","M","21-24",27
+"04.04.2015","gender_age","M","24-27",33
+"04.04.2015","gender_age","M","27-30",32
+"04.04.2015","gender_age","M","30-35",23
+"04.04.2015","gender_age","M","35-45",26
+"04.04.2015","gender_age","M","45+",19
+"04.04.2015","cities","Moscow","",27
+"04.04.2015","cities","Saint Petersburg","",17
+"04.04.2015","cities","Chelyabinsk","",7
+"04.04.2015","cities","Volgograd","",4
+"04.04.2015","cities","Perm","",4
+"04.04.2015","cities","Minsk ","",4
+"04.04.2015","cities","Samara","",4
+"04.04.2015","cities","Cheboxary","",4
+"04.04.2015","cities","Nizhny Novgorod","",4
+"04.04.2015","cities","Donetsk","",3
+"04.04.2015","cities","Bishkek","",3
+"04.04.2015","cities","Orsk","",3
+"04.04.2015","cities","Barnaul","",3
+"04.04.2015","cities","Yakutsk","",2
+"04.04.2015","cities","Gadyach","",2
+"04.04.2015","cities","Chernovtsy","",2
+"04.04.2015","cities","Novy Urengoy","",2
+"04.04.2015","cities","Kirovograd","",2
+"04.04.2015","cities","Saransk","",2
+"04.04.2015","cities","Kaluga","",2
+"04.04.2015","cities","New York City","",2
+"04.04.2015","cities","Smolensk","",2
+"04.04.2015","cities","Zlatoust","",2
+"04.04.2015","cities","Karaganda","",2
+"04.04.2015","cities","Severomorsk","",2
+"04.04.2015","countries","Russia","",302
+"04.04.2015","countries","Ukraine","",40
+"04.04.2015","countries","USA","",22
+"04.04.2015","countries","Belarus","",17
+"04.04.2015","countries","Kazakhstan","",17
+"04.04.2015","countries","France","",8
+"04.04.2015","countries","Kyrgyzstan","",4
+"04.04.2015","countries","Germany","",3
+"04.04.2015","countries","Netherlands","",2
+"04.04.2015","countries","Sweden","",2
+"04.04.2015","countries","Azerbaijan","",1
+"04.04.2015","countries","Turkmenistan","",1
+"04.04.2015","countries","Moldova","",1
+"04.04.2015","countries","Croatia","",1
+"04.04.2015","countries","Ethiopia","",1
+"04.04.2015","countries","Armenia","",1
+"04.04.2015","sections","Discussion board","",41
+"04.04.2015","sections","Audio files","",1
+"04.04.2015","sections","Videos","",3
+"04.04.2015","sections","Photos","",3
+"04.04.2015","activity","Wall posts","",9
+"04.04.2015","activity","Photo comments","",15
+"04.04.2015","activity","Discussion comments","",1
+"04.04.2015","feedback","Like","",14
+"04.04.2015","feedback","Share","",1
+"04.04.2015","feedback","Comments","",46
+"04.04.2015","members","New members","",16
+"04.04.2015","members","Members lost","",20
+"03.04.2015","views","","",757
+"03.04.2015","visitors","","",404
+"03.04.2015","gender","F","",66
+"03.04.2015","gender","M","",255
+"03.04.2015","age","1-18","",40
+"03.04.2015","age","18-21","",49
+"03.04.2015","age","21-24","",38
+"03.04.2015","age","24-27","",49
+"03.04.2015","age","27-30","",34
+"03.04.2015","age","30-35","",27
+"03.04.2015","age","35-45","",31
+"03.04.2015","age","45+","",24
+"03.04.2015","gender_age","F","1-18",9
+"03.04.2015","gender_age","F","18-21",8
+"03.04.2015","gender_age","F","21-24",6
+"03.04.2015","gender_age","F","24-27",10
+"03.04.2015","gender_age","F","27-30",6
+"03.04.2015","gender_age","F","30-35",6
+"03.04.2015","gender_age","F","35-45",6
+"03.04.2015","gender_age","F","45+",5
+"03.04.2015","gender_age","M","1-18",31
+"03.04.2015","gender_age","M","18-21",41
+"03.04.2015","gender_age","M","21-24",32
+"03.04.2015","gender_age","M","24-27",39
+"03.04.2015","gender_age","M","27-30",28
+"03.04.2015","gender_age","M","30-35",21
+"03.04.2015","gender_age","M","35-45",25
+"03.04.2015","gender_age","M","45+",19
+"03.04.2015","cities","Moscow","",31
+"03.04.2015","cities","Nizhny Novgorod","",8
+"03.04.2015","cities","Novosibirsk","",6
+"03.04.2015","cities","Saint Petersburg","",4
+"03.04.2015","cities","Tyumen","",4
+"03.04.2015","cities","Cheboxary","",4
+"03.04.2015","cities","Saratov","",4
+"03.04.2015","cities","Kharkiv","",4
+"03.04.2015","cities","Donetsk","",4
+"03.04.2015","cities","Tula","",3
+"03.04.2015","cities","Tolyatti","",3
+"03.04.2015","cities","Penza","",3
+"03.04.2015","cities","Brest","",3
+"03.04.2015","cities","Lipetsk","",3
+"03.04.2015","cities","Yaroslavl","",2
+"03.04.2015","cities","Surgut","",2
+"03.04.2015","cities","Yekaterinburg","",2
+"03.04.2015","cities","Kaliningrad","",2
+"03.04.2015","cities","Makhachkala","",2
+"03.04.2015","cities","Boston","",2
+"03.04.2015","cities","Pskov","",2
+"03.04.2015","cities","Kirovograd","",2
+"03.04.2015","cities","Smolensk","",2
+"03.04.2015","cities","Nizhnevartovsk","",2
+"03.04.2015","cities","Karaganda","",2
+"03.04.2015","countries","Russia","",287
+"03.04.2015","countries","Ukraine","",44
+"03.04.2015","countries","Kazakhstan","",19
+"03.04.2015","countries","USA","",18
+"03.04.2015","countries","Belarus","",17
+"03.04.2015","countries","Germany","",3
+"03.04.2015","countries","Netherlands","",2
+"03.04.2015","countries","Turkmenistan","",1
+"03.04.2015","countries","Armenia","",1
+"03.04.2015","countries","Moldova","",1
+"03.04.2015","countries","Spain","",1
+"03.04.2015","countries","Turkey","",1
+"03.04.2015","countries","Uzbekistan","",1
+"03.04.2015","countries","United Arab Emirates","",1
+"03.04.2015","countries","Romania","",1
+"03.04.2015","countries","Portugal","",1
+"03.04.2015","countries","United Kingdom","",1
+"03.04.2015","countries","Belgium","",1
+"03.04.2015","countries","Pakistan","",1
+"03.04.2015","countries","Azerbaijan","",1
+"03.04.2015","countries","Canada","",1
+"03.04.2015","sections","Discussion board","",25
+"03.04.2015","sections","Photos","",7
+"03.04.2015","activity","Wall posts","",7
+"03.04.2015","activity","Photo comments","",26
+"03.04.2015","activity","Discussion comments","",2
+"03.04.2015","feedback","Like","",29
+"03.04.2015","feedback","Share","",5
+"03.04.2015","feedback","Comments","",68
+"03.04.2015","members","New members","",17
+"03.04.2015","members","Members lost","",27
+"02.04.2015","views","","",861
+"02.04.2015","visitors","","",401
+"02.04.2015","gender","F","",65
+"02.04.2015","gender","M","",246
+"02.04.2015","age","1-18","",35
+"02.04.2015","age","18-21","",43
+"02.04.2015","age","21-24","",44
+"02.04.2015","age","24-27","",50
+"02.04.2015","age","27-30","",32
+"02.04.2015","age","30-35","",36
+"02.04.2015","age","35-45","",18
+"02.04.2015","age","45+","",16
+"02.04.2015","gender_age","F","1-18",8
+"02.04.2015","gender_age","F","18-21",6
+"02.04.2015","gender_age","F","21-24",8
+"02.04.2015","gender_age","F","24-27",14
+"02.04.2015","gender_age","F","27-30",3
+"02.04.2015","gender_age","F","30-35",8
+"02.04.2015","gender_age","F","35-45",6
+"02.04.2015","gender_age","F","45+",3
+"02.04.2015","gender_age","M","1-18",27
+"02.04.2015","gender_age","M","18-21",37
+"02.04.2015","gender_age","M","21-24",36
+"02.04.2015","gender_age","M","24-27",36
+"02.04.2015","gender_age","M","27-30",29
+"02.04.2015","gender_age","M","30-35",28
+"02.04.2015","gender_age","M","35-45",12
+"02.04.2015","gender_age","M","45+",13
+"02.04.2015","cities","Moscow","",41
+"02.04.2015","cities","Yekaterinburg","",7
+"02.04.2015","cities","Perm","",6
+"02.04.2015","cities","Saint Petersburg","",6
+"02.04.2015","cities","Donetsk","",5
+"02.04.2015","cities","Saratov","",5
+"02.04.2015","cities","Minsk ","",5
+"02.04.2015","cities","Naberezhnye Chelny","",4
+"02.04.2015","cities","Kharkiv","",4
+"02.04.2015","cities","Cheboxary","",4
+"02.04.2015","cities","Boston","",3
+"02.04.2015","cities","Izhevsk","",3
+"02.04.2015","cities","Kaluga","",3
+"02.04.2015","cities","Ufa","",3
+"02.04.2015","cities","Chelyabinsk","",3
+"02.04.2015","cities","Nizhny Novgorod","",3
+"02.04.2015","cities","Belgorod","",2
+"02.04.2015","cities","Simferopol","",2
+"02.04.2015","cities","Kirov","",2
+"02.04.2015","cities","Kazan","",2
+"02.04.2015","cities","Krasnoyarsk","",2
+"02.04.2015","cities","Pskov","",2
+"02.04.2015","cities","Tyumen","",2
+"02.04.2015","cities","Ulyanovsk","",2
+"02.04.2015","cities","Kurgan","",2
+"02.04.2015","countries","Russia","",289
+"02.04.2015","countries","Ukraine","",38
+"02.04.2015","countries","Belarus","",21
+"02.04.2015","countries","Kazakhstan","",14
+"02.04.2015","countries","USA","",14
+"02.04.2015","countries","Germany","",6
+"02.04.2015","countries","India","",3
+"02.04.2015","countries","China","",3
+"02.04.2015","countries","Romania","",2
+"02.04.2015","countries","France","",2
+"02.04.2015","countries","Ghana","",1
+"02.04.2015","countries","Turkey","",1
+"02.04.2015","countries","Sweden","",1
+"02.04.2015","countries","Poland","",1
+"02.04.2015","countries","Lithuania","",1
+"02.04.2015","countries","Canada","",1
+"02.04.2015","countries","Uzbekistan","",1
+"02.04.2015","countries","Israel","",1
+"02.04.2015","countries","Spain","",1
+"02.04.2015","sections","Discussion board","",54
+"02.04.2015","sections","Videos","",1
+"02.04.2015","sections","Photos","",1
+"02.04.2015","activity","Wall posts","",7
+"02.04.2015","activity","Photo comments","",10
+"02.04.2015","activity","Video comments","",1
+"02.04.2015","activity","Discussion comments","",9
+"02.04.2015","feedback","Like","",31
+"02.04.2015","feedback","Share","",6
+"02.04.2015","feedback","Comments","",59
+"02.04.2015","members","New members","",19
+"02.04.2015","members","Members lost","",18
+"01.04.2015","views","","",912
+"01.04.2015","visitors","","",442
+"01.04.2015","gender","F","",79
+"01.04.2015","gender","M","",271
+"01.04.2015","age","1-18","",39
+"01.04.2015","age","18-21","",55
+"01.04.2015","age","21-24","",47
+"01.04.2015","age","24-27","",50
+"01.04.2015","age","27-30","",36
+"01.04.2015","age","30-35","",38
+"01.04.2015","age","35-45","",26
+"01.04.2015","age","45+","",29
+"01.04.2015","gender_age","F","1-18",10
+"01.04.2015","gender_age","F","18-21",11
+"01.04.2015","gender_age","F","21-24",11
+"01.04.2015","gender_age","F","24-27",11
+"01.04.2015","gender_age","F","27-30",7
+"01.04.2015","gender_age","F","30-35",5
+"01.04.2015","gender_age","F","35-45",9
+"01.04.2015","gender_age","F","45+",8
+"01.04.2015","gender_age","M","1-18",29
+"01.04.2015","gender_age","M","18-21",44
+"01.04.2015","gender_age","M","21-24",36
+"01.04.2015","gender_age","M","24-27",39
+"01.04.2015","gender_age","M","27-30",29
+"01.04.2015","gender_age","M","30-35",33
+"01.04.2015","gender_age","M","35-45",17
+"01.04.2015","gender_age","M","45+",21
+"01.04.2015","cities","Moscow","",33
+"01.04.2015","cities","Saint Petersburg","",16
+"01.04.2015","cities","Kazan","",6
+"01.04.2015","cities","Krasnoyarsk","",5
+"01.04.2015","cities","Nizhny Novgorod","",5
+"01.04.2015","cities","Yekaterinburg","",5
+"01.04.2015","cities","Krasnodar","",4
+"01.04.2015","cities","Kirov","",4
+"01.04.2015","cities","Volgograd","",4
+"01.04.2015","cities","Chelyabinsk","",3
+"01.04.2015","cities","Tolyatti","",3
+"01.04.2015","cities","Magnitogorsk","",3
+"01.04.2015","cities","Cheboxary","",3
+"01.04.2015","cities","Boston","",3
+"01.04.2015","cities","Kirovograd","",3
+"01.04.2015","cities","New York City","",3
+"01.04.2015","cities","Oryol","",3
+"01.04.2015","cities","Dimitrovgrad","",3
+"01.04.2015","cities","Tyumen","",2
+"01.04.2015","cities","Tashkent","",2
+"01.04.2015","cities","Veliky Novgorod","",2
+"01.04.2015","cities","Bryansk","",2
+"01.04.2015","cities","Novy Urengoy","",2
+"01.04.2015","cities","Naberezhnye Chelny","",2
+"01.04.2015","cities","Khabarovsk","",2
+"01.04.2015","countries","Russia","",327
+"01.04.2015","countries","Ukraine","",39
+"01.04.2015","countries","Belarus","",19
+"01.04.2015","countries","USA","",17
+"01.04.2015","countries","Kazakhstan","",15
+"01.04.2015","countries","Germany","",5
+"01.04.2015","countries","Turkey","",3
+"01.04.2015","countries","Azerbaijan","",3
+"01.04.2015","countries","Uzbekistan","",2
+"01.04.2015","countries","India","",2
+"01.04.2015","countries","Czech Republic","",2
+"01.04.2015","countries","Georgia","",1
+"01.04.2015","countries","Moldova","",1
+"01.04.2015","countries","Japan","",1
+"01.04.2015","countries","Ghana","",1
+"01.04.2015","countries","France","",1
+"01.04.2015","countries","Mexico","",1
+"01.04.2015","countries","Romania","",1
+"01.04.2015","countries","Pakistan","",1
+"01.04.2015","sections","Discussion board","",27
+"01.04.2015","sections","Videos","",8
+"01.04.2015","sections","Photos","",31
+"01.04.2015","activity","Wall posts","",12
+"01.04.2015","activity","Photo comments","",33
+"01.04.2015","activity","Discussion comments","",7
+"01.04.2015","feedback","Like","",90
+"01.04.2015","feedback","Share","",9
+"01.04.2015","feedback","Comments","",80
+"01.04.2015","members","New members","",20
+"01.04.2015","members","Members lost","",14
+"31.03.2015","views","","",821
+"31.03.2015","visitors","","",410
+"31.03.2015","gender","F","",67
+"31.03.2015","gender","M","",269
+"31.03.2015","age","1-18","",33
+"31.03.2015","age","18-21","",44
+"31.03.2015","age","21-24","",49
+"31.03.2015","age","24-27","",56
+"31.03.2015","age","27-30","",36
+"31.03.2015","age","30-35","",31
+"31.03.2015","age","35-45","",33
+"31.03.2015","age","45+","",21
+"31.03.2015","gender_age","F","1-18",10
+"31.03.2015","gender_age","F","18-21",6
+"31.03.2015","gender_age","F","21-24",12
+"31.03.2015","gender_age","F","24-27",9
+"31.03.2015","gender_age","F","27-30",6
+"31.03.2015","gender_age","F","30-35",7
+"31.03.2015","gender_age","F","35-45",6
+"31.03.2015","gender_age","F","45+",3
+"31.03.2015","gender_age","M","1-18",23
+"31.03.2015","gender_age","M","18-21",38
+"31.03.2015","gender_age","M","21-24",37
+"31.03.2015","gender_age","M","24-27",47
+"31.03.2015","gender_age","M","27-30",30
+"31.03.2015","gender_age","M","30-35",24
+"31.03.2015","gender_age","M","35-45",27
+"31.03.2015","gender_age","M","45+",18
+"31.03.2015","cities","Moscow","",35
+"31.03.2015","cities","Saint Petersburg","",10
+"31.03.2015","cities","Novosibirsk","",7
+"31.03.2015","cities","Nizhny Novgorod","",7
+"31.03.2015","cities","Volgograd","",5
+"31.03.2015","cities","Barnaul","",5
+"31.03.2015","cities","Samara","",4
+"31.03.2015","cities","Kazan","",4
+"31.03.2015","cities","Chelyabinsk","",4
+"31.03.2015","cities","Ufa","",4
+"31.03.2015","cities","Nizhnevartovsk","",3
+"31.03.2015","cities","Donetsk","",3
+"31.03.2015","cities","Naberezhnye Chelny","",3
+"31.03.2015","cities","Boston","",3
+"31.03.2015","cities","Kaluga","",3
+"31.03.2015","cities","Tyumen","",3
+"31.03.2015","cities","Kirov","",3
+"31.03.2015","cities","Saratov","",3
+"31.03.2015","cities","Yaroslavl","",3
+"31.03.2015","cities","Almaty","",3
+"31.03.2015","cities","Novocherkassk","",2
+"31.03.2015","cities","Ulyanovsk","",2
+"31.03.2015","cities","Obninsk","",2
+"31.03.2015","cities","Chişinău ","",2
+"31.03.2015","cities","Astana","",2
+"31.03.2015","countries","Russia","",317
+"31.03.2015","countries","Ukraine","",29
+"31.03.2015","countries","Belarus","",16
+"31.03.2015","countries","Kazakhstan","",16
+"31.03.2015","countries","USA","",12
+"31.03.2015","countries","Azerbaijan","",8
+"31.03.2015","countries","Turkey","",3
+"31.03.2015","countries","Germany","",2
+"31.03.2015","countries","Moldova","",2
+"31.03.2015","countries","Spain","",1
+"31.03.2015","countries","","",1
+"31.03.2015","countries","France","",1
+"31.03.2015","countries","Norway","",1
+"31.03.2015","countries","","",1
+"31.03.2015","sections","Discussion board","",23
+"31.03.2015","sections","Videos","",6
+"31.03.2015","sections","Photos","",10
+"31.03.2015","activity","Wall posts","",12
+"31.03.2015","activity","Photo comments","",17
+"31.03.2015","activity","Discussion comments","",2
+"31.03.2015","feedback","Like","",76
+"31.03.2015","feedback","Share","",9
+"31.03.2015","feedback","Comments","",77
+"31.03.2015","members","New members","",26
+"31.03.2015","members","Members lost","",33
+"30.03.2015","views","","",832
+"30.03.2015","visitors","","",437
+"30.03.2015","gender","F","",78
+"30.03.2015","gender","M","",268
+"30.03.2015","age","1-18","",45
+"30.03.2015","age","18-21","",49
+"30.03.2015","age","21-24","",42
+"30.03.2015","age","24-27","",47
+"30.03.2015","age","27-30","",41
+"30.03.2015","age","30-35","",34
+"30.03.2015","age","35-45","",26
+"30.03.2015","age","45+","",24
+"30.03.2015","gender_age","F","1-18",11
+"30.03.2015","gender_age","F","18-21",11
+"30.03.2015","gender_age","F","21-24",8
+"30.03.2015","gender_age","F","24-27",14
+"30.03.2015","gender_age","F","27-30",7
+"30.03.2015","gender_age","F","30-35",3
+"30.03.2015","gender_age","F","35-45",3
+"30.03.2015","gender_age","F","45+",7
+"30.03.2015","gender_age","M","1-18",34
+"30.03.2015","gender_age","M","18-21",38
+"30.03.2015","gender_age","M","21-24",34
+"30.03.2015","gender_age","M","24-27",33
+"30.03.2015","gender_age","M","27-30",34
+"30.03.2015","gender_age","M","30-35",31
+"30.03.2015","gender_age","M","35-45",23
+"30.03.2015","gender_age","M","45+",17
+"30.03.2015","cities","Moscow","",34
+"30.03.2015","cities","Saint Petersburg","",13
+"30.03.2015","cities","Nizhny Novgorod","",9
+"30.03.2015","cities","Kazan","",8
+"30.03.2015","cities","Novosibirsk","",7
+"30.03.2015","cities","Naberezhnye Chelny","",5
+"30.03.2015","cities","Chelyabinsk","",5
+"30.03.2015","cities","Lipetsk","",3
+"30.03.2015","cities","Yaroslavl","",3
+"30.03.2015","cities","Ufa","",3
+"30.03.2015","cities","Kiev","",3
+"30.03.2015","cities","Sevastopol","",3
+"30.03.2015","cities","Saratov","",3
+"30.03.2015","cities","Ulyanovsk","",3
+"30.03.2015","cities","Veliky Novgorod","",2
+"30.03.2015","cities","Vladivostok","",2
+"30.03.2015","cities","Yekaterinburg","",2
+"30.03.2015","cities","Bryansk","",2
+"30.03.2015","cities","Krasnoyarsk","",2
+"30.03.2015","cities","Aromashevo","",2
+"30.03.2015","cities","Astana","",2
+"30.03.2015","cities","Magnitogorsk","",2
+"30.03.2015","cities","Khabarovsk","",2
+"30.03.2015","cities","Boston","",2
+"30.03.2015","cities","Perm","",2
+"30.03.2015","countries","Russia","",312
+"30.03.2015","countries","Ukraine","",39
+"30.03.2015","countries","Kazakhstan","",21
+"30.03.2015","countries","Belarus","",17
+"30.03.2015","countries","USA","",12
+"30.03.2015","countries","Canada","",9
+"30.03.2015","countries","Germany","",3
+"30.03.2015","countries","Netherlands","",2
+"30.03.2015","countries","Turkey","",2
+"30.03.2015","countries","India","",2
+"30.03.2015","countries","Norway","",2
+"30.03.2015","countries","Ghana","",2
+"30.03.2015","countries","Japan","",2
+"30.03.2015","countries","South Korea","",1
+"30.03.2015","countries","China","",1
+"30.03.2015","countries","Morocco","",1
+"30.03.2015","countries","Moldova","",1
+"30.03.2015","countries","","",1
+"30.03.2015","countries","France","",1
+"30.03.2015","countries","Sweden","",1
+"30.03.2015","countries","Czech Republic","",1
+"30.03.2015","countries","Estonia","",1
+"30.03.2015","countries","Algeria","",1
+"30.03.2015","countries","Bulgaria","",1
+"30.03.2015","countries","Poland","",1
+"30.03.2015","sections","Discussion board","",23
+"30.03.2015","sections","Videos","",3
+"30.03.2015","sections","Photos","",3
+"30.03.2015","activity","Wall posts","",10
+"30.03.2015","activity","Photo comments","",16
+"30.03.2015","activity","Discussion comments","",4
+"30.03.2015","feedback","Like","",58
+"30.03.2015","feedback","Share","",9
+"30.03.2015","feedback","Comments","",58
+"30.03.2015","members","New members","",22
+"30.03.2015","members","Members lost","",24
+"29.03.2015","views","","",912
+"29.03.2015","visitors","","",451
+"29.03.2015","gender","F","",80
+"29.03.2015","gender","M","",293
+"29.03.2015","age","1-18","",52
+"29.03.2015","age","18-21","",52
+"29.03.2015","age","21-24","",52
+"29.03.2015","age","24-27","",57
+"29.03.2015","age","27-30","",42
+"29.03.2015","age","30-35","",30
+"29.03.2015","age","35-45","",31
+"29.03.2015","age","45+","",14
+"29.03.2015","gender_age","F","1-18",10
+"29.03.2015","gender_age","F","18-21",8
+"29.03.2015","gender_age","F","21-24",11
+"29.03.2015","gender_age","F","24-27",11
+"29.03.2015","gender_age","F","27-30",10
+"29.03.2015","gender_age","F","30-35",5
+"29.03.2015","gender_age","F","35-45",6
+"29.03.2015","gender_age","F","45+",4
+"29.03.2015","gender_age","M","1-18",42
+"29.03.2015","gender_age","M","18-21",44
+"29.03.2015","gender_age","M","21-24",41
+"29.03.2015","gender_age","M","24-27",46
+"29.03.2015","gender_age","M","27-30",32
+"29.03.2015","gender_age","M","30-35",24
+"29.03.2015","gender_age","M","35-45",25
+"29.03.2015","gender_age","M","45+",10
+"29.03.2015","cities","Moscow","",33
+"29.03.2015","cities","Saint Petersburg","",13
+"29.03.2015","cities","Kiev","",8
+"29.03.2015","cities","Yekaterinburg","",7
+"29.03.2015","cities","Cheboxary","",6
+"29.03.2015","cities","Nizhny Novgorod","",5
+"29.03.2015","cities","Naberezhnye Chelny","",5
+"29.03.2015","cities","Sevastopol","",4
+"29.03.2015","cities","Boston","",4
+"29.03.2015","cities","Ufa","",4
+"29.03.2015","cities","Chelyabinsk","",4
+"29.03.2015","cities","Yaroslavl","",4
+"29.03.2015","cities","Donetsk","",4
+"29.03.2015","cities","Kirovograd","",3
+"29.03.2015","cities","Ryazan","",3
+"29.03.2015","cities","Novy Urengoy","",3
+"29.03.2015","cities","Kemerovo","",3
+"29.03.2015","cities","Novosibirsk","",3
+"29.03.2015","cities","Novocherkassk","",3
+"29.03.2015","cities","Tomsk","",2
+"29.03.2015","cities","Ulan-Ude","",2
+"29.03.2015","cities","Karaganda","",2
+"29.03.2015","cities","Belgorod","",2
+"29.03.2015","cities","Magnitogorsk","",2
+"29.03.2015","cities","Tyumen","",2
+"29.03.2015","countries","Russia","",344
+"29.03.2015","countries","Ukraine","",45
+"29.03.2015","countries","Kazakhstan","",21
+"29.03.2015","countries","Belarus","",11
+"29.03.2015","countries","USA","",8
+"29.03.2015","countries","Germany","",5
+"29.03.2015","countries","Turkey","",4
+"29.03.2015","countries","United Kingdom","",3
+"29.03.2015","countries","Azerbaijan","",2
+"29.03.2015","countries","China","",1
+"29.03.2015","countries","Kyrgyzstan","",1
+"29.03.2015","countries","","",1
+"29.03.2015","countries","Norway","",1
+"29.03.2015","countries","Moldova","",1
+"29.03.2015","countries","Algeria","",1
+"29.03.2015","countries","Georgia","",1
+"29.03.2015","countries","Uzbekistan","",1
+"29.03.2015","sections","Discussion board","",37
+"29.03.2015","sections","Videos","",5
+"29.03.2015","sections","Photos","",11
+"29.03.2015","activity","Wall posts","",13
+"29.03.2015","activity","Photo comments","",13
+"29.03.2015","activity","Discussion comments","",4
+"29.03.2015","feedback","Like","",46
+"29.03.2015","feedback","Share","",4
+"29.03.2015","feedback","Comments","",81
+"29.03.2015","members","New members","",26
+"29.03.2015","members","Members lost","",24
+"28.03.2015","views","","",874
+"28.03.2015","visitors","","",462
+"28.03.2015","gender","F","",67
+"28.03.2015","gender","M","",301
+"28.03.2015","age","1-18","",47
+"28.03.2015","age","18-21","",61
+"28.03.2015","age","21-24","",53
+"28.03.2015","age","24-27","",55
+"28.03.2015","age","27-30","",34
+"28.03.2015","age","30-35","",35
+"28.03.2015","age","35-45","",24
+"28.03.2015","age","45+","",22
+"28.03.2015","gender_age","F","1-18",7
+"28.03.2015","gender_age","F","18-21",5
+"28.03.2015","gender_age","F","21-24",12
+"28.03.2015","gender_age","F","24-27",14
+"28.03.2015","gender_age","F","27-30",6
+"28.03.2015","gender_age","F","30-35",7
+"28.03.2015","gender_age","F","35-45",1
+"28.03.2015","gender_age","F","45+",5
+"28.03.2015","gender_age","M","1-18",40
+"28.03.2015","gender_age","M","18-21",56
+"28.03.2015","gender_age","M","21-24",41
+"28.03.2015","gender_age","M","24-27",41
+"28.03.2015","gender_age","M","27-30",28
+"28.03.2015","gender_age","M","30-35",28
+"28.03.2015","gender_age","M","35-45",23
+"28.03.2015","gender_age","M","45+",17
+"28.03.2015","cities","Moscow","",44
+"28.03.2015","cities","Kiev","",7
+"28.03.2015","cities","Kazan","",7
+"28.03.2015","cities","Samara","",6
+"28.03.2015","cities","Cheboxary","",5
+"28.03.2015","cities","Rostov-on-Don","",5
+"28.03.2015","cities","Yekaterinburg","",5
+"28.03.2015","cities","Nizhny Novgorod","",5
+"28.03.2015","cities","Barnaul","",5
+"28.03.2015","cities","Donetsk","",5
+"28.03.2015","cities","Khabarovsk","",5
+"28.03.2015","cities","Kaluga","",4
+"28.03.2015","cities","Kemerovo","",4
+"28.03.2015","cities","Lviv","",4
+"28.03.2015","cities","Ryazan","",3
+"28.03.2015","cities","Yaroslavl","",3
+"28.03.2015","cities","Kharkiv","",3
+"28.03.2015","cities","Astana","",3
+"28.03.2015","cities","Chelyabinsk","",3
+"28.03.2015","cities","Boston","",3
+"28.03.2015","cities","Tyumen","",2
+"28.03.2015","cities","Volzhsky","",2
+"28.03.2015","cities","Yashkul","",2
+"28.03.2015","cities","Perm","",2
+"28.03.2015","cities","Alexandrov","",2
+"28.03.2015","countries","Russia","",321
+"28.03.2015","countries","Ukraine","",57
+"28.03.2015","countries","Kazakhstan","",25
+"28.03.2015","countries","USA","",18
+"28.03.2015","countries","Belarus","",13
+"28.03.2015","countries","Germany","",11
+"28.03.2015","countries","Turkey","",4
+"28.03.2015","countries","Azerbaijan","",2
+"28.03.2015","countries","United Kingdom","",2
+"28.03.2015","countries","Hong Kong","",1
+"28.03.2015","countries","Turkmenistan","",1
+"28.03.2015","countries","Ireland","",1
+"28.03.2015","countries","Romania","",1
+"28.03.2015","countries","Armenia","",1
+"28.03.2015","countries","Moldova","",1
+"28.03.2015","countries","Netherlands","",1
+"28.03.2015","countries","Paraguay","",1
+"28.03.2015","countries","France","",1
+"28.03.2015","sections","Discussion board","",32
+"28.03.2015","sections","Videos","",4
+"28.03.2015","sections","Photos","",7
+"28.03.2015","activity","Wall posts","",9
+"28.03.2015","activity","Photo comments","",9
+"28.03.2015","activity","Video comments","",1
+"28.03.2015","feedback","Like","",42
+"28.03.2015","feedback","Share","",8
+"28.03.2015","feedback","Comments","",29
+"28.03.2015","feedback","Mentions","",1
+"28.03.2015","members","New members","",24
+"28.03.2015","members","Members lost","",25
+"27.03.2015","views","","",956
+"27.03.2015","visitors","","",455
+"27.03.2015","gender","F","",76
+"27.03.2015","gender","M","",284
+"27.03.2015","age","1-18","",54
+"27.03.2015","age","18-21","",52
+"27.03.2015","age","21-24","",53
+"27.03.2015","age","24-27","",51
+"27.03.2015","age","27-30","",39
+"27.03.2015","age","30-35","",35
+"27.03.2015","age","35-45","",25
+"27.03.2015","age","45+","",22
+"27.03.2015","gender_age","F","1-18",11
+"27.03.2015","gender_age","F","18-21",12
+"27.03.2015","gender_age","F","21-24",12
+"27.03.2015","gender_age","F","24-27",16
+"27.03.2015","gender_age","F","27-30",5
+"27.03.2015","gender_age","F","30-35",8
+"27.03.2015","gender_age","F","35-45",1
+"27.03.2015","gender_age","F","45+",3
+"27.03.2015","gender_age","M","1-18",43
+"27.03.2015","gender_age","M","18-21",40
+"27.03.2015","gender_age","M","21-24",41
+"27.03.2015","gender_age","M","24-27",35
+"27.03.2015","gender_age","M","27-30",34
+"27.03.2015","gender_age","M","30-35",27
+"27.03.2015","gender_age","M","35-45",24
+"27.03.2015","gender_age","M","45+",19
+"27.03.2015","cities","Moscow","",33
+"27.03.2015","cities","Saint Petersburg","",19
+"27.03.2015","cities","Kiev","",9
+"27.03.2015","cities","Perm","",5
+"27.03.2015","cities","Joshkar-Ola","",5
+"27.03.2015","cities","Yekaterinburg","",5
+"27.03.2015","cities","Rostov-on-Don","",5
+"27.03.2015","cities","Novocherkassk","",3
+"27.03.2015","cities","Almaty","",3
+"27.03.2015","cities","Rameshki","",3
+"27.03.2015","cities","Kaluga","",3
+"27.03.2015","cities","Kemerovo","",3
+"27.03.2015","cities","Novosibirsk","",3
+"27.03.2015","cities","Tyumen","",3
+"27.03.2015","cities","Donetsk","",3
+"27.03.2015","cities","Kazan","",3
+"27.03.2015","cities","Bryansk","",3
+"27.03.2015","cities","Chelyabinsk","",3
+"27.03.2015","cities","Nizhnevartovsk","",2
+"27.03.2015","cities","Yaroslavl","",2
+"27.03.2015","cities","Yuzhno-Sakhalinsk","",2
+"27.03.2015","cities","Irkutsk","",2
+"27.03.2015","cities","Ulyanovsk","",2
+"27.03.2015","cities","Boston","",2
+"27.03.2015","cities","Odessa","",2
+"27.03.2015","countries","Russia","",344
+"27.03.2015","countries","Ukraine","",42
+"27.03.2015","countries","Belarus","",22
+"27.03.2015","countries","Kazakhstan","",15
+"27.03.2015","countries","USA","",11
+"27.03.2015","countries","Germany","",5
+"27.03.2015","countries","Turkey","",2
+"27.03.2015","countries","Armenia","",2
+"27.03.2015","countries","Spain","",2
+"27.03.2015","countries","India","",1
+"27.03.2015","countries","Japan","",1
+"27.03.2015","countries","Moldova","",1
+"27.03.2015","countries","Azerbaijan","",1
+"27.03.2015","countries","Sweden","",1
+"27.03.2015","countries","Lithuania","",1
+"27.03.2015","countries","Taiwan","",1
+"27.03.2015","countries","Kyrgyzstan","",1
+"27.03.2015","countries","","",1
+"27.03.2015","countries","Brazil","",1
+"27.03.2015","sections","Discussion board","",32
+"27.03.2015","sections","Videos","",3
+"27.03.2015","sections","Photos","",7
+"27.03.2015","activity","Wall posts","",6
+"27.03.2015","activity","Photo comments","",21
+"27.03.2015","activity","Discussion comments","",5
+"27.03.2015","feedback","Like","",52
+"27.03.2015","feedback","Share","",2
+"27.03.2015","feedback","Comments","",78
+"27.03.2015","members","New members","",33
+"27.03.2015","members","Members lost","",20
+"26.03.2015","views","","",912
+"26.03.2015","visitors","","",433
+"26.03.2015","gender","F","",78
+"26.03.2015","gender","M","",282
+"26.03.2015","age","1-18","",45
+"26.03.2015","age","18-21","",51
+"26.03.2015","age","21-24","",47
+"26.03.2015","age","24-27","",59
+"26.03.2015","age","27-30","",35
+"26.03.2015","age","30-35","",32
+"26.03.2015","age","35-45","",38
+"26.03.2015","age","45+","",23
+"26.03.2015","gender_age","F","1-18",8
+"26.03.2015","gender_age","F","18-21",10
+"26.03.2015","gender_age","F","21-24",11
+"26.03.2015","gender_age","F","24-27",14
+"26.03.2015","gender_age","F","27-30",10
+"26.03.2015","gender_age","F","30-35",6
+"26.03.2015","gender_age","F","35-45",4
+"26.03.2015","gender_age","F","45+",5
+"26.03.2015","gender_age","M","1-18",37
+"26.03.2015","gender_age","M","18-21",41
+"26.03.2015","gender_age","M","21-24",36
+"26.03.2015","gender_age","M","24-27",45
+"26.03.2015","gender_age","M","27-30",25
+"26.03.2015","gender_age","M","30-35",26
+"26.03.2015","gender_age","M","35-45",34
+"26.03.2015","gender_age","M","45+",18
+"26.03.2015","cities","Moscow","",50
+"26.03.2015","cities","Saint Petersburg","",14
+"26.03.2015","cities","Kiev","",6
+"26.03.2015","cities","Samara","",5
+"26.03.2015","cities","Novosibirsk","",4
+"26.03.2015","cities","Krasnoyarsk","",4
+"26.03.2015","cities","Volgograd","",4
+"26.03.2015","cities","Lipetsk","",3
+"26.03.2015","cities","Omsk","",3
+"26.03.2015","cities","Bryansk","",3
+"26.03.2015","cities","Veliky Novgorod","",3
+"26.03.2015","cities","Rameshki","",3
+"26.03.2015","cities","Naberezhnye Chelny","",3
+"26.03.2015","cities","Yekaterinburg","",3
+"26.03.2015","cities","Barnaul","",3
+"26.03.2015","cities","Almaty","",2
+"26.03.2015","cities","Novocherkassk","",2
+"26.03.2015","cities","Petrozavodsk","",2
+"26.03.2015","cities","Arkhangelsk","",2
+"26.03.2015","cities","Kharkiv","",2
+"26.03.2015","cities","Saratov","",2
+"26.03.2015","cities","Lipyagi","",2
+"26.03.2015","cities","Kaluga","",2
+"26.03.2015","cities","Tyumen","",2
+"26.03.2015","cities","Irkutsk","",2
+"26.03.2015","countries","Russia","",327
+"26.03.2015","countries","Ukraine","",39
+"26.03.2015","countries","USA","",22
+"26.03.2015","countries","Kazakhstan","",12
+"26.03.2015","countries","Belarus","",12
+"26.03.2015","countries","United Arab Emirates","",2
+"26.03.2015","countries","India","",2
+"26.03.2015","countries","Azerbaijan","",2
+"26.03.2015","countries","Germany","",2
+"26.03.2015","countries","Libya","",1
+"26.03.2015","countries","Norway","",1
+"26.03.2015","countries","Uzbekistan","",1
+"26.03.2015","countries","Belgium","",1
+"26.03.2015","countries","Finland","",1
+"26.03.2015","countries","Spain","",1
+"26.03.2015","countries","","",1
+"26.03.2015","countries","Turkmenistan","",1
+"26.03.2015","countries","China","",1
+"26.03.2015","countries","Sweden","",1
+"26.03.2015","countries","Israel","",1
+"26.03.2015","countries","Armenia","",1
+"26.03.2015","countries","Moldova","",1
+"26.03.2015","sections","Discussion board","",38
+"26.03.2015","sections","Audio files","",1
+"26.03.2015","sections","Videos","",9
+"26.03.2015","sections","Photos","",23
+"26.03.2015","activity","Wall posts","",9
+"26.03.2015","activity","Photo comments","",63
+"26.03.2015","activity","Discussion comments","",1
+"26.03.2015","feedback","Like","",40
+"26.03.2015","feedback","Share","",9
+"26.03.2015","feedback","Comments","",93
+"26.03.2015","members","New members","",25
+"26.03.2015","members","Members lost","",26
+"25.03.2015","views","","",853
+"25.03.2015","visitors","","",432
+"25.03.2015","gender","F","",63
+"25.03.2015","gender","M","",276
+"25.03.2015","age","1-18","",51
+"25.03.2015","age","18-21","",45
+"25.03.2015","age","21-24","",42
+"25.03.2015","age","24-27","",43
+"25.03.2015","age","27-30","",31
+"25.03.2015","age","30-35","",34
+"25.03.2015","age","35-45","",30
+"25.03.2015","age","45+","",29
+"25.03.2015","gender_age","F","1-18",10
+"25.03.2015","gender_age","F","18-21",9
+"25.03.2015","gender_age","F","21-24",6
+"25.03.2015","gender_age","F","24-27",9
+"25.03.2015","gender_age","F","27-30",8
+"25.03.2015","gender_age","F","30-35",6
+"25.03.2015","gender_age","F","35-45",3
+"25.03.2015","gender_age","F","45+",5
+"25.03.2015","gender_age","M","1-18",41
+"25.03.2015","gender_age","M","18-21",36
+"25.03.2015","gender_age","M","21-24",36
+"25.03.2015","gender_age","M","24-27",34
+"25.03.2015","gender_age","M","27-30",23
+"25.03.2015","gender_age","M","30-35",28
+"25.03.2015","gender_age","M","35-45",26
+"25.03.2015","gender_age","M","45+",24
+"25.03.2015","cities","Moscow","",40
+"25.03.2015","cities","Saint Petersburg","",20
+"25.03.2015","cities","Kiev","",7
+"25.03.2015","cities","Krasnoyarsk","",6
+"25.03.2015","cities","Samara","",6
+"25.03.2015","cities","Nizhny Novgorod","",5
+"25.03.2015","cities","Novosibirsk","",4
+"25.03.2015","cities","Omsk","",4
+"25.03.2015","cities","Donetsk","",4
+"25.03.2015","cities","Chelyabinsk","",4
+"25.03.2015","cities","Nizhnevartovsk","",3
+"25.03.2015","cities","Tyumen","",3
+"25.03.2015","cities","Naberezhnye Chelny","",3
+"25.03.2015","cities","Baku","",3
+"25.03.2015","cities","Yekaterinburg","",3
+"25.03.2015","cities","Ryazan","",3
+"25.03.2015","cities","Bryansk","",3
+"25.03.2015","cities","Brest","",3
+"25.03.2015","cities","Tolyatti","",3
+"25.03.2015","cities","Kaluga","",2
+"25.03.2015","cities","Saratov","",2
+"25.03.2015","cities","Ufa","",2
+"25.03.2015","cities","Kirovograd","",2
+"25.03.2015","cities","Kemerovo","",2
+"25.03.2015","cities","Troitsk","",2
+"25.03.2015","countries","Russia","",309
+"25.03.2015","countries","Ukraine","",52
+"25.03.2015","countries","Kazakhstan","",22
+"25.03.2015","countries","Belarus","",16
+"25.03.2015","countries","USA","",11
+"25.03.2015","countries","Azerbaijan","",3
+"25.03.2015","countries","Germany","",2
+"25.03.2015","countries","Uzbekistan","",2
+"25.03.2015","countries","Latvia","",2
+"25.03.2015","countries","Moldova","",2
+"25.03.2015","countries","France","",2
+"25.03.2015","countries","Ghana","",2
+"25.03.2015","countries","India","",1
+"25.03.2015","countries","Netherlands","",1
+"25.03.2015","countries","Armenia","",1
+"25.03.2015","countries","Libya","",1
+"25.03.2015","countries","Brazil","",1
+"25.03.2015","countries","Czech Republic","",1
+"25.03.2015","countries","Bulgaria","",1
+"25.03.2015","sections","Discussion board","",25
+"25.03.2015","sections","Videos","",2
+"25.03.2015","sections","Photos","",7
+"25.03.2015","activity","Wall posts","",9
+"25.03.2015","activity","Photo comments","",41
+"25.03.2015","feedback","Like","",27
+"25.03.2015","feedback","Share","",2
+"25.03.2015","feedback","Comments","",93
+"25.03.2015","members","New members","",25
+"25.03.2015","members","Members lost","",31
+"24.03.2015","views","","",932
+"24.03.2015","visitors","","",435
+"24.03.2015","gender","F","",74
+"24.03.2015","gender","M","",276
+"24.03.2015","age","1-18","",42
+"24.03.2015","age","18-21","",46
+"24.03.2015","age","21-24","",57
+"24.03.2015","age","24-27","",58
+"24.03.2015","age","27-30","",33
+"24.03.2015","age","30-35","",32
+"24.03.2015","age","35-45","",33
+"24.03.2015","age","45+","",20
+"24.03.2015","gender_age","F","1-18",6
+"24.03.2015","gender_age","F","18-21",8
+"24.03.2015","gender_age","F","21-24",12
+"24.03.2015","gender_age","F","24-27",14
+"24.03.2015","gender_age","F","27-30",8
+"24.03.2015","gender_age","F","30-35",9
+"24.03.2015","gender_age","F","35-45",5
+"24.03.2015","gender_age","F","45+",4
+"24.03.2015","gender_age","M","1-18",36
+"24.03.2015","gender_age","M","18-21",38
+"24.03.2015","gender_age","M","21-24",45
+"24.03.2015","gender_age","M","24-27",44
+"24.03.2015","gender_age","M","27-30",25
+"24.03.2015","gender_age","M","30-35",23
+"24.03.2015","gender_age","M","35-45",28
+"24.03.2015","gender_age","M","45+",16
+"24.03.2015","cities","Moscow","",41
+"24.03.2015","cities","Saint Petersburg","",17
+"24.03.2015","cities","Rostov-on-Don","",7
+"24.03.2015","cities","Chelyabinsk","",5
+"24.03.2015","cities","Kazan","",5
+"24.03.2015","cities","Perm","",4
+"24.03.2015","cities","Magnitogorsk","",4
+"24.03.2015","cities","Naberezhnye Chelny","",4
+"24.03.2015","cities","Bryansk","",4
+"24.03.2015","cities","Ufa","",3
+"24.03.2015","cities","Kharkiv","",3
+"24.03.2015","cities","Minsk ","",3
+"24.03.2015","cities","Dnipropetrovsk","",3
+"24.03.2015","cities","Donetsk","",3
+"24.03.2015","cities","Leninogorsk","",2
+"24.03.2015","cities","Izmalkovo","",2
+"24.03.2015","cities","Kirovograd","",2
+"24.03.2015","cities","Cheboxary","",2
+"24.03.2015","cities","Semey ","",2
+"24.03.2015","cities","Astana","",2
+"24.03.2015","cities","Astrakhan","",2
+"24.03.2015","cities","Lipyagi","",2
+"24.03.2015","cities","Kaluga","",2
+"24.03.2015","cities","Nizhny Novgorod","",2
+"24.03.2015","cities","Barnaul","",2
+"24.03.2015","countries","Russia","",318
+"24.03.2015","countries","Ukraine","",50
+"24.03.2015","countries","Kazakhstan","",18
+"24.03.2015","countries","Belarus","",13
+"24.03.2015","countries","USA","",12
+"24.03.2015","countries","Germany","",10
+"24.03.2015","countries","Moldova","",2
+"24.03.2015","countries","Ghana","",2
+"24.03.2015","countries","Estonia","",2
+"24.03.2015","countries","France","",2
+"24.03.2015","countries","Japan","",1
+"24.03.2015","countries","Sweden","",1
+"24.03.2015","countries","Brazil","",1
+"24.03.2015","countries","Czech Republic","",1
+"24.03.2015","countries","India","",1
+"24.03.2015","countries","Latvia","",1
+"24.03.2015","sections","Discussion board","",40
+"24.03.2015","sections","Videos","",4
+"24.03.2015","sections","Photos","",11
+"24.03.2015","activity","Wall posts","",9
+"24.03.2015","activity","Photo comments","",33
+"24.03.2015","activity","Discussion comments","",1
+"24.03.2015","feedback","Like","",44
+"24.03.2015","feedback","Share","",6
+"24.03.2015","feedback","Comments","",76
+"24.03.2015","members","New members","",20
+"24.03.2015","members","Members lost","",27
+"23.03.2015","views","","",915
+"23.03.2015","visitors","","",437
+"23.03.2015","gender","F","",81
+"23.03.2015","gender","M","",267
+"23.03.2015","age","1-18","",46
+"23.03.2015","age","18-21","",53
+"23.03.2015","age","21-24","",41
+"23.03.2015","age","24-27","",46
+"23.03.2015","age","27-30","",34
+"23.03.2015","age","30-35","",45
+"23.03.2015","age","35-45","",25
+"23.03.2015","age","45+","",22
+"23.03.2015","gender_age","F","1-18",12
+"23.03.2015","gender_age","F","18-21",14
+"23.03.2015","gender_age","F","21-24",14
+"23.03.2015","gender_age","F","24-27",10
+"23.03.2015","gender_age","F","27-30",3
+"23.03.2015","gender_age","F","30-35",10
+"23.03.2015","gender_age","F","35-45",1
+"23.03.2015","gender_age","F","45+",5
+"23.03.2015","gender_age","M","1-18",34
+"23.03.2015","gender_age","M","18-21",39
+"23.03.2015","gender_age","M","21-24",27
+"23.03.2015","gender_age","M","24-27",36
+"23.03.2015","gender_age","M","27-30",31
+"23.03.2015","gender_age","M","30-35",35
+"23.03.2015","gender_age","M","35-45",24
+"23.03.2015","gender_age","M","45+",17
+"23.03.2015","cities","Moscow","",36
+"23.03.2015","cities","Saint Petersburg","",19
+"23.03.2015","cities","Nizhny Novgorod","",6
+"23.03.2015","cities","Samara","",6
+"23.03.2015","cities","Naberezhnye Chelny","",5
+"23.03.2015","cities","Volgograd","",5
+"23.03.2015","cities","Tyumen","",5
+"23.03.2015","cities","Donetsk","",4
+"23.03.2015","cities","Ryazan","",4
+"23.03.2015","cities","Krasnodar","",4
+"23.03.2015","cities","Kirovograd","",3
+"23.03.2015","cities","Rostov-on-Don","",3
+"23.03.2015","cities","Bryansk","",3
+"23.03.2015","cities","Yaroslavl","",3
+"23.03.2015","cities","Kaluga","",3
+"23.03.2015","cities","Simferopol","",3
+"23.03.2015","cities","Yekaterinburg","",2
+"23.03.2015","cities","Ulan-Ude","",2
+"23.03.2015","cities","Kiev","",2
+"23.03.2015","cities","Dnipropetrovsk","",2
+"23.03.2015","cities","Chelyabinsk","",2
+"23.03.2015","cities","Novy Urengoy","",2
+"23.03.2015","cities","Grozny","",2
+"23.03.2015","cities","Kazan","",2
+"23.03.2015","cities","Berlin","",2
+"23.03.2015","countries","Russia","",312
+"23.03.2015","countries","Ukraine","",47
+"23.03.2015","countries","Belarus","",20
+"23.03.2015","countries","USA","",16
+"23.03.2015","countries","Kazakhstan","",15
+"23.03.2015","countries","Germany","",6
+"23.03.2015","countries","Azerbaijan","",5
+"23.03.2015","countries","China","",3
+"23.03.2015","countries","France","",2
+"23.03.2015","countries","Uzbekistan","",2
+"23.03.2015","countries","Moldova","",1
+"23.03.2015","countries","Armenia","",1
+"23.03.2015","countries","Georgia","",1
+"23.03.2015","countries","Peru","",1
+"23.03.2015","countries","Czech Republic","",1
+"23.03.2015","countries","Bulgaria","",1
+"23.03.2015","countries","Italy","",1
+"23.03.2015","countries","Ghana","",1
+"23.03.2015","countries","Belgium","",1
+"23.03.2015","sections","Discussion board","",56
+"23.03.2015","sections","Videos","",3
+"23.03.2015","sections","Photos","",13
+"23.03.2015","activity","Wall posts","",11
+"23.03.2015","activity","Photo comments","",76
+"23.03.2015","activity","Discussion comments","",20
+"23.03.2015","feedback","Like","",58
+"23.03.2015","feedback","Share","",5
+"23.03.2015","feedback","Comments","",108
+"23.03.2015","members","New members","",18
+"23.03.2015","members","Members lost","",29
+"22.03.2015","views","","",1000
+"22.03.2015","visitors","","",556
+"22.03.2015","gender","F","",74
+"22.03.2015","gender","M","",281
+"22.03.2015","age","1-18","",42
+"22.03.2015","age","18-21","",52
+"22.03.2015","age","21-24","",44
+"22.03.2015","age","24-27","",42
+"22.03.2015","age","27-30","",41
+"22.03.2015","age","30-35","",38
+"22.03.2015","age","35-45","",31
+"22.03.2015","age","45+","",24
+"22.03.2015","gender_age","F","1-18",7
+"22.03.2015","gender_age","F","18-21",10
+"22.03.2015","gender_age","F","21-24",11
+"22.03.2015","gender_age","F","24-27",12
+"22.03.2015","gender_age","F","27-30",6
+"22.03.2015","gender_age","F","30-35",8
+"22.03.2015","gender_age","F","35-45",2
+"22.03.2015","gender_age","F","45+",5
+"22.03.2015","gender_age","M","1-18",35
+"22.03.2015","gender_age","M","18-21",42
+"22.03.2015","gender_age","M","21-24",33
+"22.03.2015","gender_age","M","24-27",30
+"22.03.2015","gender_age","M","27-30",35
+"22.03.2015","gender_age","M","30-35",30
+"22.03.2015","gender_age","M","35-45",29
+"22.03.2015","gender_age","M","45+",19
+"22.03.2015","cities","Moscow","",35
+"22.03.2015","cities","Saint Petersburg","",9
+"22.03.2015","cities","Novosibirsk","",7
+"22.03.2015","cities","Rostov-on-Don","",6
+"22.03.2015","cities","Kazan","",6
+"22.03.2015","cities","Samara","",5
+"22.03.2015","cities","Naberezhnye Chelny","",5
+"22.03.2015","cities","Chelyabinsk","",5
+"22.03.2015","cities","Nizhny Novgorod","",5
+"22.03.2015","cities","Kemerovo","",4
+"22.03.2015","cities","Krasnoyarsk","",4
+"22.03.2015","cities","Almaty","",4
+"22.03.2015","cities","Kharkiv","",4
+"22.03.2015","cities","Bryansk","",4
+"22.03.2015","cities","Astana","",3
+"22.03.2015","cities","Mykolaiv","",3
+"22.03.2015","cities","Belgorod","",3
+"22.03.2015","cities","Ryazan","",3
+"22.03.2015","cities","Perm","",3
+"22.03.2015","cities","Alexandrov","",3
+"22.03.2015","cities","Pskov","",2
+"22.03.2015","cities","Sterlitamak","",2
+"22.03.2015","cities","Tyumen","",2
+"22.03.2015","cities","Kaluga","",2
+"22.03.2015","cities","Tambov","",2
+"22.03.2015","countries","Russia","",440
+"22.03.2015","countries","Ukraine","",45
+"22.03.2015","countries","USA","",16
+"22.03.2015","countries","Belarus","",15
+"22.03.2015","countries","Kazakhstan","",12
+"22.03.2015","countries","France","",9
+"22.03.2015","countries","Germany","",4
+"22.03.2015","countries","Bulgaria","",3
+"22.03.2015","countries","Turkey","",2
+"22.03.2015","countries","Romania","",1
+"22.03.2015","countries","Australia","",1
+"22.03.2015","countries","Morocco","",1
+"22.03.2015","countries","Latvia","",1
+"22.03.2015","countries","Thailand","",1
+"22.03.2015","countries","United Kingdom","",1
+"22.03.2015","countries","Estonia","",1
+"22.03.2015","countries","","",1
+"22.03.2015","countries","Armenia","",1
+"22.03.2015","countries","Moldova","",1
+"22.03.2015","sections","Discussion board","",35
+"22.03.2015","sections","Videos","",7
+"22.03.2015","sections","Photos","",3
+"22.03.2015","activity","Wall posts","",15
+"22.03.2015","activity","Photo comments","",22
+"22.03.2015","activity","Discussion comments","",6
+"22.03.2015","feedback","Like","",57
+"22.03.2015","feedback","Share","",5
+"22.03.2015","feedback","Comments","",103
+"22.03.2015","members","New members","",23
+"22.03.2015","members","Members lost","",21
+"21.03.2015","views","","",844
+"21.03.2015","visitors","","",463
+"21.03.2015","gender","F","",66
+"21.03.2015","gender","M","",289
+"21.03.2015","age","1-18","",53
+"21.03.2015","age","18-21","",52
+"21.03.2015","age","21-24","",51
+"21.03.2015","age","24-27","",44
+"21.03.2015","age","27-30","",45
+"21.03.2015","age","30-35","",23
+"21.03.2015","age","35-45","",34
+"21.03.2015","age","45+","",28
+"21.03.2015","gender_age","F","1-18",11
+"21.03.2015","gender_age","F","18-21",10
+"21.03.2015","gender_age","F","21-24",8
+"21.03.2015","gender_age","F","24-27",7
+"21.03.2015","gender_age","F","27-30",5
+"21.03.2015","gender_age","F","30-35",6
+"21.03.2015","gender_age","F","35-45",3
+"21.03.2015","gender_age","F","45+",8
+"21.03.2015","gender_age","M","1-18",42
+"21.03.2015","gender_age","M","18-21",42
+"21.03.2015","gender_age","M","21-24",43
+"21.03.2015","gender_age","M","24-27",37
+"21.03.2015","gender_age","M","27-30",40
+"21.03.2015","gender_age","M","30-35",17
+"21.03.2015","gender_age","M","35-45",30
+"21.03.2015","gender_age","M","45+",20
+"21.03.2015","cities","Moscow","",29
+"21.03.2015","cities","Saint Petersburg","",13
+"21.03.2015","cities","Samara","",5
+"21.03.2015","cities","Yekaterinburg","",5
+"21.03.2015","cities","Krasnodar","",5
+"21.03.2015","cities","Volgograd","",4
+"21.03.2015","cities","Komsomolsk-Na-Amure","",3
+"21.03.2015","cities","Bryansk","",3
+"21.03.2015","cities","Vitebsk","",3
+"21.03.2015","cities","Syzran","",3
+"21.03.2015","cities","Almaty","",3
+"21.03.2015","cities","Kaluga","",3
+"21.03.2015","cities","Arkhangelsk","",3
+"21.03.2015","cities","Saratov","",3
+"21.03.2015","cities","Chelyabinsk","",3
+"21.03.2015","cities","Los Angeles","",3
+"21.03.2015","cities","Rubtsovsk","",2
+"21.03.2015","cities","Tuymazy","",2
+"21.03.2015","cities","Krasnoyarsk","",2
+"21.03.2015","cities","Tyumen","",2
+"21.03.2015","cities","Saransk","",2
+"21.03.2015","cities","Kursk","",2
+"21.03.2015","cities","Lipetsk","",2
+"21.03.2015","cities","Mezhdurechensk","",2
+"21.03.2015","cities","Irkutsk","",2
+"21.03.2015","countries","Russia","",341
+"21.03.2015","countries","Ukraine","",42
+"21.03.2015","countries","Kazakhstan","",22
+"21.03.2015","countries","USA","",19
+"21.03.2015","countries","Belarus","",14
+"21.03.2015","countries","Canada","",7
+"21.03.2015","countries","Romania","",2
+"21.03.2015","countries","Germany","",2
+"21.03.2015","countries","Ghana","",2
+"21.03.2015","countries","","",2
+"21.03.2015","countries","Somalia","",1
+"21.03.2015","countries","Uzbekistan","",1
+"21.03.2015","countries","Italy","",1
+"21.03.2015","countries","Czech Republic","",1
+"21.03.2015","countries","Azerbaijan","",1
+"21.03.2015","countries","Georgia","",1
+"21.03.2015","countries","Estonia","",1
+"21.03.2015","countries","France","",1
+"21.03.2015","countries","","",1
+"21.03.2015","countries","Netherlands","",1
+"21.03.2015","sections","Discussion board","",27
+"21.03.2015","sections","Videos","",6
+"21.03.2015","sections","Photos","",7
+"21.03.2015","activity","Wall posts","",8
+"21.03.2015","activity","Photo comments","",31
+"21.03.2015","activity","Discussion comments","",3
+"21.03.2015","feedback","Like","",42
+"21.03.2015","feedback","Share","",7
+"21.03.2015","feedback","Comments","",99
+"21.03.2015","members","New members","",17
+"21.03.2015","members","Members lost","",22
+"20.03.2015","views","","",842
+"20.03.2015","visitors","","",430
+"20.03.2015","gender","F","",67
+"20.03.2015","gender","M","",266
+"20.03.2015","age","1-18","",41
+"20.03.2015","age","18-21","",39
+"20.03.2015","age","21-24","",49
+"20.03.2015","age","24-27","",43
+"20.03.2015","age","27-30","",42
+"20.03.2015","age","30-35","",35
+"20.03.2015","age","35-45","",26
+"20.03.2015","age","45+","",31
+"20.03.2015","gender_age","F","1-18",7
+"20.03.2015","gender_age","F","18-21",8
+"20.03.2015","gender_age","F","21-24",13
+"20.03.2015","gender_age","F","24-27",11
+"20.03.2015","gender_age","F","27-30",8
+"20.03.2015","gender_age","F","30-35",4
+"20.03.2015","gender_age","F","35-45",2
+"20.03.2015","gender_age","F","45+",5
+"20.03.2015","gender_age","M","1-18",34
+"20.03.2015","gender_age","M","18-21",31
+"20.03.2015","gender_age","M","21-24",36
+"20.03.2015","gender_age","M","24-27",32
+"20.03.2015","gender_age","M","27-30",34
+"20.03.2015","gender_age","M","30-35",30
+"20.03.2015","gender_age","M","35-45",24
+"20.03.2015","gender_age","M","45+",26
+"20.03.2015","cities","Moscow","",30
+"20.03.2015","cities","Saint Petersburg","",18
+"20.03.2015","cities","Nizhny Novgorod","",6
+"20.03.2015","cities","Ufa","",6
+"20.03.2015","cities","Bryansk","",5
+"20.03.2015","cities","Perm","",4
+"20.03.2015","cities","Tyumen","",4
+"20.03.2015","cities","Tolyatti","",4
+"20.03.2015","cities","Krasnodar","",4
+"20.03.2015","cities","Irkutsk","",3
+"20.03.2015","cities","Saratov","",3
+"20.03.2015","cities","Nizhnekamsk","",3
+"20.03.2015","cities","Kiev","",3
+"20.03.2015","cities","Kirovograd","",3
+"20.03.2015","cities","Kharkiv","",3
+"20.03.2015","cities","Omsk","",2
+"20.03.2015","cities","Krasnoyarsk","",2
+"20.03.2015","cities","Mozhga","",2
+"20.03.2015","cities","Novocherkassk","",2
+"20.03.2015","cities","Kaluga","",2
+"20.03.2015","cities","Khabarovsk","",2
+"20.03.2015","cities","Saransk","",2
+"20.03.2015","cities","Smolensk","",2
+"20.03.2015","cities","Chelyabinsk","",2
+"20.03.2015","cities","Boston","",2
+"20.03.2015","countries","Russia","",313
+"20.03.2015","countries","Ukraine","",43
+"20.03.2015","countries","USA","",20
+"20.03.2015","countries","Kazakhstan","",18
+"20.03.2015","countries","Belarus","",10
+"20.03.2015","countries","Germany","",6
+"20.03.2015","countries","Moldova","",3
+"20.03.2015","countries","Portugal","",2
+"20.03.2015","countries","Netherlands","",2
+"20.03.2015","countries","China","",2
+"20.03.2015","countries","United Kingdom","",2
+"20.03.2015","countries","Azerbaijan","",2
+"20.03.2015","countries","Uzbekistan","",1
+"20.03.2015","countries","Spain","",1
+"20.03.2015","countries","India","",1
+"20.03.2015","countries","Romania","",1
+"20.03.2015","countries","United Arab Emirates","",1
+"20.03.2015","countries","France","",1
+"20.03.2015","countries","Bulgaria","",1
+"20.03.2015","sections","Discussion board","",25
+"20.03.2015","sections","Audio files","",1
+"20.03.2015","sections","Videos","",5
+"20.03.2015","sections","Photos","",12
+"20.03.2015","activity","Wall posts","",6
+"20.03.2015","activity","Photo comments","",13
+"20.03.2015","activity","Discussion comments","",2
+"20.03.2015","feedback","Like","",38
+"20.03.2015","feedback","Share","",11
+"20.03.2015","feedback","Comments","",52
+"20.03.2015","members","New members","",34
+"20.03.2015","members","Members lost","",22
+"19.03.2015","views","","",768
+"19.03.2015","visitors","","",410
+"19.03.2015","gender","F","",63
+"19.03.2015","gender","M","",265
+"19.03.2015","age","1-18","",34
+"19.03.2015","age","18-21","",49
+"19.03.2015","age","21-24","",61
+"19.03.2015","age","24-27","",41
+"19.03.2015","age","27-30","",33
+"19.03.2015","age","30-35","",26
+"19.03.2015","age","35-45","",25
+"19.03.2015","age","45+","",15
+"19.03.2015","gender_age","F","1-18",5
+"19.03.2015","gender_age","F","18-21",8
+"19.03.2015","gender_age","F","21-24",16
+"19.03.2015","gender_age","F","24-27",9
+"19.03.2015","gender_age","F","27-30",6
+"19.03.2015","gender_age","F","30-35",3
+"19.03.2015","gender_age","F","35-45",1
+"19.03.2015","gender_age","F","45+",4
+"19.03.2015","gender_age","M","1-18",29
+"19.03.2015","gender_age","M","18-21",41
+"19.03.2015","gender_age","M","21-24",45
+"19.03.2015","gender_age","M","24-27",32
+"19.03.2015","gender_age","M","27-30",27
+"19.03.2015","gender_age","M","30-35",23
+"19.03.2015","gender_age","M","35-45",24
+"19.03.2015","gender_age","M","45+",11
+"19.03.2015","cities","Moscow","",40
+"19.03.2015","cities","Saint Petersburg","",17
+"19.03.2015","cities","Perm","",5
+"19.03.2015","cities","Ufa","",5
+"19.03.2015","cities","Kiev","",5
+"19.03.2015","cities","Cheboxary","",4
+"19.03.2015","cities","Kirov","",3
+"19.03.2015","cities","Karaganda","",3
+"19.03.2015","cities","Kemerovo","",3
+"19.03.2015","cities","Bryansk","",3
+"19.03.2015","cities","Novosibirsk","",3
+"19.03.2015","cities","Naberezhnye Chelny","",3
+"19.03.2015","cities","Voronezh","",3
+"19.03.2015","cities","Kirovograd","",3
+"19.03.2015","cities","Donetsk","",3
+"19.03.2015","cities","Sevastopol","",3
+"19.03.2015","cities","Saratov","",3
+"19.03.2015","cities","Nizhnekamsk","",2
+"19.03.2015","cities","Kaluga","",2
+"19.03.2015","cities","Vitebsk","",2
+"19.03.2015","cities","Novocherkassk","",2
+"19.03.2015","cities","Abakan","",2
+"19.03.2015","cities","Tula","",2
+"19.03.2015","cities","Kingston","",2
+"19.03.2015","cities","Mainz","",2
+"19.03.2015","countries","Russia","",302
+"19.03.2015","countries","Ukraine","",43
+"19.03.2015","countries","Belarus","",14
+"19.03.2015","countries","Kazakhstan","",10
+"19.03.2015","countries","USA","",10
+"19.03.2015","countries","Germany","",5
+"19.03.2015","countries","Armenia","",3
+"19.03.2015","countries","Azerbaijan","",3
+"19.03.2015","countries","United Arab Emirates","",2
+"19.03.2015","countries","Portugal","",2
+"19.03.2015","countries","Canada","",2
+"19.03.2015","countries","France","",2
+"19.03.2015","countries","Lithuania","",2
+"19.03.2015","countries","Italy","",2
+"19.03.2015","countries","Spain","",1
+"19.03.2015","countries","India","",1
+"19.03.2015","countries","Netherlands","",1
+"19.03.2015","countries","Georgia","",1
+"19.03.2015","countries","Japan","",1
+"19.03.2015","countries","Egypt","",1
+"19.03.2015","countries","United Kingdom","",1
+"19.03.2015","countries","Estonia","",1
+"19.03.2015","sections","Discussion board","",31
+"19.03.2015","sections","Videos","",4
+"19.03.2015","sections","Photos","",10
+"19.03.2015","activity","Wall posts","",9
+"19.03.2015","activity","Photo comments","",12
+"19.03.2015","feedback","Like","",35
+"19.03.2015","feedback","Share","",8
+"19.03.2015","feedback","Comments","",52
+"19.03.2015","members","New members","",19
+"19.03.2015","members","Members lost","",17
+"18.03.2015","views","","",890
+"18.03.2015","visitors","","",427
+"18.03.2015","gender","F","",75
+"18.03.2015","gender","M","",247
+"18.03.2015","age","1-18","",39
+"18.03.2015","age","18-21","",47
+"18.03.2015","age","21-24","",51
+"18.03.2015","age","24-27","",50
+"18.03.2015","age","27-30","",37
+"18.03.2015","age","30-35","",30
+"18.03.2015","age","35-45","",21
+"18.03.2015","age","45+","",22
+"18.03.2015","gender_age","F","1-18",10
+"18.03.2015","gender_age","F","18-21",14
+"18.03.2015","gender_age","F","21-24",14
+"18.03.2015","gender_age","F","24-27",12
+"18.03.2015","gender_age","F","27-30",4
+"18.03.2015","gender_age","F","30-35",8
+"18.03.2015","gender_age","F","35-45",1
+"18.03.2015","gender_age","F","45+",4
+"18.03.2015","gender_age","M","1-18",29
+"18.03.2015","gender_age","M","18-21",33
+"18.03.2015","gender_age","M","21-24",37
+"18.03.2015","gender_age","M","24-27",38
+"18.03.2015","gender_age","M","27-30",33
+"18.03.2015","gender_age","M","30-35",22
+"18.03.2015","gender_age","M","35-45",20
+"18.03.2015","gender_age","M","45+",18
+"18.03.2015","cities","Moscow","",30
+"18.03.2015","cities","Saint Petersburg","",10
+"18.03.2015","cities","Nizhny Novgorod","",8
+"18.03.2015","cities","Novosibirsk","",7
+"18.03.2015","cities","Krasnoyarsk","",5
+"18.03.2015","cities","Astana","",4
+"18.03.2015","cities","Ufa","",4
+"18.03.2015","cities","Kiev","",4
+"18.03.2015","cities","Voronezh","",3
+"18.03.2015","cities","Cheboxary","",3
+"18.03.2015","cities","Omsk","",3
+"18.03.2015","cities","Kazan","",3
+"18.03.2015","cities","Minsk ","",3
+"18.03.2015","cities","Naberezhnye Chelny","",3
+"18.03.2015","cities","Novocherkassk","",3
+"18.03.2015","cities","Bryansk","",3
+"18.03.2015","cities","Dnipropetrovsk","",3
+"18.03.2015","cities","Kaluga","",3
+"18.03.2015","cities","Isilkul","",2
+"18.03.2015","cities","Ryazan","",2
+"18.03.2015","cities","Rostov-on-Don","",2
+"18.03.2015","cities","Novy Urengoy","",2
+"18.03.2015","cities","Karaganda","",2
+"18.03.2015","cities","Lviv","",2
+"18.03.2015","cities","Nizhnevartovsk","",2
+"18.03.2015","countries","Russia","",300
+"18.03.2015","countries","Ukraine","",47
+"18.03.2015","countries","USA","",22
+"18.03.2015","countries","Kazakhstan","",20
+"18.03.2015","countries","Belarus","",13
+"18.03.2015","countries","Japan","",4
+"18.03.2015","countries","Germany","",3
+"18.03.2015","countries","Portugal","",2
+"18.03.2015","countries","Ghana","",2
+"18.03.2015","countries","Moldova","",1
+"18.03.2015","countries","Estonia","",1
+"18.03.2015","countries","Kyrgyzstan","",1
+"18.03.2015","countries","United Kingdom","",1
+"18.03.2015","countries","Montenegro","",1
+"18.03.2015","countries","Armenia","",1
+"18.03.2015","countries","France","",1
+"18.03.2015","countries","Laos","",1
+"18.03.2015","countries","Netherlands","",1
+"18.03.2015","countries","","",1
+"18.03.2015","countries","Czech Republic","",1
+"18.03.2015","countries","Pakistan","",1
+"18.03.2015","countries","Sweden","",1
+"18.03.2015","countries","Uzbekistan","",1
+"18.03.2015","sections","Discussion board","",23
+"18.03.2015","sections","Videos","",2
+"18.03.2015","sections","Photos","",2
+"18.03.2015","activity","Wall posts","",10
+"18.03.2015","activity","Photo comments","",11
+"18.03.2015","feedback","Like","",20
+"18.03.2015","feedback","Share","",2
+"18.03.2015","feedback","Comments","",29
+"18.03.2015","members","New members","",16
+"18.03.2015","members","Members lost","",17
+"17.03.2015","views","","",795
+"17.03.2015","visitors","","",413
+"17.03.2015","gender","F","",71
+"17.03.2015","gender","M","",263
+"17.03.2015","age","1-18","",46
+"17.03.2015","age","18-21","",49
+"17.03.2015","age","21-24","",52
+"17.03.2015","age","24-27","",37
+"17.03.2015","age","27-30","",43
+"17.03.2015","age","30-35","",35
+"17.03.2015","age","35-45","",20
+"17.03.2015","age","45+","",21
+"17.03.2015","gender_age","F","1-18",12
+"17.03.2015","gender_age","F","18-21",10
+"17.03.2015","gender_age","F","21-24",10
+"17.03.2015","gender_age","F","24-27",12
+"17.03.2015","gender_age","F","27-30",8
+"17.03.2015","gender_age","F","30-35",3
+"17.03.2015","gender_age","F","35-45",3
+"17.03.2015","gender_age","F","45+",5
+"17.03.2015","gender_age","M","1-18",34
+"17.03.2015","gender_age","M","18-21",38
+"17.03.2015","gender_age","M","21-24",42
+"17.03.2015","gender_age","M","24-27",25
+"17.03.2015","gender_age","M","27-30",35
+"17.03.2015","gender_age","M","30-35",32
+"17.03.2015","gender_age","M","35-45",17
+"17.03.2015","gender_age","M","45+",16
+"17.03.2015","cities","Moscow","",42
+"17.03.2015","cities","Saint Petersburg","",16
+"17.03.2015","cities","Yekaterinburg","",7
+"17.03.2015","cities","Novy Urengoy","",5
+"17.03.2015","cities","Donetsk","",5
+"17.03.2015","cities","Tyumen","",4
+"17.03.2015","cities","Nizhny Novgorod","",4
+"17.03.2015","cities","Volgograd","",4
+"17.03.2015","cities","Naberezhnye Chelny","",4
+"17.03.2015","cities","Bryansk","",3
+"17.03.2015","cities","Kanash","",3
+"17.03.2015","cities","Kaluga","",3
+"17.03.2015","cities","Kharkiv","",3
+"17.03.2015","cities","Chelyabinsk","",3
+"17.03.2015","cities","Smolensk","",3
+"17.03.2015","cities","Vitebsk","",3
+"17.03.2015","cities","Ufa","",3
+"17.03.2015","cities","Kazan","",2
+"17.03.2015","cities","Novocherkassk","",2
+"17.03.2015","cities","Karaganda","",2
+"17.03.2015","cities","Kirovograd","",2
+"17.03.2015","cities","Zimovniki","",2
+"17.03.2015","cities","Ryazan","",2
+"17.03.2015","cities","Saratov","",2
+"17.03.2015","cities","Rostov-on-Don","",2
+"17.03.2015","countries","Russia","",308
+"17.03.2015","countries","Ukraine","",48
+"17.03.2015","countries","Belarus","",15
+"17.03.2015","countries","Kazakhstan","",14
+"17.03.2015","countries","USA","",12
+"17.03.2015","countries","Germany","",4
+"17.03.2015","countries","Japan","",3
+"17.03.2015","countries","Portugal","",2
+"17.03.2015","countries","Czech Republic","",1
+"17.03.2015","countries","Lithuania","",1
+"17.03.2015","countries","Tajikistan","",1
+"17.03.2015","countries","Georgia","",1
+"17.03.2015","countries","Sweden","",1
+"17.03.2015","countries","Azerbaijan","",1
+"17.03.2015","countries","Moldova","",1
+"17.03.2015","sections","Discussion board","",19
+"17.03.2015","sections","Videos","",6
+"17.03.2015","sections","Photos","",1
+"17.03.2015","activity","Wall posts","",4
+"17.03.2015","activity","Photo comments","",5
+"17.03.2015","activity","Discussion comments","",2
+"17.03.2015","feedback","Like","",93
+"17.03.2015","feedback","Share","",25
+"17.03.2015","feedback","Comments","",41
+"17.03.2015","members","New members","",23
+"17.03.2015","members","Members lost","",15
+"16.03.2015","views","","",746
+"16.03.2015","visitors","","",415
+"16.03.2015","gender","F","",66
+"16.03.2015","gender","M","",253
+"16.03.2015","age","1-18","",37
+"16.03.2015","age","18-21","",35
+"16.03.2015","age","21-24","",52
+"16.03.2015","age","24-27","",46
+"16.03.2015","age","27-30","",25
+"16.03.2015","age","30-35","",34
+"16.03.2015","age","35-45","",32
+"16.03.2015","age","45+","",20
+"16.03.2015","gender_age","F","1-18",7
+"16.03.2015","gender_age","F","18-21",6
+"16.03.2015","gender_age","F","21-24",16
+"16.03.2015","gender_age","F","24-27",8
+"16.03.2015","gender_age","F","27-30",4
+"16.03.2015","gender_age","F","30-35",4
+"16.03.2015","gender_age","F","35-45",2
+"16.03.2015","gender_age","F","45+",2
+"16.03.2015","gender_age","M","1-18",30
+"16.03.2015","gender_age","M","18-21",29
+"16.03.2015","gender_age","M","21-24",36
+"16.03.2015","gender_age","M","24-27",38
+"16.03.2015","gender_age","M","27-30",21
+"16.03.2015","gender_age","M","30-35",30
+"16.03.2015","gender_age","M","35-45",30
+"16.03.2015","gender_age","M","45+",18
+"16.03.2015","cities","Moscow","",35
+"16.03.2015","cities","Saint Petersburg","",7
+"16.03.2015","cities","Yekaterinburg","",6
+"16.03.2015","cities","Nizhnevartovsk","",6
+"16.03.2015","cities","Volgograd","",6
+"16.03.2015","cities","Nizhny Novgorod","",5
+"16.03.2015","cities","Kiev","",5
+"16.03.2015","cities","Tyumen","",4
+"16.03.2015","cities","Barnaul","",3
+"16.03.2015","cities","Ryazan","",3
+"16.03.2015","cities","Naberezhnye Chelny","",3
+"16.03.2015","cities","Pskov","",3
+"16.03.2015","cities","Kaluga","",3
+"16.03.2015","cities","Kanash","",3
+"16.03.2015","cities","Samara","",3
+"16.03.2015","cities","Minsk ","",3
+"16.03.2015","cities","Donetsk","",3
+"16.03.2015","cities","Novocherkassk","",2
+"16.03.2015","cities","Ufa","",2
+"16.03.2015","cities","Almaty","",2
+"16.03.2015","cities","Petropavlovsk","",2
+"16.03.2015","cities","Sumy","",2
+"16.03.2015","cities","Sterlitamak","",2
+"16.03.2015","cities","Luhansk","",2
+"16.03.2015","cities","Oral","",2
+"16.03.2015","countries","Russia","",285
+"16.03.2015","countries","Ukraine","",46
+"16.03.2015","countries","Kazakhstan","",23
+"16.03.2015","countries","USA","",18
+"16.03.2015","countries","Belarus","",16
+"16.03.2015","countries","Canada","",8
+"16.03.2015","countries","Germany","",6
+"16.03.2015","countries","Romania","",4
+"16.03.2015","countries","Sweden","",2
+"16.03.2015","countries","Lithuania","",1
+"16.03.2015","countries","Kyrgyzstan","",1
+"16.03.2015","countries","Georgia","",1
+"16.03.2015","countries","Portugal","",1
+"16.03.2015","countries","India","",1
+"16.03.2015","countries","Netherlands","",1
+"16.03.2015","countries","China","",1
+"16.03.2015","sections","Discussion board","",36
+"16.03.2015","sections","Videos","",7
+"16.03.2015","sections","Photos","",5
+"16.03.2015","activity","Wall posts","",9
+"16.03.2015","activity","Photo comments","",19
+"16.03.2015","feedback","Like","",17
+"16.03.2015","feedback","Share","",4
+"16.03.2015","feedback","Comments","",76
+"16.03.2015","members","New members","",21
+"16.03.2015","members","Members lost","",17
+"15.03.2015","views","","",842
+"15.03.2015","visitors","","",402
+"15.03.2015","gender","F","",51
+"15.03.2015","gender","M","",249
+"15.03.2015","age","1-18","",31
+"15.03.2015","age","18-21","",42
+"15.03.2015","age","21-24","",40
+"15.03.2015","age","24-27","",44
+"15.03.2015","age","27-30","",30
+"15.03.2015","age","30-35","",29
+"15.03.2015","age","35-45","",33
+"15.03.2015","age","45+","",18
+"15.03.2015","gender_age","F","1-18",4
+"15.03.2015","gender_age","F","18-21",8
+"15.03.2015","gender_age","F","21-24",7
+"15.03.2015","gender_age","F","24-27",6
+"15.03.2015","gender_age","F","27-30",5
+"15.03.2015","gender_age","F","30-35",4
+"15.03.2015","gender_age","F","35-45",5
+"15.03.2015","gender_age","F","45+",1
+"15.03.2015","gender_age","M","1-18",27
+"15.03.2015","gender_age","M","18-21",34
+"15.03.2015","gender_age","M","21-24",33
+"15.03.2015","gender_age","M","24-27",38
+"15.03.2015","gender_age","M","27-30",25
+"15.03.2015","gender_age","M","30-35",25
+"15.03.2015","gender_age","M","35-45",28
+"15.03.2015","gender_age","M","45+",17
+"15.03.2015","cities","Moscow","",28
+"15.03.2015","cities","Saint Petersburg","",10
+"15.03.2015","cities","Barnaul","",5
+"15.03.2015","cities","Saratov","",4
+"15.03.2015","cities","Irkutsk","",3
+"15.03.2015","cities","Tolyatti","",3
+"15.03.2015","cities","Kaluga","",3
+"15.03.2015","cities","Ufa","",3
+"15.03.2015","cities","Magnitogorsk","",3
+"15.03.2015","cities","Vitebsk","",3
+"15.03.2015","cities","Volgograd","",3
+"15.03.2015","cities","Surgut","",3
+"15.03.2015","cities","Krasnodar","",3
+"15.03.2015","cities","Novocherkassk","",3
+"15.03.2015","cities","Kazan","",3
+"15.03.2015","cities","Berlin","",3
+"15.03.2015","cities","Ulyanovsk","",2
+"15.03.2015","cities","Krasnoyarsk","",2
+"15.03.2015","cities","Khabarovsk","",2
+"15.03.2015","cities","Tomsk","",2
+"15.03.2015","cities","Karaganda","",2
+"15.03.2015","cities","Nizhny Novgorod","",2
+"15.03.2015","cities","Kirovograd","",2
+"15.03.2015","cities","New York City","",2
+"15.03.2015","cities","Kurgan","",2
+"15.03.2015","countries","Russia","",291
+"15.03.2015","countries","Ukraine","",44
+"15.03.2015","countries","USA","",25
+"15.03.2015","countries","Kazakhstan","",16
+"15.03.2015","countries","Belarus","",12
+"15.03.2015","countries","France","",2
+"15.03.2015","countries","Armenia","",2
+"15.03.2015","countries","Turkey","",2
+"15.03.2015","countries","Canada","",2
+"15.03.2015","countries","Estonia","",1
+"15.03.2015","countries","Sweden","",1
+"15.03.2015","countries","Uzbekistan","",1
+"15.03.2015","countries","India","",1
+"15.03.2015","countries","Algeria","",1
+"15.03.2015","countries","Netherlands","",1
+"15.03.2015","sections","Discussion board","",32
+"15.03.2015","sections","Videos","",6
+"15.03.2015","sections","Photos","",20
+"15.03.2015","activity","Wall posts","",9
+"15.03.2015","activity","Photo comments","",2
+"15.03.2015","activity","Discussion comments","",4
+"15.03.2015","feedback","Like","",29
+"15.03.2015","feedback","Share","",1
+"15.03.2015","feedback","Comments","",77
+"15.03.2015","members","New members","",27
+"15.03.2015","members","Members lost","",24
+"14.03.2015","views","","",830
+"14.03.2015","visitors","","",428
+"14.03.2015","gender","F","",51
+"14.03.2015","gender","M","",267
+"14.03.2015","age","1-18","",37
+"14.03.2015","age","18-21","",39
+"14.03.2015","age","21-24","",44
+"14.03.2015","age","24-27","",48
+"14.03.2015","age","27-30","",38
+"14.03.2015","age","30-35","",39
+"14.03.2015","age","35-45","",36
+"14.03.2015","age","45+","",15
+"14.03.2015","gender_age","F","1-18",9
+"14.03.2015","gender_age","F","18-21",5
+"14.03.2015","gender_age","F","21-24",7
+"14.03.2015","gender_age","F","24-27",6
+"14.03.2015","gender_age","F","27-30",4
+"14.03.2015","gender_age","F","30-35",8
+"14.03.2015","gender_age","F","35-45",5
+"14.03.2015","gender_age","F","45+",3
+"14.03.2015","gender_age","M","1-18",28
+"14.03.2015","gender_age","M","18-21",34
+"14.03.2015","gender_age","M","21-24",37
+"14.03.2015","gender_age","M","24-27",41
+"14.03.2015","gender_age","M","27-30",34
+"14.03.2015","gender_age","M","30-35",31
+"14.03.2015","gender_age","M","35-45",31
+"14.03.2015","gender_age","M","45+",12
+"14.03.2015","cities","Moscow","",24
+"14.03.2015","cities","Saint Petersburg","",14
+"14.03.2015","cities","Yekaterinburg","",9
+"14.03.2015","cities","Novosibirsk","",5
+"14.03.2015","cities","Cheboxary","",5
+"14.03.2015","cities","Volgograd","",4
+"14.03.2015","cities","Kiev","",4
+"14.03.2015","cities","Nizhny Novgorod","",4
+"14.03.2015","cities","Samara","",4
+"14.03.2015","cities","Kharkiv","",3
+"14.03.2015","cities","Naberezhnye Chelny","",3
+"14.03.2015","cities","Kanash","",3
+"14.03.2015","cities","Donetsk","",3
+"14.03.2015","cities","Khabarovsk","",3
+"14.03.2015","cities","Nizhnevartovsk","",2
+"14.03.2015","cities","Magnitogorsk","",2
+"14.03.2015","cities","Kaluga","",2
+"14.03.2015","cities","Leninogorsk","",2
+"14.03.2015","cities","Omsk","",2
+"14.03.2015","cities","Kemerovo","",2
+"14.03.2015","cities","Glazov","",2
+"14.03.2015","cities","Saratov","",2
+"14.03.2015","cities","Novy Urengoy","",2
+"14.03.2015","cities","Tashkent","",2
+"14.03.2015","cities","Yaroslavl","",2
+"14.03.2015","countries","Russia","",291
+"14.03.2015","countries","Ukraine","",47
+"14.03.2015","countries","Kazakhstan","",23
+"14.03.2015","countries","USA","",21
+"14.03.2015","countries","Belarus","",12
+"14.03.2015","countries","Germany","",9
+"14.03.2015","countries","Uzbekistan","",4
+"14.03.2015","countries","Ghana","",2
+"14.03.2015","countries","China","",2
+"14.03.2015","countries","Armenia","",2
+"14.03.2015","countries","Azerbaijan","",2
+"14.03.2015","countries","Poland","",1
+"14.03.2015","countries","Spain","",1
+"14.03.2015","countries","Turkmenistan","",1
+"14.03.2015","countries","Netherlands","",1
+"14.03.2015","countries","Vietnam","",1
+"14.03.2015","countries","Latvia","",1
+"14.03.2015","countries","Australia","",1
+"14.03.2015","countries","Romania","",1
+"14.03.2015","countries","Venezuela","",1
+"14.03.2015","countries","Moldova","",1
+"14.03.2015","countries","Tajikistan","",1
+"14.03.2015","countries","Bangladesh","",1
+"14.03.2015","countries","Estonia","",1
+"14.03.2015","sections","Discussion board","",31
+"14.03.2015","sections","Videos","",8
+"14.03.2015","sections","Photos","",4
+"14.03.2015","activity","Wall posts","",6
+"14.03.2015","activity","Photo comments","",44
+"14.03.2015","activity","Discussion comments","",7
+"14.03.2015","feedback","Like","",50
+"14.03.2015","feedback","Share","",10
+"14.03.2015","feedback","Comments","",105
+"14.03.2015","members","New members","",24
+"14.03.2015","members","Members lost","",17
+"13.03.2015","views","","",863
+"13.03.2015","visitors","","",413
+"13.03.2015","gender","F","",56
+"13.03.2015","gender","M","",281
+"13.03.2015","age","1-18","",38
+"13.03.2015","age","18-21","",52
+"13.03.2015","age","21-24","",41
+"13.03.2015","age","24-27","",40
+"13.03.2015","age","27-30","",40
+"13.03.2015","age","30-35","",29
+"13.03.2015","age","35-45","",35
+"13.03.2015","age","45+","",29
+"13.03.2015","gender_age","F","1-18",7
+"13.03.2015","gender_age","F","18-21",5
+"13.03.2015","gender_age","F","21-24",8
+"13.03.2015","gender_age","F","24-27",6
+"13.03.2015","gender_age","F","27-30",4
+"13.03.2015","gender_age","F","30-35",7
+"13.03.2015","gender_age","F","35-45",4
+"13.03.2015","gender_age","F","45+",3
+"13.03.2015","gender_age","M","1-18",31
+"13.03.2015","gender_age","M","18-21",47
+"13.03.2015","gender_age","M","21-24",33
+"13.03.2015","gender_age","M","24-27",34
+"13.03.2015","gender_age","M","27-30",36
+"13.03.2015","gender_age","M","30-35",22
+"13.03.2015","gender_age","M","35-45",31
+"13.03.2015","gender_age","M","45+",26
+"13.03.2015","cities","Moscow","",38
+"13.03.2015","cities","Saint Petersburg","",11
+"13.03.2015","cities","Yekaterinburg","",6
+"13.03.2015","cities","Rostov-on-Don","",5
+"13.03.2015","cities","Ryazan","",4
+"13.03.2015","cities","Novocherkassk","",3
+"13.03.2015","cities","Tyumen","",3
+"13.03.2015","cities","Kemerovo","",3
+"13.03.2015","cities","Naberezhnye Chelny","",3
+"13.03.2015","cities","Krasnodar","",3
+"13.03.2015","cities","Sevastopol","",3
+"13.03.2015","cities","Oryol","",3
+"13.03.2015","cities","Tolyatti","",3
+"13.03.2015","cities","Volgograd","",3
+"13.03.2015","cities","Khabarovsk","",3
+"13.03.2015","cities","Yaroslavl","",3
+"13.03.2015","cities","Leninogorsk","",2
+"13.03.2015","cities","Kaluga","",2
+"13.03.2015","cities","Donetsk","",2
+"13.03.2015","cities","Los Angeles","",2
+"13.03.2015","cities","Krasnoyarsk","",2
+"13.03.2015","cities","Oral","",2
+"13.03.2015","cities","Podolsk","",2
+"13.03.2015","cities","Chelyabinsk","",2
+"13.03.2015","cities","Bryansk","",2
+"13.03.2015","countries","Russia","",299
+"13.03.2015","countries","Ukraine","",41
+"13.03.2015","countries","Kazakhstan","",24
+"13.03.2015","countries","Belarus","",17
+"13.03.2015","countries","USA","",6
+"13.03.2015","countries","Azerbaijan","",4
+"13.03.2015","countries","","",3
+"13.03.2015","countries","Germany","",3
+"13.03.2015","countries","Greece","",2
+"13.03.2015","countries","Romania","",1
+"13.03.2015","countries","Turkmenistan","",1
+"13.03.2015","countries","Singapore","",1
+"13.03.2015","countries","Libya","",1
+"13.03.2015","countries","Egypt","",1
+"13.03.2015","countries","Estonia","",1
+"13.03.2015","countries","Czech Republic","",1
+"13.03.2015","countries","Italy","",1
+"13.03.2015","countries","Moldova","",1
+"13.03.2015","countries","Lithuania","",1
+"13.03.2015","countries","Japan","",1
+"13.03.2015","countries","South Africa","",1
+"13.03.2015","countries","Finland","",1
+"13.03.2015","countries","Ghana","",1
+"13.03.2015","sections","Discussion board","",28
+"13.03.2015","sections","Audio files","",1
+"13.03.2015","sections","Videos","",6
+"13.03.2015","activity","Wall posts","",6
+"13.03.2015","activity","Photo comments","",17
+"13.03.2015","activity","Discussion comments","",3
+"13.03.2015","feedback","Like","",67
+"13.03.2015","feedback","Share","",14
+"13.03.2015","feedback","Comments","",51
+"13.03.2015","members","New members","",22
+"13.03.2015","members","Members lost","",19
+"12.03.2015","views","","",944
+"12.03.2015","visitors","","",467
+"12.03.2015","gender","F","",73
+"12.03.2015","gender","M","",294
+"12.03.2015","age","1-18","",34
+"12.03.2015","age","18-21","",53
+"12.03.2015","age","21-24","",42
+"12.03.2015","age","24-27","",55
+"12.03.2015","age","27-30","",41
+"12.03.2015","age","30-35","",43
+"12.03.2015","age","35-45","",39
+"12.03.2015","age","45+","",30
+"12.03.2015","gender_age","F","1-18",8
+"12.03.2015","gender_age","F","18-21",7
+"12.03.2015","gender_age","F","21-24",10
+"12.03.2015","gender_age","F","24-27",14
+"12.03.2015","gender_age","F","27-30",11
+"12.03.2015","gender_age","F","30-35",4
+"12.03.2015","gender_age","F","35-45",6
+"12.03.2015","gender_age","F","45+",7
+"12.03.2015","gender_age","M","1-18",26
+"12.03.2015","gender_age","M","18-21",46
+"12.03.2015","gender_age","M","21-24",32
+"12.03.2015","gender_age","M","24-27",41
+"12.03.2015","gender_age","M","27-30",30
+"12.03.2015","gender_age","M","30-35",39
+"12.03.2015","gender_age","M","35-45",33
+"12.03.2015","gender_age","M","45+",23
+"12.03.2015","cities","Moscow","",42
+"12.03.2015","cities","Saint Petersburg","",15
+"12.03.2015","cities","Omsk","",7
+"12.03.2015","cities","Naberezhnye Chelny","",4
+"12.03.2015","cities","Barnaul","",4
+"12.03.2015","cities","Kemerovo","",4
+"12.03.2015","cities","Tomsk","",4
+"12.03.2015","cities","Sevastopol","",4
+"12.03.2015","cities","Kazan","",4
+"12.03.2015","cities","Volgograd","",3
+"12.03.2015","cities","Kaluga","",3
+"12.03.2015","cities","Yaroslavl","",3
+"12.03.2015","cities","Zaporizhia","",3
+"12.03.2015","cities","Grodno","",3
+"12.03.2015","cities","Bryansk","",3
+"12.03.2015","cities","Anzhero-Sudzhensk","",2
+"12.03.2015","cities","Krasnoyarsk","",2
+"12.03.2015","cities","Novocherkassk","",2
+"12.03.2015","cities","Tyumen","",2
+"12.03.2015","cities","Cheboxary","",2
+"12.03.2015","cities","Ufa","",2
+"12.03.2015","cities","Rostov-on-Don","",2
+"12.03.2015","cities","Gomel","",2
+"12.03.2015","cities","Nizhnevartovsk","",2
+"12.03.2015","cities","Leninogorsk","",2
+"12.03.2015","countries","Russia","",339
+"12.03.2015","countries","Ukraine","",40
+"12.03.2015","countries","Kazakhstan","",27
+"12.03.2015","countries","Belarus","",22
+"12.03.2015","countries","Germany","",13
+"12.03.2015","countries","USA","",10
+"12.03.2015","countries","Azerbaijan","",2
+"12.03.2015","countries","Ghana","",1
+"12.03.2015","countries","","",1
+"12.03.2015","countries","Kyrgyzstan","",1
+"12.03.2015","countries","Moldova","",1
+"12.03.2015","countries","","",1
+"12.03.2015","countries","China","",1
+"12.03.2015","countries","France","",1
+"12.03.2015","countries","Libya","",1
+"12.03.2015","countries","Turkey","",1
+"12.03.2015","countries","Sweden","",1
+"12.03.2015","countries","Japan","",1
+"12.03.2015","countries","Cyprus","",1
+"12.03.2015","countries","Greece","",1
+"12.03.2015","countries","Georgia","",1
+"12.03.2015","sections","Discussion board","",31
+"12.03.2015","sections","Videos","",7
+"12.03.2015","sections","Photos","",3
+"12.03.2015","activity","Wall posts","",13
+"12.03.2015","activity","Photo comments","",8
+"12.03.2015","feedback","Like","",61
+"12.03.2015","feedback","Share","",9
+"12.03.2015","feedback","Comments","",108
+"12.03.2015","members","New members","",22
+"12.03.2015","members","Members lost","",26
+"11.03.2015","views","","",856
+"11.03.2015","visitors","","",434
+"11.03.2015","gender","F","",56
+"11.03.2015","gender","M","",281
+"11.03.2015","age","1-18","",39
+"11.03.2015","age","18-21","",46
+"11.03.2015","age","21-24","",56
+"11.03.2015","age","24-27","",42
+"11.03.2015","age","27-30","",40
+"11.03.2015","age","30-35","",30
+"11.03.2015","age","35-45","",33
+"11.03.2015","age","45+","",24
+"11.03.2015","gender_age","F","1-18",7
+"11.03.2015","gender_age","F","18-21",8
+"11.03.2015","gender_age","F","21-24",8
+"11.03.2015","gender_age","F","24-27",10
+"11.03.2015","gender_age","F","27-30",6
+"11.03.2015","gender_age","F","30-35",2
+"11.03.2015","gender_age","F","35-45",2
+"11.03.2015","gender_age","F","45+",4
+"11.03.2015","gender_age","M","1-18",32
+"11.03.2015","gender_age","M","18-21",38
+"11.03.2015","gender_age","M","21-24",48
+"11.03.2015","gender_age","M","24-27",32
+"11.03.2015","gender_age","M","27-30",34
+"11.03.2015","gender_age","M","30-35",28
+"11.03.2015","gender_age","M","35-45",31
+"11.03.2015","gender_age","M","45+",20
+"11.03.2015","cities","Moscow","",35
+"11.03.2015","cities","Saint Petersburg","",15
+"11.03.2015","cities","Nizhny Novgorod","",8
+"11.03.2015","cities","Perm","",6
+"11.03.2015","cities","Kiev","",6
+"11.03.2015","cities","Novosibirsk","",6
+"11.03.2015","cities","Almaty","",5
+"11.03.2015","cities","Minsk ","",4
+"11.03.2015","cities","Kaluga","",4
+"11.03.2015","cities","Yekaterinburg","",4
+"11.03.2015","cities","Kanash","",3
+"11.03.2015","cities","Tyumen","",3
+"11.03.2015","cities","Naberezhnye Chelny","",3
+"11.03.2015","cities","Leninogorsk","",3
+"11.03.2015","cities","Kazan","",3
+"11.03.2015","cities","Voronezh","",3
+"11.03.2015","cities","Barnaul","",3
+"11.03.2015","cities","Novocherkassk","",2
+"11.03.2015","cities","Tula","",2
+"11.03.2015","cities","Saratov","",2
+"11.03.2015","cities","Nizhnevartovsk","",2
+"11.03.2015","cities","Novokuznetsk","",2
+"11.03.2015","cities","Arkhangelsk","",2
+"11.03.2015","cities","Kharkiv","",2
+"11.03.2015","cities","Kirishi","",2
+"11.03.2015","countries","Russia","",321
+"11.03.2015","countries","Ukraine","",38
+"11.03.2015","countries","Kazakhstan","",27
+"11.03.2015","countries","Belarus","",16
+"11.03.2015","countries","USA","",10
+"11.03.2015","countries","","",5
+"11.03.2015","countries","China","",2
+"11.03.2015","countries","Germany","",2
+"11.03.2015","countries","Portugal","",1
+"11.03.2015","countries","Poland","",1
+"11.03.2015","countries","Turkey","",1
+"11.03.2015","countries","Brazil","",1
+"11.03.2015","countries","Vietnam","",1
+"11.03.2015","countries","Georgia","",1
+"11.03.2015","countries","Norway","",1
+"11.03.2015","countries","Moldova","",1
+"11.03.2015","countries","Estonia","",1
+"11.03.2015","countries","Czech Republic","",1
+"11.03.2015","countries","Switzerland","",1
+"11.03.2015","countries","Ghana","",1
+"11.03.2015","countries","Romania","",1
+"11.03.2015","sections","Discussion board","",47
+"11.03.2015","sections","Videos","",6
+"11.03.2015","sections","Photos","",5
+"11.03.2015","activity","Wall posts","",8
+"11.03.2015","activity","Photo comments","",23
+"11.03.2015","activity","Video comments","",1
+"11.03.2015","feedback","Like","",70
+"11.03.2015","feedback","Share","",6
+"11.03.2015","feedback","Comments","",66
+"11.03.2015","members","New members","",23
+"11.03.2015","members","Members lost","",28
+"10.03.2015","views","","",966
+"10.03.2015","visitors","","",467
+"10.03.2015","gender","F","",85
+"10.03.2015","gender","M","",289
+"10.03.2015","age","1-18","",36
+"10.03.2015","age","18-21","",42
+"10.03.2015","age","21-24","",43
+"10.03.2015","age","24-27","",50
+"10.03.2015","age","27-30","",55
+"10.03.2015","age","30-35","",45
+"10.03.2015","age","35-45","",45
+"10.03.2015","age","45+","",27
+"10.03.2015","gender_age","F","1-18",11
+"10.03.2015","gender_age","F","18-21",7
+"10.03.2015","gender_age","F","21-24",9
+"10.03.2015","gender_age","F","24-27",9
+"10.03.2015","gender_age","F","27-30",17
+"10.03.2015","gender_age","F","30-35",11
+"10.03.2015","gender_age","F","35-45",3
+"10.03.2015","gender_age","F","45+",9
+"10.03.2015","gender_age","M","1-18",25
+"10.03.2015","gender_age","M","18-21",35
+"10.03.2015","gender_age","M","21-24",34
+"10.03.2015","gender_age","M","24-27",41
+"10.03.2015","gender_age","M","27-30",38
+"10.03.2015","gender_age","M","30-35",34
+"10.03.2015","gender_age","M","35-45",42
+"10.03.2015","gender_age","M","45+",18
+"10.03.2015","cities","Moscow","",36
+"10.03.2015","cities","Saint Petersburg","",16
+"10.03.2015","cities","Nizhny Novgorod","",6
+"10.03.2015","cities","Donetsk","",6
+"10.03.2015","cities","Kaluga","",5
+"10.03.2015","cities","Tyumen","",5
+"10.03.2015","cities","Ryazan","",5
+"10.03.2015","cities","Naberezhnye Chelny","",4
+"10.03.2015","cities","Perm","",4
+"10.03.2015","cities","Karaganda","",4
+"10.03.2015","cities","Kanash","",3
+"10.03.2015","cities","Smolensk","",3
+"10.03.2015","cities","Yaroslavl","",3
+"10.03.2015","cities","Astrakhan","",2
+"10.03.2015","cities","Nizhnevartovsk","",2
+"10.03.2015","cities","Novocherkassk","",2
+"10.03.2015","cities","Gomel","",2
+"10.03.2015","cities","Krasnoyarsk","",2
+"10.03.2015","cities","Ukhta","",2
+"10.03.2015","cities","Brest","",2
+"10.03.2015","cities","Yakutsk","",2
+"10.03.2015","cities","Kryvyi Rih","",2
+"10.03.2015","cities","Orenburg","",2
+"10.03.2015","cities","Odessa","",2
+"10.03.2015","cities","Cheboxary","",2
+"10.03.2015","countries","Russia","",344
+"10.03.2015","countries","Ukraine","",44
+"10.03.2015","countries","Kazakhstan","",32
+"10.03.2015","countries","Belarus","",15
+"10.03.2015","countries","USA","",11
+"10.03.2015","countries","Germany","",4
+"10.03.2015","countries","Malaysia","",2
+"10.03.2015","countries","China","",2
+"10.03.2015","countries","Sweden","",1
+"10.03.2015","countries","Finland","",1
+"10.03.2015","countries","Spain","",1
+"10.03.2015","countries","Kyrgyzstan","",1
+"10.03.2015","countries","Vietnam","",1
+"10.03.2015","countries","Tajikistan","",1
+"10.03.2015","countries","Moldova","",1
+"10.03.2015","countries","","",1
+"10.03.2015","countries","Canada","",1
+"10.03.2015","countries","","",1
+"10.03.2015","countries","Uzbekistan","",1
+"10.03.2015","countries","Latvia","",1
+"10.03.2015","countries","Italy","",1
+"10.03.2015","sections","Discussion board","",49
+"10.03.2015","sections","Videos","",8
+"10.03.2015","sections","Photos","",18
+"10.03.2015","activity","Wall posts","",12
+"10.03.2015","activity","Photo comments","",39
+"10.03.2015","activity","Discussion comments","",3
+"10.03.2015","feedback","Like","",89
+"10.03.2015","feedback","Share","",14
+"10.03.2015","feedback","Comments","",94
+"10.03.2015","members","New members","",23
+"10.03.2015","members","Members lost","",31
+"09.03.2015","views","","",927
+"09.03.2015","visitors","","",475
+"09.03.2015","gender","F","",71
+"09.03.2015","gender","M","",261
+"09.03.2015","age","1-18","",41
+"09.03.2015","age","18-21","",45
+"09.03.2015","age","21-24","",62
+"09.03.2015","age","24-27","",36
+"09.03.2015","age","27-30","",34
+"09.03.2015","age","30-35","",30
+"09.03.2015","age","35-45","",28
+"09.03.2015","age","45+","",24
+"09.03.2015","gender_age","F","1-18",9
+"09.03.2015","gender_age","F","18-21",12
+"09.03.2015","gender_age","F","21-24",10
+"09.03.2015","gender_age","F","24-27",7
+"09.03.2015","gender_age","F","27-30",7
+"09.03.2015","gender_age","F","30-35",7
+"09.03.2015","gender_age","F","35-45",3
+"09.03.2015","gender_age","F","45+",5
+"09.03.2015","gender_age","M","1-18",32
+"09.03.2015","gender_age","M","18-21",33
+"09.03.2015","gender_age","M","21-24",52
+"09.03.2015","gender_age","M","24-27",29
+"09.03.2015","gender_age","M","27-30",27
+"09.03.2015","gender_age","M","30-35",23
+"09.03.2015","gender_age","M","35-45",25
+"09.03.2015","gender_age","M","45+",19
+"09.03.2015","cities","Moscow","",34
+"09.03.2015","cities","Saint Petersburg","",20
+"09.03.2015","cities","Tomsk","",4
+"09.03.2015","cities","Tyumen","",4
+"09.03.2015","cities","Arkhangelsk","",4
+"09.03.2015","cities","Kiev","",4
+"09.03.2015","cities","Khabarovsk","",3
+"09.03.2015","cities","Chelyabinsk","",3
+"09.03.2015","cities","Novosibirsk","",3
+"09.03.2015","cities","Donetsk","",3
+"09.03.2015","cities","Orenburg","",3
+"09.03.2015","cities","Ryazan","",3
+"09.03.2015","cities","Ufa","",3
+"09.03.2015","cities","Sevastopol","",3
+"09.03.2015","cities","Naberezhnye Chelny","",2
+"09.03.2015","cities","Vitebsk","",2
+"09.03.2015","cities","Kharkiv","",2
+"09.03.2015","cities","Saratov","",2
+"09.03.2015","cities","Krasnoyarsk","",2
+"09.03.2015","cities","Kanash","",2
+"09.03.2015","cities","Kirov","",2
+"09.03.2015","cities","Novocherkassk","",2
+"09.03.2015","cities","Kirovograd","",2
+"09.03.2015","cities","Gomel","",2
+"09.03.2015","cities","Leninogorsk","",2
+"09.03.2015","countries","Russia","",332
+"09.03.2015","countries","Ukraine","",47
+"09.03.2015","countries","Kazakhstan","",26
+"09.03.2015","countries","USA","",24
+"09.03.2015","countries","Belarus","",18
+"09.03.2015","countries","Latvia","",5
+"09.03.2015","countries","Germany","",5
+"09.03.2015","countries","Netherlands","",3
+"09.03.2015","countries","Armenia","",3
+"09.03.2015","countries","Moldova","",2
+"09.03.2015","countries","Turkey","",2
+"09.03.2015","countries","Romania","",1
+"09.03.2015","countries","Azerbaijan","",1
+"09.03.2015","countries","Singapore","",1
+"09.03.2015","countries","Japan","",1
+"09.03.2015","countries","Hong Kong","",1
+"09.03.2015","countries","France","",1
+"09.03.2015","countries","Estonia","",1
+"09.03.2015","countries","Ghana","",1
+"09.03.2015","sections","Discussion board","",40
+"09.03.2015","sections","Videos","",8
+"09.03.2015","sections","Photos","",2
+"09.03.2015","activity","Wall posts","",9
+"09.03.2015","activity","Photo comments","",4
+"09.03.2015","activity","Discussion comments","",4
+"09.03.2015","feedback","Like","",19
+"09.03.2015","feedback","Share","",4
+"09.03.2015","feedback","Comments","",55
+"09.03.2015","members","New members","",22
+"09.03.2015","members","Members lost","",25
+"08.03.2015","views","","",877
+"08.03.2015","visitors","","",402
+"08.03.2015","gender","F","",61
+"08.03.2015","gender","M","",232
+"08.03.2015","age","1-18","",36
+"08.03.2015","age","18-21","",44
+"08.03.2015","age","21-24","",42
+"08.03.2015","age","24-27","",34
+"08.03.2015","age","27-30","",39
+"08.03.2015","age","30-35","",24
+"08.03.2015","age","35-45","",33
+"08.03.2015","age","45+","",17
+"08.03.2015","gender_age","F","1-18",8
+"08.03.2015","gender_age","F","18-21",8
+"08.03.2015","gender_age","F","21-24",9
+"08.03.2015","gender_age","F","24-27",8
+"08.03.2015","gender_age","F","27-30",4
+"08.03.2015","gender_age","F","30-35",6
+"08.03.2015","gender_age","F","35-45",5
+"08.03.2015","gender_age","F","45+",8
+"08.03.2015","gender_age","M","1-18",28
+"08.03.2015","gender_age","M","18-21",36
+"08.03.2015","gender_age","M","21-24",33
+"08.03.2015","gender_age","M","24-27",26
+"08.03.2015","gender_age","M","27-30",35
+"08.03.2015","gender_age","M","30-35",18
+"08.03.2015","gender_age","M","35-45",28
+"08.03.2015","gender_age","M","45+",9
+"08.03.2015","cities","Moscow","",27
+"08.03.2015","cities","Saint Petersburg","",12
+"08.03.2015","cities","Nizhny Novgorod","",7
+"08.03.2015","cities","Vitebsk","",3
+"08.03.2015","cities","Kaluga","",3
+"08.03.2015","cities","Naberezhnye Chelny","",3
+"08.03.2015","cities","Sevastopol","",3
+"08.03.2015","cities","Volgograd","",3
+"08.03.2015","cities","Kemerovo","",3
+"08.03.2015","cities","Omsk","",3
+"08.03.2015","cities","Astana","",3
+"08.03.2015","cities","Kazan","",3
+"08.03.2015","cities","Voronezh","",3
+"08.03.2015","cities","Kiev","",3
+"08.03.2015","cities","Nizhnevartovsk","",2
+"08.03.2015","cities","Mogilev","",2
+"08.03.2015","cities","Almaty","",2
+"08.03.2015","cities","Samara","",2
+"08.03.2015","cities","Bryansk","",2
+"08.03.2015","cities","Arkhangelsk","",2
+"08.03.2015","cities","Tobolsk","",2
+"08.03.2015","cities","Khimki","",2
+"08.03.2015","cities","Orsk","",2
+"08.03.2015","cities","Sergiev Posad","",2
+"08.03.2015","cities","Kanash","",2
+"08.03.2015","countries","Russia","",289
+"08.03.2015","countries","Ukraine","",36
+"08.03.2015","countries","Kazakhstan","",19
+"08.03.2015","countries","Belarus","",15
+"08.03.2015","countries","USA","",15
+"08.03.2015","countries","Germany","",11
+"08.03.2015","countries","China","",2
+"08.03.2015","countries","Sweden","",2
+"08.03.2015","countries","Netherlands","",2
+"08.03.2015","countries","Israel","",1
+"08.03.2015","countries","Romania","",1
+"08.03.2015","countries","Poland","",1
+"08.03.2015","countries","Japan","",1
+"08.03.2015","countries","Czech Republic","",1
+"08.03.2015","countries","France","",1
+"08.03.2015","countries","Azerbaijan","",1
+"08.03.2015","countries","Kyrgyzstan","",1
+"08.03.2015","countries","Greece","",1
+"08.03.2015","countries","Uzbekistan","",1
+"08.03.2015","countries","Algeria","",1
+"08.03.2015","sections","Discussion board","",26
+"08.03.2015","sections","Audio files","",1
+"08.03.2015","sections","Videos","",6
+"08.03.2015","sections","Photos","",10
+"08.03.2015","activity","Wall posts","",10
+"08.03.2015","activity","Photo comments","",15
+"08.03.2015","activity","Discussion comments","",8
+"08.03.2015","feedback","Like","",74
+"08.03.2015","feedback","Share","",5
+"08.03.2015","feedback","Comments","",57
+"08.03.2015","members","New members","",19
+"08.03.2015","members","Members lost","",24
+"07.03.2015","views","","",857
+"07.03.2015","visitors","","",425
+"07.03.2015","gender","F","",64
+"07.03.2015","gender","M","",276
+"07.03.2015","age","1-18","",45
+"07.03.2015","age","18-21","",50
+"07.03.2015","age","21-24","",44
+"07.03.2015","age","24-27","",41
+"07.03.2015","age","27-30","",45
+"07.03.2015","age","30-35","",34
+"07.03.2015","age","35-45","",24
+"07.03.2015","age","45+","",32
+"07.03.2015","gender_age","F","1-18",8
+"07.03.2015","gender_age","F","18-21",9
+"07.03.2015","gender_age","F","21-24",7
+"07.03.2015","gender_age","F","24-27",8
+"07.03.2015","gender_age","F","27-30",11
+"07.03.2015","gender_age","F","30-35",6
+"07.03.2015","gender_age","F","35-45",2
+"07.03.2015","gender_age","F","45+",8
+"07.03.2015","gender_age","M","1-18",37
+"07.03.2015","gender_age","M","18-21",41
+"07.03.2015","gender_age","M","21-24",37
+"07.03.2015","gender_age","M","24-27",33
+"07.03.2015","gender_age","M","27-30",34
+"07.03.2015","gender_age","M","30-35",28
+"07.03.2015","gender_age","M","35-45",22
+"07.03.2015","gender_age","M","45+",24
+"07.03.2015","cities","Moscow","",27
+"07.03.2015","cities","Kazan","",9
+"07.03.2015","cities","Saint Petersburg","",7
+"07.03.2015","cities","Orsk","",5
+"07.03.2015","cities","Almaty","",5
+"07.03.2015","cities","Belgorod","",4
+"07.03.2015","cities","Kaluga","",4
+"07.03.2015","cities","Chelyabinsk","",4
+"07.03.2015","cities","Perm","",3
+"07.03.2015","cities","Volgograd","",3
+"07.03.2015","cities","Donetsk","",3
+"07.03.2015","cities","Voronezh","",3
+"07.03.2015","cities","Nizhny Novgorod","",3
+"07.03.2015","cities","Krasnodar","",3
+"07.03.2015","cities","Khabarovsk","",3
+"07.03.2015","cities","Novocherkassk","",2
+"07.03.2015","cities","Magnitogorsk","",2
+"07.03.2015","cities","Barnaul","",2
+"07.03.2015","cities","Kirovograd","",2
+"07.03.2015","cities","Ufa","",2
+"07.03.2015","cities","Pskov","",2
+"07.03.2015","cities","Rostov-on-Don","",2
+"07.03.2015","cities","Novy Urengoy","",2
+"07.03.2015","cities","Krasnoyarsk","",2
+"07.03.2015","cities","Nizhnevartovsk","",2
+"07.03.2015","countries","Russia","",322
+"07.03.2015","countries","Ukraine","",38
+"07.03.2015","countries","Kazakhstan","",20
+"07.03.2015","countries","Belarus","",18
+"07.03.2015","countries","USA","",9
+"07.03.2015","countries","Germany","",3
+"07.03.2015","countries","France","",3
+"07.03.2015","countries","Moldova","",2
+"07.03.2015","countries","Spain","",1
+"07.03.2015","countries","Netherlands","",1
+"07.03.2015","countries","Azerbaijan","",1
+"07.03.2015","countries","Ireland","",1
+"07.03.2015","countries","Mexico","",1
+"07.03.2015","countries","Turkmenistan","",1
+"07.03.2015","countries","","",1
+"07.03.2015","countries","Estonia","",1
+"07.03.2015","countries","Turkey","",1
+"07.03.2015","countries","China","",1
+"07.03.2015","sections","Discussion board","",33
+"07.03.2015","sections","Audio files","",3
+"07.03.2015","sections","Videos","",8
+"07.03.2015","sections","Photos","",5
+"07.03.2015","activity","Wall posts","",15
+"07.03.2015","activity","Photo comments","",24
+"07.03.2015","activity","Video comments","",1
+"07.03.2015","activity","Discussion comments","",6
+"07.03.2015","feedback","Like","",43
+"07.03.2015","feedback","Share","",8
+"07.03.2015","feedback","Comments","",70
+"07.03.2015","members","New members","",21
+"07.03.2015","members","Members lost","",19
+"06.03.2015","views","","",907
+"06.03.2015","visitors","","",440
+"06.03.2015","gender","F","",69
+"06.03.2015","gender","M","",258
+"06.03.2015","age","1-18","",43
+"06.03.2015","age","18-21","",45
+"06.03.2015","age","21-24","",50
+"06.03.2015","age","24-27","",35
+"06.03.2015","age","27-30","",34
+"06.03.2015","age","30-35","",37
+"06.03.2015","age","35-45","",23
+"06.03.2015","age","45+","",32
+"06.03.2015","gender_age","F","1-18",6
+"06.03.2015","gender_age","F","18-21",10
+"06.03.2015","gender_age","F","21-24",12
+"06.03.2015","gender_age","F","24-27",10
+"06.03.2015","gender_age","F","27-30",6
+"06.03.2015","gender_age","F","30-35",7
+"06.03.2015","gender_age","F","35-45",3
+"06.03.2015","gender_age","F","45+",11
+"06.03.2015","gender_age","M","1-18",37
+"06.03.2015","gender_age","M","18-21",35
+"06.03.2015","gender_age","M","21-24",38
+"06.03.2015","gender_age","M","24-27",25
+"06.03.2015","gender_age","M","27-30",28
+"06.03.2015","gender_age","M","30-35",30
+"06.03.2015","gender_age","M","35-45",20
+"06.03.2015","gender_age","M","45+",21
+"06.03.2015","cities","Moscow","",41
+"06.03.2015","cities","Saint Petersburg","",17
+"06.03.2015","cities","Kiev","",8
+"06.03.2015","cities","Bryansk","",6
+"06.03.2015","cities","Kharkiv","",5
+"06.03.2015","cities","Kaluga","",4
+"06.03.2015","cities","Naberezhnye Chelny","",4
+"06.03.2015","cities","Saratov","",4
+"06.03.2015","cities","Kazan","",4
+"06.03.2015","cities","Perm","",4
+"06.03.2015","cities","Nizhnevartovsk","",3
+"06.03.2015","cities","Kaliningrad","",3
+"06.03.2015","cities","Almaty","",3
+"06.03.2015","cities","Donetsk","",3
+"06.03.2015","cities","Yaroslavl","",3
+"06.03.2015","cities","Kirovograd","",2
+"06.03.2015","cities","Tyumen","",2
+"06.03.2015","cities","Noyabrsk","",2
+"06.03.2015","cities","Kurgan","",2
+"06.03.2015","cities","Omsk","",2
+"06.03.2015","cities","Cheboxary","",2
+"06.03.2015","cities","Volgodonsk","",2
+"06.03.2015","cities","Novocherkassk","",2
+"06.03.2015","cities","Kingston","",2
+"06.03.2015","cities","Karaganda","",2
+"06.03.2015","countries","Russia","",298
+"06.03.2015","countries","Ukraine","",49
+"06.03.2015","countries","USA","",40
+"06.03.2015","countries","Kazakhstan","",18
+"06.03.2015","countries","Belarus","",17
+"06.03.2015","countries","Moldova","",3
+"06.03.2015","countries","France","",3
+"06.03.2015","countries","Netherlands","",3
+"06.03.2015","countries","Germany","",2
+"06.03.2015","countries","","",1
+"06.03.2015","countries","","",1
+"06.03.2015","countries","China","",1
+"06.03.2015","countries","","",1
+"06.03.2015","countries","Sweden","",1
+"06.03.2015","countries","Estonia","",1
+"06.03.2015","countries","Uzbekistan","",1
+"06.03.2015","sections","Discussion board","",28
+"06.03.2015","sections","Audio files","",1
+"06.03.2015","sections","Videos","",6
+"06.03.2015","sections","Photos","",7
+"06.03.2015","activity","Wall posts","",9
+"06.03.2015","activity","Photo comments","",34
+"06.03.2015","activity","Discussion comments","",2
+"06.03.2015","feedback","Like","",31
+"06.03.2015","feedback","Share","",8
+"06.03.2015","feedback","Comments","",49
+"06.03.2015","members","New members","",29
+"06.03.2015","members","Members lost","",26
+"05.03.2015","views","","",1019
+"05.03.2015","visitors","","",447
+"05.03.2015","gender","F","",71
+"05.03.2015","gender","M","",277
+"05.03.2015","age","1-18","",36
+"05.03.2015","age","18-21","",50
+"05.03.2015","age","21-24","",56
+"05.03.2015","age","24-27","",43
+"05.03.2015","age","27-30","",37
+"05.03.2015","age","30-35","",40
+"05.03.2015","age","35-45","",21
+"05.03.2015","age","45+","",27
+"05.03.2015","gender_age","F","1-18",6
+"05.03.2015","gender_age","F","18-21",8
+"05.03.2015","gender_age","F","21-24",8
+"05.03.2015","gender_age","F","24-27",11
+"05.03.2015","gender_age","F","27-30",7
+"05.03.2015","gender_age","F","30-35",5
+"05.03.2015","gender_age","F","35-45",2
+"05.03.2015","gender_age","F","45+",8
+"05.03.2015","gender_age","M","1-18",30
+"05.03.2015","gender_age","M","18-21",42
+"05.03.2015","gender_age","M","21-24",48
+"05.03.2015","gender_age","M","24-27",32
+"05.03.2015","gender_age","M","27-30",30
+"05.03.2015","gender_age","M","30-35",35
+"05.03.2015","gender_age","M","35-45",19
+"05.03.2015","gender_age","M","45+",19
+"05.03.2015","cities","Moscow","",39
+"05.03.2015","cities","Saint Petersburg","",13
+"05.03.2015","cities","Novosibirsk","",8
+"05.03.2015","cities","Kiev","",7
+"05.03.2015","cities","Kazan","",6
+"05.03.2015","cities","Nizhnevartovsk","",5
+"05.03.2015","cities","Almaty","",5
+"05.03.2015","cities","Voronezh","",5
+"05.03.2015","cities","Nizhny Novgorod","",4
+"05.03.2015","cities","Yekaterinburg","",4
+"05.03.2015","cities","Chelyabinsk","",4
+"05.03.2015","cities","Perm","",3
+"05.03.2015","cities","Minsk ","",3
+"05.03.2015","cities","Naberezhnye Chelny","",3
+"05.03.2015","cities","Kirovograd","",3
+"05.03.2015","cities","Novokuznetsk","",2
+"05.03.2015","cities","Kaluga","",2
+"05.03.2015","cities","Murmansk","",2
+"05.03.2015","cities","Taganrog","",2
+"05.03.2015","cities","Kanash","",2
+"05.03.2015","cities","Gorlovka","",2
+"05.03.2015","cities","Kemerovo","",2
+"05.03.2015","cities","Bryansk","",2
+"05.03.2015","cities","Kharkiv","",2
+"05.03.2015","cities","Astana","",2
+"05.03.2015","countries","Russia","",323
+"05.03.2015","countries","Ukraine","",49
+"05.03.2015","countries","Kazakhstan","",21
+"05.03.2015","countries","Belarus","",14
+"05.03.2015","countries","USA","",14
+"05.03.2015","countries","Italy","",4
+"05.03.2015","countries","Germany","",3
+"05.03.2015","countries","Ghana","",2
+"05.03.2015","countries","Colombia","",1
+"05.03.2015","countries","","",1
+"05.03.2015","countries","Spain","",1
+"05.03.2015","countries","Czech Republic","",1
+"05.03.2015","countries","Greece","",1
+"05.03.2015","countries","India","",1
+"05.03.2015","countries","France","",1
+"05.03.2015","countries","Romania","",1
+"05.03.2015","countries","Tunisia","",1
+"05.03.2015","countries","","",1
+"05.03.2015","countries","Japan","",1
+"05.03.2015","countries","Norway","",1
+"05.03.2015","countries","Azerbaijan","",1
+"05.03.2015","countries","Canada","",1
+"05.03.2015","countries","Ecuador","",1
+"05.03.2015","countries","China","",1
+"05.03.2015","countries","Netherlands","",1
+"05.03.2015","sections","Discussion board","",19
+"05.03.2015","sections","Audio files","",3
+"05.03.2015","sections","Videos","",6
+"05.03.2015","sections","Photos","",5
+"05.03.2015","activity","Wall posts","",24
+"05.03.2015","activity","Photo comments","",36
+"05.03.2015","activity","Discussion comments","",2
+"05.03.2015","feedback","Like","",30
+"05.03.2015","feedback","Share","",5
+"05.03.2015","feedback","Comments","",158
+"05.03.2015","members","New members","",26
+"05.03.2015","members","Members lost","",25
+"04.03.2015","views","","",940
+"04.03.2015","visitors","","",429
+"04.03.2015","gender","F","",61
+"04.03.2015","gender","M","",276
+"04.03.2015","age","1-18","",36
+"04.03.2015","age","18-21","",46
+"04.03.2015","age","21-24","",49
+"04.03.2015","age","24-27","",60
+"04.03.2015","age","27-30","",47
+"04.03.2015","age","30-35","",29
+"04.03.2015","age","35-45","",22
+"04.03.2015","age","45+","",21
+"04.03.2015","gender_age","F","1-18",10
+"04.03.2015","gender_age","F","18-21",7
+"04.03.2015","gender_age","F","21-24",7
+"04.03.2015","gender_age","F","24-27",9
+"04.03.2015","gender_age","F","27-30",7
+"04.03.2015","gender_age","F","30-35",8
+"04.03.2015","gender_age","F","35-45",2
+"04.03.2015","gender_age","F","45+",3
+"04.03.2015","gender_age","M","1-18",26
+"04.03.2015","gender_age","M","18-21",39
+"04.03.2015","gender_age","M","21-24",42
+"04.03.2015","gender_age","M","24-27",51
+"04.03.2015","gender_age","M","27-30",40
+"04.03.2015","gender_age","M","30-35",21
+"04.03.2015","gender_age","M","35-45",20
+"04.03.2015","gender_age","M","45+",18
+"04.03.2015","cities","Moscow","",33
+"04.03.2015","cities","Saint Petersburg","",16
+"04.03.2015","cities","Ulyanovsk","",6
+"04.03.2015","cities","Krasnoyarsk","",5
+"04.03.2015","cities","Perm","",5
+"04.03.2015","cities","Kiev","",5
+"04.03.2015","cities","Ryazan","",5
+"04.03.2015","cities","Nizhny Novgorod","",5
+"04.03.2015","cities","Novocherkassk","",4
+"04.03.2015","cities","Chelyabinsk","",4
+"04.03.2015","cities","Orenburg","",4
+"04.03.2015","cities","Tyumen","",4
+"04.03.2015","cities","Yekaterinburg","",4
+"04.03.2015","cities","Bryansk","",4
+"04.03.2015","cities","Donetsk","",3
+"04.03.2015","cities","Naberezhnye Chelny","",3
+"04.03.2015","cities","Ramenskoe","",3
+"04.03.2015","cities","Yaroslavl","",3
+"04.03.2015","cities","Stary Oskol","",3
+"04.03.2015","cities","Nizhnevartovsk","",2
+"04.03.2015","cities","Joshkar-Ola","",2
+"04.03.2015","cities","Novokuznetsk","",2
+"04.03.2015","cities","Poltava","",2
+"04.03.2015","cities","Irkutsk","",2
+"04.03.2015","cities","Kirovograd","",2
+"04.03.2015","countries","Russia","",305
+"04.03.2015","countries","Ukraine","",47
+"04.03.2015","countries","Belarus","",26
+"04.03.2015","countries","Germany","",11
+"04.03.2015","countries","USA","",11
+"04.03.2015","countries","Kazakhstan","",10
+"04.03.2015","countries","China","",5
+"04.03.2015","countries","Moldova","",2
+"04.03.2015","countries","France","",2
+"04.03.2015","countries","Czech Republic","",1
+"04.03.2015","countries","Uzbekistan","",1
+"04.03.2015","countries","Turkmenistan","",1
+"04.03.2015","countries","Italy","",1
+"04.03.2015","countries","Turkey","",1
+"04.03.2015","countries","Tajikistan","",1
+"04.03.2015","countries","Colombia","",1
+"04.03.2015","countries","Georgia","",1
+"04.03.2015","countries","Azerbaijan","",1
+"04.03.2015","countries","Sweden","",1
+"04.03.2015","sections","Discussion board","",25
+"04.03.2015","sections","Audio files","",1
+"04.03.2015","sections","Videos","",10
+"04.03.2015","sections","Photos","",2
+"04.03.2015","activity","Wall posts","",8
+"04.03.2015","activity","Photo comments","",5
+"04.03.2015","feedback","Like","",33
+"04.03.2015","feedback","Share","",4
+"04.03.2015","feedback","Comments","",91
+"04.03.2015","members","New members","",20
+"04.03.2015","members","Members lost","",27
+"03.03.2015","views","","",930
+"03.03.2015","visitors","","",439
+"03.03.2015","gender","F","",62
+"03.03.2015","gender","M","",263
+"03.03.2015","age","1-18","",40
+"03.03.2015","age","18-21","",46
+"03.03.2015","age","21-24","",43
+"03.03.2015","age","24-27","",42
+"03.03.2015","age","27-30","",45
+"03.03.2015","age","30-35","",31
+"03.03.2015","age","35-45","",32
+"03.03.2015","age","45+","",21
+"03.03.2015","gender_age","F","1-18",9
+"03.03.2015","gender_age","F","18-21",11
+"03.03.2015","gender_age","F","21-24",8
+"03.03.2015","gender_age","F","24-27",6
+"03.03.2015","gender_age","F","27-30",9
+"03.03.2015","gender_age","F","30-35",4
+"03.03.2015","gender_age","F","35-45",5
+"03.03.2015","gender_age","F","45+",6
+"03.03.2015","gender_age","M","1-18",31
+"03.03.2015","gender_age","M","18-21",35
+"03.03.2015","gender_age","M","21-24",35
+"03.03.2015","gender_age","M","24-27",36
+"03.03.2015","gender_age","M","27-30",36
+"03.03.2015","gender_age","M","30-35",27
+"03.03.2015","gender_age","M","35-45",27
+"03.03.2015","gender_age","M","45+",15
+"03.03.2015","cities","Moscow","",29
+"03.03.2015","cities","Saint Petersburg","",11
+"03.03.2015","cities","Kemerovo","",6
+"03.03.2015","cities","Samara","",5
+"03.03.2015","cities","Ufa","",5
+"03.03.2015","cities","Tolyatti","",5
+"03.03.2015","cities","Barnaul","",5
+"03.03.2015","cities","Tyumen","",4
+"03.03.2015","cities","Novosibirsk","",4
+"03.03.2015","cities","Vitebsk","",4
+"03.03.2015","cities","Kiev","",4
+"03.03.2015","cities","Perm","",4
+"03.03.2015","cities","Krasnoyarsk","",3
+"03.03.2015","cities","Ryazan","",3
+"03.03.2015","cities","Kaluga","",3
+"03.03.2015","cities","Cheboxary","",3
+"03.03.2015","cities","Leninogorsk","",3
+"03.03.2015","cities","Naberezhnye Chelny","",3
+"03.03.2015","cities","Odessa","",3
+"03.03.2015","cities","Volgograd","",3
+"03.03.2015","cities","Almaty","",2
+"03.03.2015","cities","Ulan-Ude","",2
+"03.03.2015","cities","Novocheboxarsk","",2
+"03.03.2015","cities","Rostov-on-Don","",2
+"03.03.2015","cities","Khabarovsk","",2
+"03.03.2015","countries","Russia","",308
+"03.03.2015","countries","Ukraine","",46
+"03.03.2015","countries","USA","",26
+"03.03.2015","countries","Kazakhstan","",22
+"03.03.2015","countries","Belarus","",15
+"03.03.2015","countries","Germany","",4
+"03.03.2015","countries","China","",3
+"03.03.2015","countries","France","",2
+"03.03.2015","countries","Azerbaijan","",2
+"03.03.2015","countries","Moldova","",2
+"03.03.2015","countries","South Korea","",1
+"03.03.2015","countries","Brazil","",1
+"03.03.2015","countries","Canada","",1
+"03.03.2015","countries","Czech Republic","",1
+"03.03.2015","countries","Ghana","",1
+"03.03.2015","countries","","",1
+"03.03.2015","countries","United Kingdom","",1
+"03.03.2015","countries","Japan","",1
+"03.03.2015","countries","Norway","",1
+"03.03.2015","sections","Discussion board","",23
+"03.03.2015","sections","Videos","",6
+"03.03.2015","sections","Photos","",9
+"03.03.2015","activity","Wall posts","",16
+"03.03.2015","activity","Photo comments","",16
+"03.03.2015","activity","Discussion comments","",2
+"03.03.2015","feedback","Like","",41
+"03.03.2015","feedback","Share","",3
+"03.03.2015","feedback","Comments","",132
+"03.03.2015","members","New members","",21
+"03.03.2015","members","Members lost","",18
+"02.03.2015","views","","",769
+"02.03.2015","visitors","","",407
+"02.03.2015","gender","F","",72
+"02.03.2015","gender","M","",257
+"02.03.2015","age","1-18","",43
+"02.03.2015","age","18-21","",44
+"02.03.2015","age","21-24","",41
+"02.03.2015","age","24-27","",46
+"02.03.2015","age","27-30","",39
+"02.03.2015","age","30-35","",25
+"02.03.2015","age","35-45","",29
+"02.03.2015","age","45+","",31
+"02.03.2015","gender_age","F","1-18",8
+"02.03.2015","gender_age","F","18-21",10
+"02.03.2015","gender_age","F","21-24",9
+"02.03.2015","gender_age","F","24-27",13
+"02.03.2015","gender_age","F","27-30",9
+"02.03.2015","gender_age","F","30-35",5
+"02.03.2015","gender_age","F","35-45",4
+"02.03.2015","gender_age","F","45+",5
+"02.03.2015","gender_age","M","1-18",35
+"02.03.2015","gender_age","M","18-21",34
+"02.03.2015","gender_age","M","21-24",32
+"02.03.2015","gender_age","M","24-27",33
+"02.03.2015","gender_age","M","27-30",30
+"02.03.2015","gender_age","M","30-35",20
+"02.03.2015","gender_age","M","35-45",25
+"02.03.2015","gender_age","M","45+",26
+"02.03.2015","cities","Moscow","",42
+"02.03.2015","cities","Saint Petersburg","",14
+"02.03.2015","cities","Kazan","",7
+"02.03.2015","cities","Ryazan","",6
+"02.03.2015","cities","Perm","",6
+"02.03.2015","cities","Novosibirsk","",6
+"02.03.2015","cities","Tyumen","",5
+"02.03.2015","cities","Bryansk","",4
+"02.03.2015","cities","Nizhny Novgorod","",4
+"02.03.2015","cities","Yekaterinburg","",4
+"02.03.2015","cities","Chelyabinsk","",3
+"02.03.2015","cities","Krasnoyarsk","",3
+"02.03.2015","cities","Astana","",3
+"02.03.2015","cities","Brest","",3
+"02.03.2015","cities","Kemerovo","",3
+"02.03.2015","cities","Kaluga","",2
+"02.03.2015","cities","Barnaul","",2
+"02.03.2015","cities","Khabarovsk","",2
+"02.03.2015","cities","Naberezhnye Chelny","",2
+"02.03.2015","cities","Samara","",2
+"02.03.2015","cities","Boston","",2
+"02.03.2015","cities","Ufa","",2
+"02.03.2015","cities","Saratov","",2
+"02.03.2015","cities","Ust-Kut","",1
+"02.03.2015","cities","Stary Oskol","",1
+"02.03.2015","countries","Russia","",309
+"02.03.2015","countries","Ukraine","",44
+"02.03.2015","countries","Kazakhstan","",18
+"02.03.2015","countries","Belarus","",13
+"02.03.2015","countries","USA","",9
+"02.03.2015","countries","Germany","",3
+"02.03.2015","countries","Italy","",2
+"02.03.2015","countries","Czech Republic","",1
+"02.03.2015","countries","France","",1
+"02.03.2015","countries","India","",1
+"02.03.2015","countries","Moldova","",1
+"02.03.2015","countries","Spain","",1
+"02.03.2015","countries","Azerbaijan","",1
+"02.03.2015","countries","Switzerland","",1
+"02.03.2015","countries","Ghana","",1
+"02.03.2015","countries","Algeria","",1
+"02.03.2015","sections","Discussion board","",30
+"02.03.2015","sections","Videos","",7
+"02.03.2015","sections","Photos","",5
+"02.03.2015","activity","Wall posts","",9
+"02.03.2015","activity","Photo comments","",4
+"02.03.2015","feedback","Like","",35
+"02.03.2015","feedback","Share","",1
+"02.03.2015","feedback","Comments","",81
+"02.03.2015","members","New members","",22
+"02.03.2015","members","Members lost","",11
+"01.03.2015","views","","",884
+"01.03.2015","visitors","","",473
+"01.03.2015","gender","F","",66
+"01.03.2015","gender","M","",300
+"01.03.2015","age","1-18","",49
+"01.03.2015","age","18-21","",49
+"01.03.2015","age","21-24","",50
+"01.03.2015","age","24-27","",58
+"01.03.2015","age","27-30","",33
+"01.03.2015","age","30-35","",23
+"01.03.2015","age","35-45","",40
+"01.03.2015","age","45+","",28
+"01.03.2015","gender_age","F","1-18",7
+"01.03.2015","gender_age","F","18-21",10
+"01.03.2015","gender_age","F","21-24",11
+"01.03.2015","gender_age","F","24-27",9
+"01.03.2015","gender_age","F","27-30",4
+"01.03.2015","gender_age","F","30-35",3
+"01.03.2015","gender_age","F","35-45",6
+"01.03.2015","gender_age","F","45+",4
+"01.03.2015","gender_age","M","1-18",42
+"01.03.2015","gender_age","M","18-21",39
+"01.03.2015","gender_age","M","21-24",39
+"01.03.2015","gender_age","M","24-27",49
+"01.03.2015","gender_age","M","27-30",29
+"01.03.2015","gender_age","M","30-35",20
+"01.03.2015","gender_age","M","35-45",34
+"01.03.2015","gender_age","M","45+",24
+"01.03.2015","cities","Moscow","",37
+"01.03.2015","cities","Saint Petersburg","",12
+"01.03.2015","cities","Perm","",6
+"01.03.2015","cities","Kazan","",5
+"01.03.2015","cities","Cheboxary","",5
+"01.03.2015","cities","Kharkiv","",5
+"01.03.2015","cities","Nizhny Novgorod","",5
+"01.03.2015","cities","Vitebsk","",4
+"01.03.2015","cities","Ryazan","",4
+"01.03.2015","cities","Omsk","",3
+"01.03.2015","cities","Kaluga","",3
+"01.03.2015","cities","Lipetsk","",3
+"01.03.2015","cities","Kemerovo","",3
+"01.03.2015","cities","Veliky Novgorod","",3
+"01.03.2015","cities","Tyumen","",3
+"01.03.2015","cities","Astana","",3
+"01.03.2015","cities","Yekaterinburg","",3
+"01.03.2015","cities","Krasnodar","",3
+"01.03.2015","cities","Yaroslavl","",2
+"01.03.2015","cities","Novocherkassk","",2
+"01.03.2015","cities","Nizhnevartovsk","",2
+"01.03.2015","cities","Naberezhnye Chelny","",2
+"01.03.2015","cities","Krasnoyarsk","",2
+"01.03.2015","cities","Karaganda","",2
+"01.03.2015","cities","Nizhny Tagil","",2
+"01.03.2015","countries","Russia","",347
+"01.03.2015","countries","Ukraine","",52
+"01.03.2015","countries","Belarus","",25
+"01.03.2015","countries","Kazakhstan","",18
+"01.03.2015","countries","USA","",16
+"01.03.2015","countries","Germany","",6
+"01.03.2015","countries","Georgia","",1
+"01.03.2015","countries","Israel","",1
+"01.03.2015","countries","Italy","",1
+"01.03.2015","countries","France","",1
+"01.03.2015","countries","Norway","",1
+"01.03.2015","countries","Turkey","",1
+"01.03.2015","countries","Greece","",1
+"01.03.2015","countries","Armenia","",1
+"01.03.2015","countries","Japan","",1
+"01.03.2015","sections","Discussion board","",44
+"01.03.2015","sections","Videos","",8
+"01.03.2015","sections","Photos","",5
+"01.03.2015","activity","Wall posts","",12
+"01.03.2015","activity","Photo comments","",8
+"01.03.2015","activity","Discussion comments","",2
+"01.03.2015","feedback","Like","",58
+"01.03.2015","feedback","Share","",9
+"01.03.2015","feedback","Comments","",46
+"01.03.2015","members","New members","",19
+"01.03.2015","members","Members lost","",25
+"28.02.2015","views","","",966
+"28.02.2015","visitors","","",466
+"28.02.2015","gender","F","",73
+"28.02.2015","gender","M","",299
+"28.02.2015","age","1-18","",47
+"28.02.2015","age","18-21","",52
+"28.02.2015","age","21-24","",53
+"28.02.2015","age","24-27","",60
+"28.02.2015","age","27-30","",44
+"28.02.2015","age","30-35","",27
+"28.02.2015","age","35-45","",39
+"28.02.2015","age","45+","",20
+"28.02.2015","gender_age","F","1-18",8
+"28.02.2015","gender_age","F","18-21",11
+"28.02.2015","gender_age","F","21-24",12
+"28.02.2015","gender_age","F","24-27",11
+"28.02.2015","gender_age","F","27-30",5
+"28.02.2015","gender_age","F","30-35",5
+"28.02.2015","gender_age","F","35-45",7
+"28.02.2015","gender_age","F","45+",4
+"28.02.2015","gender_age","M","1-18",39
+"28.02.2015","gender_age","M","18-21",41
+"28.02.2015","gender_age","M","21-24",41
+"28.02.2015","gender_age","M","24-27",49
+"28.02.2015","gender_age","M","27-30",39
+"28.02.2015","gender_age","M","30-35",22
+"28.02.2015","gender_age","M","35-45",32
+"28.02.2015","gender_age","M","45+",16
+"28.02.2015","cities","Moscow","",36
+"28.02.2015","cities","Saint Petersburg","",11
+"28.02.2015","cities","Novosibirsk","",7
+"28.02.2015","cities","Izhevsk","",6
+"28.02.2015","cities","Kazan","",6
+"28.02.2015","cities","Krasnoyarsk","",5
+"28.02.2015","cities","Cheboxary","",5
+"28.02.2015","cities","Kaluga","",5
+"28.02.2015","cities","Orenburg","",5
+"28.02.2015","cities","Kemerovo","",4
+"28.02.2015","cities","Karaganda","",4
+"28.02.2015","cities","Nizhny Novgorod","",4
+"28.02.2015","cities","Chelyabinsk","",3
+"28.02.2015","cities","Balakovo","",3
+"28.02.2015","cities","Kharkiv","",3
+"28.02.2015","cities","Ulyanovsk","",3
+"28.02.2015","cities","Dnipropetrovsk","",2
+"28.02.2015","cities","Kirovograd","",2
+"28.02.2015","cities","Naberezhnye Chelny","",2
+"28.02.2015","cities","Nizhnevartovsk","",2
+"28.02.2015","cities","Donetsk","",2
+"28.02.2015","cities","Vitebsk","",2
+"28.02.2015","cities","Novocherkassk","",2
+"28.02.2015","cities","Astana","",2
+"28.02.2015","cities","Biysk","",2
+"28.02.2015","countries","Russia","",330
+"28.02.2015","countries","Ukraine","",45
+"28.02.2015","countries","USA","",22
+"28.02.2015","countries","Kazakhstan","",20
+"28.02.2015","countries","Belarus","",19
+"28.02.2015","countries","Germany","",6
+"28.02.2015","countries","China","",3
+"28.02.2015","countries","Romania","",3
+"28.02.2015","countries","Canada","",3
+"28.02.2015","countries","Poland","",2
+"28.02.2015","countries","Turkey","",2
+"28.02.2015","countries","Spain","",2
+"28.02.2015","countries","France","",1
+"28.02.2015","countries","Netherlands","",1
+"28.02.2015","countries","Uzbekistan","",1
+"28.02.2015","countries","Algeria","",1
+"28.02.2015","countries","Azerbaijan","",1
+"28.02.2015","countries","United Kingdom","",1
+"28.02.2015","countries","Armenia","",1
+"28.02.2015","countries","Latvia","",1
+"28.02.2015","countries","Serbia","",1
+"28.02.2015","sections","Discussion board","",23
+"28.02.2015","sections","Videos","",10
+"28.02.2015","sections","Photos","",39
+"28.02.2015","activity","Wall posts","",12
+"28.02.2015","activity","Photo comments","",25
+"28.02.2015","activity","Discussion comments","",1
+"28.02.2015","feedback","Like","",60
+"28.02.2015","feedback","Share","",7
+"28.02.2015","feedback","Comments","",55
+"28.02.2015","members","New members","",24
+"28.02.2015","members","Members lost","",30
+"27.02.2015","views","","",1092
+"27.02.2015","visitors","","",468
+"27.02.2015","gender","F","",87
+"27.02.2015","gender","M","",302
+"27.02.2015","age","1-18","",56
+"27.02.2015","age","18-21","",53
+"27.02.2015","age","21-24","",46
+"27.02.2015","age","24-27","",56
+"27.02.2015","age","27-30","",33
+"27.02.2015","age","30-35","",37
+"27.02.2015","age","35-45","",44
+"27.02.2015","age","45+","",27
+"27.02.2015","gender_age","F","1-18",15
+"27.02.2015","gender_age","F","18-21",10
+"27.02.2015","gender_age","F","21-24",9
+"27.02.2015","gender_age","F","24-27",14
+"27.02.2015","gender_age","F","27-30",5
+"27.02.2015","gender_age","F","30-35",8
+"27.02.2015","gender_age","F","35-45",6
+"27.02.2015","gender_age","F","45+",8
+"27.02.2015","gender_age","M","1-18",41
+"27.02.2015","gender_age","M","18-21",43
+"27.02.2015","gender_age","M","21-24",37
+"27.02.2015","gender_age","M","24-27",42
+"27.02.2015","gender_age","M","27-30",28
+"27.02.2015","gender_age","M","30-35",29
+"27.02.2015","gender_age","M","35-45",38
+"27.02.2015","gender_age","M","45+",19
+"27.02.2015","cities","Moscow","",44
+"27.02.2015","cities","Saint Petersburg","",13
+"27.02.2015","cities","Naberezhnye Chelny","",6
+"27.02.2015","cities","Almaty","",5
+"27.02.2015","cities","Izhevsk","",5
+"27.02.2015","cities","Kharkiv","",5
+"27.02.2015","cities","Kemerovo","",4
+"27.02.2015","cities","Sevastopol","",4
+"27.02.2015","cities","Volgograd","",4
+"27.02.2015","cities","Kiev","",4
+"27.02.2015","cities","Nizhnevartovsk","",3
+"27.02.2015","cities","Karaganda","",3
+"27.02.2015","cities","Omsk","",3
+"27.02.2015","cities","Novosibirsk","",3
+"27.02.2015","cities","Chelyabinsk","",3
+"27.02.2015","cities","Vitebsk","",3
+"27.02.2015","cities","Kaluga","",2
+"27.02.2015","cities","Barnaul","",2
+"27.02.2015","cities","Dno","",2
+"27.02.2015","cities","Grodno","",2
+"27.02.2015","cities","Pskov","",2
+"27.02.2015","cities","Kirov","",2
+"27.02.2015","cities","Novocherkassk","",2
+"27.02.2015","cities","Kurgan","",2
+"27.02.2015","cities","Krasnoyarsk","",2
+"27.02.2015","countries","Russia","",344
+"27.02.2015","countries","Ukraine","",43
+"27.02.2015","countries","Kazakhstan","",20
+"27.02.2015","countries","Belarus","",19
+"27.02.2015","countries","USA","",18
+"27.02.2015","countries","Germany","",4
+"27.02.2015","countries","Canada","",3
+"27.02.2015","countries","Moldova","",2
+"27.02.2015","countries","Azerbaijan","",2
+"27.02.2015","countries","Senegal","",1
+"27.02.2015","countries","Kyrgyzstan","",1
+"27.02.2015","countries","France","",1
+"27.02.2015","countries","Norway","",1
+"27.02.2015","countries","Netherlands","",1
+"27.02.2015","countries","Turkey","",1
+"27.02.2015","countries","Poland","",1
+"27.02.2015","countries","Hungary","",1
+"27.02.2015","countries","Uzbekistan","",1
+"27.02.2015","countries","Estonia","",1
+"27.02.2015","countries","Bulgaria","",1
+"27.02.2015","countries","Sweden","",1
+"27.02.2015","countries","","",1
+"27.02.2015","sections","Discussion board","",28
+"27.02.2015","sections","Videos","",6
+"27.02.2015","sections","Photos","",135
+"27.02.2015","activity","Wall posts","",24
+"27.02.2015","activity","Photo comments","",22
+"27.02.2015","activity","Video comments","",1
+"27.02.2015","feedback","Like","",72
+"27.02.2015","feedback","Share","",20
+"27.02.2015","feedback","Comments","",89
+"27.02.2015","members","New members","",22
+"27.02.2015","members","Members lost","",18
+"26.02.2015","views","","",895
+"26.02.2015","visitors","","",460
+"26.02.2015","gender","F","",83
+"26.02.2015","gender","M","",298
+"26.02.2015","age","1-18","",44
+"26.02.2015","age","18-21","",44
+"26.02.2015","age","21-24","",53
+"26.02.2015","age","24-27","",53
+"26.02.2015","age","27-30","",33
+"26.02.2015","age","30-35","",39
+"26.02.2015","age","35-45","",40
+"26.02.2015","age","45+","",30
+"26.02.2015","gender_age","F","1-18",10
+"26.02.2015","gender_age","F","18-21",7
+"26.02.2015","gender_age","F","21-24",12
+"26.02.2015","gender_age","F","24-27",14
+"26.02.2015","gender_age","F","27-30",5
+"26.02.2015","gender_age","F","30-35",6
+"26.02.2015","gender_age","F","35-45",9
+"26.02.2015","gender_age","F","45+",8
+"26.02.2015","gender_age","M","1-18",34
+"26.02.2015","gender_age","M","18-21",37
+"26.02.2015","gender_age","M","21-24",41
+"26.02.2015","gender_age","M","24-27",39
+"26.02.2015","gender_age","M","27-30",28
+"26.02.2015","gender_age","M","30-35",33
+"26.02.2015","gender_age","M","35-45",31
+"26.02.2015","gender_age","M","45+",22
+"26.02.2015","cities","Moscow","",45
+"26.02.2015","cities","Saint Petersburg","",21
+"26.02.2015","cities","Kazan","",9
+"26.02.2015","cities","Nizhny Novgorod","",7
+"26.02.2015","cities","Almaty","",5
+"26.02.2015","cities","Novosibirsk","",4
+"26.02.2015","cities","Naberezhnye Chelny","",4
+"26.02.2015","cities","Barnaul","",4
+"26.02.2015","cities","Chelyabinsk","",4
+"26.02.2015","cities","Yaroslavl","",3
+"26.02.2015","cities","Perm","",3
+"26.02.2015","cities","Vitebsk","",3
+"26.02.2015","cities","Abakan","",3
+"26.02.2015","cities","Vladivostok","",3
+"26.02.2015","cities","Poltava","",3
+"26.02.2015","cities","Ryazan","",3
+"26.02.2015","cities","Brest","",2
+"26.02.2015","cities","Bryansk","",2
+"26.02.2015","cities","Novocherkassk","",2
+"26.02.2015","cities","Vladimir","",2
+"26.02.2015","cities","Ulyanovsk","",2
+"26.02.2015","cities","Rameshki","",2
+"26.02.2015","cities","Kemerovo","",2
+"26.02.2015","cities","Leninogorsk","",2
+"26.02.2015","cities","Taraz","",2
+"26.02.2015","countries","Russia","",339
+"26.02.2015","countries","Ukraine","",47
+"26.02.2015","countries","Belarus","",21
+"26.02.2015","countries","Kazakhstan","",19
+"26.02.2015","countries","USA","",7
+"26.02.2015","countries","China","",3
+"26.02.2015","countries","Azerbaijan","",3
+"26.02.2015","countries","Moldova","",3
+"26.02.2015","countries","Sweden","",2
+"26.02.2015","countries","Netherlands","",2
+"26.02.2015","countries","Indonesia","",1
+"26.02.2015","countries","India","",1
+"26.02.2015","countries","Germany","",1
+"26.02.2015","countries","Ghana","",1
+"26.02.2015","countries","Spain","",1
+"26.02.2015","countries","","",1
+"26.02.2015","countries","France","",1
+"26.02.2015","countries","Latvia","",1
+"26.02.2015","countries","","",1
+"26.02.2015","countries","Canada","",1
+"26.02.2015","countries","Tajikistan","",1
+"26.02.2015","countries","Estonia","",1
+"26.02.2015","countries","Senegal","",1
+"26.02.2015","countries","Czech Republic","",1
+"26.02.2015","sections","Discussion board","",53
+"26.02.2015","sections","Videos","",11
+"26.02.2015","sections","Photos","",17
+"26.02.2015","activity","Wall posts","",8
+"26.02.2015","activity","Photo comments","",19
+"26.02.2015","activity","Discussion comments","",8
+"26.02.2015","feedback","Like","",66
+"26.02.2015","feedback","Share","",12
+"26.02.2015","feedback","Comments","",53
+"26.02.2015","members","New members","",24
+"26.02.2015","members","Members lost","",19
+"25.02.2015","views","","",1000
+"25.02.2015","visitors","","",461
+"25.02.2015","gender","F","",68
+"25.02.2015","gender","M","",307
+"25.02.2015","age","1-18","",46
+"25.02.2015","age","18-21","",53
+"25.02.2015","age","21-24","",66
+"25.02.2015","age","24-27","",45
+"25.02.2015","age","27-30","",41
+"25.02.2015","age","30-35","",37
+"25.02.2015","age","35-45","",34
+"25.02.2015","age","45+","",20
+"25.02.2015","gender_age","F","1-18",13
+"25.02.2015","gender_age","F","18-21",5
+"25.02.2015","gender_age","F","21-24",8
+"25.02.2015","gender_age","F","24-27",10
+"25.02.2015","gender_age","F","27-30",4
+"25.02.2015","gender_age","F","30-35",6
+"25.02.2015","gender_age","F","35-45",7
+"25.02.2015","gender_age","F","45+",6
+"25.02.2015","gender_age","M","1-18",33
+"25.02.2015","gender_age","M","18-21",48
+"25.02.2015","gender_age","M","21-24",58
+"25.02.2015","gender_age","M","24-27",35
+"25.02.2015","gender_age","M","27-30",37
+"25.02.2015","gender_age","M","30-35",31
+"25.02.2015","gender_age","M","35-45",27
+"25.02.2015","gender_age","M","45+",14
+"25.02.2015","cities","Moscow","",40
+"25.02.2015","cities","Saint Petersburg","",16
+"25.02.2015","cities","Volgograd","",7
+"25.02.2015","cities","Kazan","",7
+"25.02.2015","cities","Novosibirsk","",5
+"25.02.2015","cities","Nizhny Novgorod","",5
+"25.02.2015","cities","Yekaterinburg","",4
+"25.02.2015","cities","Almaty","",4
+"25.02.2015","cities","Kaluga","",4
+"25.02.2015","cities","Samara","",4
+"25.02.2015","cities","Kharkiv","",4
+"25.02.2015","cities","Bryansk","",4
+"25.02.2015","cities","Kemerovo","",3
+"25.02.2015","cities","Donetsk","",3
+"25.02.2015","cities","Krasnoyarsk","",3
+"25.02.2015","cities","Astana","",3
+"25.02.2015","cities","Nizhnevartovsk","",3
+"25.02.2015","cities","Ryazan","",3
+"25.02.2015","cities","Naberezhnye Chelny","",2
+"25.02.2015","cities","Oktyabrsky","",2
+"25.02.2015","cities","Vladivostok","",2
+"25.02.2015","cities","Saratov","",2
+"25.02.2015","cities","Voronezh","",2
+"25.02.2015","cities","Sterlitamak","",2
+"25.02.2015","cities","Vitebsk","",2
+"25.02.2015","countries","Russia","",353
+"25.02.2015","countries","Ukraine","",40
+"25.02.2015","countries","Kazakhstan","",25
+"25.02.2015","countries","Belarus","",15
+"25.02.2015","countries","USA","",14
+"25.02.2015","countries","Moldova","",2
+"25.02.2015","countries","Germany","",2
+"25.02.2015","countries","Indonesia","",1
+"25.02.2015","countries","France","",1
+"25.02.2015","countries","Israel","",1
+"25.02.2015","countries","","",1
+"25.02.2015","countries","Luxembourg","",1
+"25.02.2015","countries","Syria","",1
+"25.02.2015","countries","Ghana","",1
+"25.02.2015","countries","","",1
+"25.02.2015","countries","Brazil","",1
+"25.02.2015","countries","China","",1
+"25.02.2015","sections","Discussion board","",36
+"25.02.2015","sections","Videos","",9
+"25.02.2015","sections","Photos","",3
+"25.02.2015","activity","Wall posts","",23
+"25.02.2015","activity","Photo comments","",36
+"25.02.2015","activity","Discussion comments","",1
+"25.02.2015","feedback","Like","",47
+"25.02.2015","feedback","Share","",3
+"25.02.2015","feedback","Comments","",151
+"25.02.2015","members","New members","",19
+"25.02.2015","members","Members lost","",17
+"24.02.2015","views","","",844
+"24.02.2015","visitors","","",456
+"24.02.2015","gender","F","",71
+"24.02.2015","gender","M","",282
+"24.02.2015","age","1-18","",36
+"24.02.2015","age","18-21","",45
+"24.02.2015","age","21-24","",46
+"24.02.2015","age","24-27","",50
+"24.02.2015","age","27-30","",42
+"24.02.2015","age","30-35","",42
+"24.02.2015","age","35-45","",34
+"24.02.2015","age","45+","",27
+"24.02.2015","gender_age","F","1-18",7
+"24.02.2015","gender_age","F","18-21",5
+"24.02.2015","gender_age","F","21-24",7
+"24.02.2015","gender_age","F","24-27",15
+"24.02.2015","gender_age","F","27-30",5
+"24.02.2015","gender_age","F","30-35",15
+"24.02.2015","gender_age","F","35-45",2
+"24.02.2015","gender_age","F","45+",5
+"24.02.2015","gender_age","M","1-18",29
+"24.02.2015","gender_age","M","18-21",40
+"24.02.2015","gender_age","M","21-24",39
+"24.02.2015","gender_age","M","24-27",35
+"24.02.2015","gender_age","M","27-30",37
+"24.02.2015","gender_age","M","30-35",27
+"24.02.2015","gender_age","M","35-45",32
+"24.02.2015","gender_age","M","45+",22
+"24.02.2015","cities","Moscow","",51
+"24.02.2015","cities","Saint Petersburg","",19
+"24.02.2015","cities","Yekaterinburg","",5
+"24.02.2015","cities","Novosibirsk","",5
+"24.02.2015","cities","Donetsk","",5
+"24.02.2015","cities","Kazan","",4
+"24.02.2015","cities","Ufa","",4
+"24.02.2015","cities","Izhevsk","",4
+"24.02.2015","cities","Tyumen","",4
+"24.02.2015","cities","Naberezhnye Chelny","",4
+"24.02.2015","cities","Kaluga","",3
+"24.02.2015","cities","Stary Oskol","",3
+"24.02.2015","cities","Volgograd","",3
+"24.02.2015","cities","Kirovograd","",3
+"24.02.2015","cities","Bryansk","",2
+"24.02.2015","cities","Krasnoyarsk","",2
+"24.02.2015","cities","Kemerovo","",2
+"24.02.2015","cities","Ulyanovsk","",2
+"24.02.2015","cities","Irkutsk","",2
+"24.02.2015","cities","Novocherkassk","",2
+"24.02.2015","cities","Aktau","",2
+"24.02.2015","cities","Yaroslavl","",2
+"24.02.2015","cities","Brest","",2
+"24.02.2015","cities","Istra","",2
+"24.02.2015","cities","Uman","",1
+"24.02.2015","countries","Russia","",341
+"24.02.2015","countries","Ukraine","",36
+"24.02.2015","countries","Kazakhstan","",20
+"24.02.2015","countries","USA","",15
+"24.02.2015","countries","Belarus","",12
+"24.02.2015","countries","Canada","",11
+"24.02.2015","countries","Germany","",3
+"24.02.2015","countries","China","",2
+"24.02.2015","countries","Uzbekistan","",2
+"24.02.2015","countries","Moldova","",2
+"24.02.2015","countries","Azerbaijan","",2
+"24.02.2015","countries","Netherlands","",1
+"24.02.2015","countries","Norway","",1
+"24.02.2015","countries","Lebanon","",1
+"24.02.2015","countries","Kyrgyzstan","",1
+"24.02.2015","countries","Israel","",1
+"24.02.2015","countries","Croatia","",1
+"24.02.2015","countries","Bulgaria","",1
+"24.02.2015","countries","Sweden","",1
+"24.02.2015","countries","Romania","",1
+"24.02.2015","countries","Algeria","",1
+"24.02.2015","sections","Discussion board","",45
+"24.02.2015","sections","Audio files","",1
+"24.02.2015","sections","Videos","",2
+"24.02.2015","sections","Photos","",4
+"24.02.2015","activity","Wall posts","",8
+"24.02.2015","activity","Photo comments","",58
+"24.02.2015","activity","Discussion comments","",4
+"24.02.2015","feedback","Like","",51
+"24.02.2015","feedback","Share","",5
+"24.02.2015","feedback","Comments","",122
+"24.02.2015","members","New members","",26
+"24.02.2015","members","Members lost","",25
+"23.02.2015","views","","",752
+"23.02.2015","visitors","","",429
+"23.02.2015","gender","F","",70
+"23.02.2015","gender","M","",271
+"23.02.2015","age","1-18","",43
+"23.02.2015","age","18-21","",43
+"23.02.2015","age","21-24","",58
+"23.02.2015","age","24-27","",47
+"23.02.2015","age","27-30","",37
+"23.02.2015","age","30-35","",39
+"23.02.2015","age","35-45","",28
+"23.02.2015","age","45+","",22
+"23.02.2015","gender_age","F","1-18",8
+"23.02.2015","gender_age","F","18-21",8
+"23.02.2015","gender_age","F","21-24",13
+"23.02.2015","gender_age","F","24-27",9
+"23.02.2015","gender_age","F","27-30",7
+"23.02.2015","gender_age","F","30-35",10
+"23.02.2015","gender_age","F","35-45",5
+"23.02.2015","gender_age","F","45+",4
+"23.02.2015","gender_age","M","1-18",35
+"23.02.2015","gender_age","M","18-21",35
+"23.02.2015","gender_age","M","21-24",45
+"23.02.2015","gender_age","M","24-27",38
+"23.02.2015","gender_age","M","27-30",30
+"23.02.2015","gender_age","M","30-35",29
+"23.02.2015","gender_age","M","35-45",23
+"23.02.2015","gender_age","M","45+",18
+"23.02.2015","cities","Moscow","",35
+"23.02.2015","cities","Saint Petersburg","",14
+"23.02.2015","cities","Barnaul","",5
+"23.02.2015","cities","Tyumen","",5
+"23.02.2015","cities","Kiev","",5
+"23.02.2015","cities","Novosibirsk","",4
+"23.02.2015","cities","Kharkiv","",4
+"23.02.2015","cities","Cheboxary","",3
+"23.02.2015","cities","Yaroslavl","",3
+"23.02.2015","cities","Nizhny Novgorod","",3
+"23.02.2015","cities","Minsk ","",3
+"23.02.2015","cities","Ulan-Ude","",2
+"23.02.2015","cities","Krasnoyarsk","",2
+"23.02.2015","cities","Naberezhnye Chelny","",2
+"23.02.2015","cities","Karaganda","",2
+"23.02.2015","cities","Almaty","",2
+"23.02.2015","cities","Tatarstan","",2
+"23.02.2015","cities","Donetsk","",2
+"23.02.2015","cities","Abakan","",2
+"23.02.2015","cities","Ryazan","",2
+"23.02.2015","cities","Zhodino","",2
+"23.02.2015","cities","Sterlitamak","",2
+"23.02.2015","cities","Kirovograd","",2
+"23.02.2015","cities","Syzran","",2
+"23.02.2015","cities","Novocherkassk","",2
+"23.02.2015","countries","Russia","",306
+"23.02.2015","countries","Ukraine","",40
+"23.02.2015","countries","USA","",34
+"23.02.2015","countries","Belarus","",21
+"23.02.2015","countries","Kazakhstan","",14
+"23.02.2015","countries","Moldova","",2
+"23.02.2015","countries","Sweden","",2
+"23.02.2015","countries","Germany","",2
+"23.02.2015","countries","Mexico","",1
+"23.02.2015","countries","","",1
+"23.02.2015","countries","Portugal","",1
+"23.02.2015","countries","Netherlands","",1
+"23.02.2015","countries","Georgia","",1
+"23.02.2015","countries","Ghana","",1
+"23.02.2015","countries","","",1
+"23.02.2015","countries","Azerbaijan","",1
+"23.02.2015","sections","Discussion board","",27
+"23.02.2015","sections","Videos","",2
+"23.02.2015","sections","Photos","",1
+"23.02.2015","activity","Wall posts","",3
+"23.02.2015","activity","Photo comments","",35
+"23.02.2015","feedback","Like","",94
+"23.02.2015","feedback","Share","",7
+"23.02.2015","feedback","Comments","",46
+"23.02.2015","members","New members","",24
+"23.02.2015","members","Members lost","",22
+"22.02.2015","views","","",916
+"22.02.2015","visitors","","",571
+"22.02.2015","gender","F","",68
+"22.02.2015","gender","M","",306
+"22.02.2015","age","1-18","",42
+"22.02.2015","age","18-21","",56
+"22.02.2015","age","21-24","",62
+"22.02.2015","age","24-27","",48
+"22.02.2015","age","27-30","",35
+"22.02.2015","age","30-35","",29
+"22.02.2015","age","35-45","",44
+"22.02.2015","age","45+","",22
+"22.02.2015","gender_age","F","1-18",7
+"22.02.2015","gender_age","F","18-21",10
+"22.02.2015","gender_age","F","21-24",12
+"22.02.2015","gender_age","F","24-27",10
+"22.02.2015","gender_age","F","27-30",3
+"22.02.2015","gender_age","F","30-35",4
+"22.02.2015","gender_age","F","35-45",7
+"22.02.2015","gender_age","F","45+",2
+"22.02.2015","gender_age","M","1-18",35
+"22.02.2015","gender_age","M","18-21",46
+"22.02.2015","gender_age","M","21-24",50
+"22.02.2015","gender_age","M","24-27",38
+"22.02.2015","gender_age","M","27-30",32
+"22.02.2015","gender_age","M","30-35",25
+"22.02.2015","gender_age","M","35-45",37
+"22.02.2015","gender_age","M","45+",20
+"22.02.2015","cities","Moscow","",44
+"22.02.2015","cities","Saint Petersburg","",12
+"22.02.2015","cities","Novosibirsk","",7
+"22.02.2015","cities","Yekaterinburg","",6
+"22.02.2015","cities","Kemerovo","",5
+"22.02.2015","cities","Krasnoyarsk","",5
+"22.02.2015","cities","Irkutsk","",5
+"22.02.2015","cities","Kharkiv","",4
+"22.02.2015","cities","Ulyanovsk","",3
+"22.02.2015","cities","Perm","",3
+"22.02.2015","cities","Almaty","",3
+"22.02.2015","cities","Tolyatti","",3
+"22.02.2015","cities","Tyumen","",3
+"22.02.2015","cities","Volgograd","",3
+"22.02.2015","cities","Ryazan","",2
+"22.02.2015","cities","Sevastopol","",2
+"22.02.2015","cities","Kirovograd","",2
+"22.02.2015","cities","Nizhnevartovsk","",2
+"22.02.2015","cities","Saransk","",2
+"22.02.2015","cities","Kaluga","",2
+"22.02.2015","cities","Zelenodolsk","",2
+"22.02.2015","cities","Naberezhnye Chelny","",2
+"22.02.2015","cities","Magnitogorsk","",2
+"22.02.2015","cities","Chelyabinsk","",2
+"22.02.2015","cities","Brest","",2
+"22.02.2015","countries","Russia","",433
+"22.02.2015","countries","Ukraine","",54
+"22.02.2015","countries","Belarus","",23
+"22.02.2015","countries","Kazakhstan","",21
+"22.02.2015","countries","USA","",18
+"22.02.2015","countries","Netherlands","",2
+"22.02.2015","countries","Armenia","",2
+"22.02.2015","countries","Latvia","",2
+"22.02.2015","countries","Azerbaijan","",2
+"22.02.2015","countries","Sweden","",2
+"22.02.2015","countries","Germany","",1
+"22.02.2015","countries","Kyrgyzstan","",1
+"22.02.2015","countries","Norway","",1
+"22.02.2015","countries","Mongolia","",1
+"22.02.2015","countries","France","",1
+"22.02.2015","countries","China","",1
+"22.02.2015","countries","Australia","",1
+"22.02.2015","countries","Kuwait","",1
+"22.02.2015","countries","Moldova","",1
+"22.02.2015","countries","Lithuania","",1
+"22.02.2015","countries","Iraq","",1
+"22.02.2015","countries","Turkmenistan","",1
+"22.02.2015","sections","Discussion board","",41
+"22.02.2015","sections","Videos","",5
+"22.02.2015","sections","Photos","",4
+"22.02.2015","activity","Wall posts","",5
+"22.02.2015","activity","Photo comments","",35
+"22.02.2015","activity","Discussion comments","",10
+"22.02.2015","feedback","Like","",47
+"22.02.2015","feedback","Share","",7
+"22.02.2015","feedback","Comments","",53
+"22.02.2015","members","New members","",18
+"22.02.2015","members","Members lost","",32
+"21.02.2015","views","","",871
+"21.02.2015","visitors","","",501
+"21.02.2015","gender","F","",73
+"21.02.2015","gender","M","",324
+"21.02.2015","age","1-18","",48
+"21.02.2015","age","18-21","",58
+"21.02.2015","age","21-24","",56
+"21.02.2015","age","24-27","",59
+"21.02.2015","age","27-30","",39
+"21.02.2015","age","30-35","",36
+"21.02.2015","age","35-45","",32
+"21.02.2015","age","45+","",28
+"21.02.2015","gender_age","F","1-18",6
+"21.02.2015","gender_age","F","18-21",9
+"21.02.2015","gender_age","F","21-24",13
+"21.02.2015","gender_age","F","24-27",8
+"21.02.2015","gender_age","F","27-30",10
+"21.02.2015","gender_age","F","30-35",9
+"21.02.2015","gender_age","F","35-45",2
+"21.02.2015","gender_age","F","45+",7
+"21.02.2015","gender_age","M","1-18",42
+"21.02.2015","gender_age","M","18-21",49
+"21.02.2015","gender_age","M","21-24",43
+"21.02.2015","gender_age","M","24-27",51
+"21.02.2015","gender_age","M","27-30",29
+"21.02.2015","gender_age","M","30-35",26
+"21.02.2015","gender_age","M","35-45",30
+"21.02.2015","gender_age","M","45+",21
+"21.02.2015","cities","Moscow","",30
+"21.02.2015","cities","Saint Petersburg","",12
+"21.02.2015","cities","Volgograd","",6
+"21.02.2015","cities","Novosibirsk","",6
+"21.02.2015","cities","Naberezhnye Chelny","",5
+"21.02.2015","cities","Perm","",5
+"21.02.2015","cities","Kazan","",5
+"21.02.2015","cities","Nizhnevartovsk","",4
+"21.02.2015","cities","Chelyabinsk","",4
+"21.02.2015","cities","Yekaterinburg","",4
+"21.02.2015","cities","Barnaul","",4
+"21.02.2015","cities","Karaganda","",3
+"21.02.2015","cities","Krasnodar","",3
+"21.02.2015","cities","Tyumen","",3
+"21.02.2015","cities","Petrozavodsk","",3
+"21.02.2015","cities","Samara","",3
+"21.02.2015","cities","Bryansk","",3
+"21.02.2015","cities","Nizhny Novgorod","",3
+"21.02.2015","cities","Poltava","",3
+"21.02.2015","cities","Krasnoyarsk","",3
+"21.02.2015","cities","Bratsk","",2
+"21.02.2015","cities","Kirovograd","",2
+"21.02.2015","cities","Sevastopol","",2
+"21.02.2015","cities","Noyabrsk","",2
+"21.02.2015","cities","Irkutsk","",2
+"21.02.2015","countries","Russia","",357
+"21.02.2015","countries","Ukraine","",54
+"21.02.2015","countries","Belarus","",24
+"21.02.2015","countries","Kazakhstan","",22
+"21.02.2015","countries","USA","",15
+"21.02.2015","countries","Germany","",4
+"21.02.2015","countries","Brazil","",2
+"21.02.2015","countries","Turkey","",2
+"21.02.2015","countries","Algeria","",2
+"21.02.2015","countries","Romania","",2
+"21.02.2015","countries","Moldova","",2
+"21.02.2015","countries","United Kingdom","",1
+"21.02.2015","countries","Uzbekistan","",1
+"21.02.2015","countries","Netherlands","",1
+"21.02.2015","countries","Spain","",1
+"21.02.2015","countries","Tajikistan","",1
+"21.02.2015","countries","Armenia","",1
+"21.02.2015","countries","","",1
+"21.02.2015","countries","France","",1
+"21.02.2015","countries","Azerbaijan","",1
+"21.02.2015","countries","Georgia","",1
+"21.02.2015","countries","Turkmenistan","",1
+"21.02.2015","countries","Norway","",1
+"21.02.2015","countries","Austria","",1
+"21.02.2015","countries","Japan","",1
+"21.02.2015","sections","Discussion board","",29
+"21.02.2015","sections","Audio files","",1
+"21.02.2015","sections","Videos","",6
+"21.02.2015","sections","Photos","",8
+"21.02.2015","activity","Wall posts","",12
+"21.02.2015","activity","Photo comments","",4
+"21.02.2015","activity","Discussion comments","",1
+"21.02.2015","feedback","Like","",28
+"21.02.2015","feedback","Share","",2
+"21.02.2015","feedback","Comments","",58
+"21.02.2015","members","New members","",24
+"21.02.2015","members","Members lost","",28
+"20.02.2015","views","","",1087
+"20.02.2015","visitors","","",527
+"20.02.2015","gender","F","",74
+"20.02.2015","gender","M","",324
+"20.02.2015","age","1-18","",61
+"20.02.2015","age","18-21","",44
+"20.02.2015","age","21-24","",55
+"20.02.2015","age","24-27","",55
+"20.02.2015","age","27-30","",56
+"20.02.2015","age","30-35","",28
+"20.02.2015","age","35-45","",25
+"20.02.2015","age","45+","",30
+"20.02.2015","gender_age","F","1-18",14
+"20.02.2015","gender_age","F","18-21",6
+"20.02.2015","gender_age","F","21-24",8
+"20.02.2015","gender_age","F","24-27",10
+"20.02.2015","gender_age","F","27-30",11
+"20.02.2015","gender_age","F","30-35",4
+"20.02.2015","gender_age","F","35-45",2
+"20.02.2015","gender_age","F","45+",6
+"20.02.2015","gender_age","M","1-18",47
+"20.02.2015","gender_age","M","18-21",38
+"20.02.2015","gender_age","M","21-24",47
+"20.02.2015","gender_age","M","24-27",45
+"20.02.2015","gender_age","M","27-30",45
+"20.02.2015","gender_age","M","30-35",24
+"20.02.2015","gender_age","M","35-45",23
+"20.02.2015","gender_age","M","45+",24
+"20.02.2015","cities","Moscow","",40
+"20.02.2015","cities","Saint Petersburg","",15
+"20.02.2015","cities","Krasnoyarsk","",6
+"20.02.2015","cities","Kiev","",6
+"20.02.2015","cities","Izhevsk","",5
+"20.02.2015","cities","Nizhny Novgorod","",5
+"20.02.2015","cities","Kaluga","",4
+"20.02.2015","cities","Naberezhnye Chelny","",4
+"20.02.2015","cities","Novosibirsk","",4
+"20.02.2015","cities","Joshkar-Ola","",4
+"20.02.2015","cities","Kaliningrad","",4
+"20.02.2015","cities","Yekaterinburg","",3
+"20.02.2015","cities","Saratov","",3
+"20.02.2015","cities","Ulan-Ude","",3
+"20.02.2015","cities","Arkhangelsk","",3
+"20.02.2015","cities","Chelyabinsk","",3
+"20.02.2015","cities","Magnitogorsk","",3
+"20.02.2015","cities","Rostov-on-Don","",3
+"20.02.2015","cities","Chita","",2
+"20.02.2015","cities","Chişinău ","",2
+"20.02.2015","cities","Tyumen","",2
+"20.02.2015","cities","Yaroslavl","",2
+"20.02.2015","cities","Karaganda","",2
+"20.02.2015","cities","Rameshki","",2
+"20.02.2015","cities","Serov","",2
+"20.02.2015","countries","Russia","",388
+"20.02.2015","countries","Ukraine","",50
+"20.02.2015","countries","Kazakhstan","",21
+"20.02.2015","countries","Belarus","",13
+"20.02.2015","countries","USA","",12
+"20.02.2015","countries","Germany","",8
+"20.02.2015","countries","Japan","",5
+"20.02.2015","countries","Moldova","",4
+"20.02.2015","countries","Azerbaijan","",4
+"20.02.2015","countries","","",3
+"20.02.2015","countries","China","",2
+"20.02.2015","countries","Netherlands","",2
+"20.02.2015","countries","Turkey","",2
+"20.02.2015","countries","Uzbekistan","",2
+"20.02.2015","countries","","",1
+"20.02.2015","countries","France","",1
+"20.02.2015","countries","United Kingdom","",1
+"20.02.2015","countries","Spain","",1
+"20.02.2015","countries","Indonesia","",1
+"20.02.2015","countries","Czech Republic","",1
+"20.02.2015","countries","Sweden","",1
+"20.02.2015","countries","Egypt","",1
+"20.02.2015","countries","Kyrgyzstan","",1
+"20.02.2015","countries","Hungary","",1
+"20.02.2015","countries","Algeria","",1
+"20.02.2015","sections","Discussion board","",45
+"20.02.2015","sections","Audio files","",1
+"20.02.2015","sections","Videos","",12
+"20.02.2015","sections","Photos","",5
+"20.02.2015","activity","Wall posts","",20
+"20.02.2015","activity","Photo comments","",18
+"20.02.2015","activity","Video comments","",1
+"20.02.2015","activity","Discussion comments","",10
+"20.02.2015","feedback","Like","",56
+"20.02.2015","feedback","Share","",4
+"20.02.2015","feedback","Comments","",81
+"20.02.2015","members","New members","",31
+"20.02.2015","members","Members lost","",20
+"19.02.2015","views","","",1212
+"19.02.2015","visitors","","",544
+"19.02.2015","gender","F","",80
+"19.02.2015","gender","M","",342
+"19.02.2015","age","1-18","",49
+"19.02.2015","age","18-21","",52
+"19.02.2015","age","21-24","",57
+"19.02.2015","age","24-27","",59
+"19.02.2015","age","27-30","",47
+"19.02.2015","age","30-35","",39
+"19.02.2015","age","35-45","",46
+"19.02.2015","age","45+","",29
+"19.02.2015","gender_age","F","1-18",11
+"19.02.2015","gender_age","F","18-21",8
+"19.02.2015","gender_age","F","21-24",9
+"19.02.2015","gender_age","F","24-27",10
+"19.02.2015","gender_age","F","27-30",9
+"19.02.2015","gender_age","F","30-35",9
+"19.02.2015","gender_age","F","35-45",4
+"19.02.2015","gender_age","F","45+",9
+"19.02.2015","gender_age","M","1-18",38
+"19.02.2015","gender_age","M","18-21",44
+"19.02.2015","gender_age","M","21-24",47
+"19.02.2015","gender_age","M","24-27",49
+"19.02.2015","gender_age","M","27-30",38
+"19.02.2015","gender_age","M","30-35",30
+"19.02.2015","gender_age","M","35-45",42
+"19.02.2015","gender_age","M","45+",20
+"19.02.2015","cities","Moscow","",47
+"19.02.2015","cities","Saint Petersburg","",18
+"19.02.2015","cities","Nizhny Novgorod","",9
+"19.02.2015","cities","Novosibirsk","",8
+"19.02.2015","cities","Kemerovo","",6
+"19.02.2015","cities","Samara","",6
+"19.02.2015","cities","Nizhnevartovsk","",4
+"19.02.2015","cities","Volgograd","",4
+"19.02.2015","cities","Cheboxary","",4
+"19.02.2015","cities","Zelenograd","",4
+"19.02.2015","cities","Kazan","",3
+"19.02.2015","cities","Vladivostok","",3
+"19.02.2015","cities","Kirovograd","",3
+"19.02.2015","cities","Abakan","",3
+"19.02.2015","cities","Dnipropetrovsk","",3
+"19.02.2015","cities","Minsk ","",3
+"19.02.2015","cities","Krasnodar","",3
+"19.02.2015","cities","Krasnoyarsk","",2
+"19.02.2015","cities","Syktyvkar","",2
+"19.02.2015","cities","Joshkar-Ola","",2
+"19.02.2015","cities","Irkutsk","",2
+"19.02.2015","cities","Kingston","",2
+"19.02.2015","cities","Brest","",2
+"19.02.2015","cities","Smolensk","",2
+"19.02.2015","cities","Saratov","",2
+"19.02.2015","countries","Russia","",408
+"19.02.2015","countries","Ukraine","",53
+"19.02.2015","countries","Kazakhstan","",26
+"19.02.2015","countries","Belarus","",25
+"19.02.2015","countries","USA","",9
+"19.02.2015","countries","Moldova","",4
+"19.02.2015","countries","Germany","",3
+"19.02.2015","countries","Netherlands","",2
+"19.02.2015","countries","Czech Republic","",2
+"19.02.2015","countries","France","",2
+"19.02.2015","countries","","",1
+"19.02.2015","countries","Kyrgyzstan","",1
+"19.02.2015","countries","Malaysia","",1
+"19.02.2015","countries","Uzbekistan","",1
+"19.02.2015","countries","Denmark","",1
+"19.02.2015","countries","Azerbaijan","",1
+"19.02.2015","countries","","",1
+"19.02.2015","countries","Estonia","",1
+"19.02.2015","countries","Poland","",1
+"19.02.2015","countries","Romania","",1
+"19.02.2015","sections","Discussion board","",69
+"19.02.2015","sections","Audio files","",1
+"19.02.2015","sections","Videos","",12
+"19.02.2015","sections","Photos","",9
+"19.02.2015","activity","Wall posts","",12
+"19.02.2015","activity","Photo comments","",83
+"19.02.2015","activity","Video comments","",1
+"19.02.2015","activity","Discussion comments","",14
+"19.02.2015","feedback","Like","",75
+"19.02.2015","feedback","Share","",13
+"19.02.2015","feedback","Comments","",190
+"19.02.2015","members","New members","",34
+"19.02.2015","members","Members lost","",38
+"15.04.2015","reach","","",3864
+"15.04.2015","reach_subscribers","","",3143
+"14.04.2015","reach","","",5835
+"14.04.2015","reach_subscribers","","",5014
+"13.04.2015","reach","","",6188
+"13.04.2015","reach_subscribers","","",5304
+"12.04.2015","reach","","",4129
+"12.04.2015","reach_subscribers","","",3108
+"11.04.2015","reach","","",4136
+"11.04.2015","reach_subscribers","","",2078
+"10.04.2015","reach","","",5592
+"10.04.2015","reach_subscribers","","",3758
+"09.04.2015","reach","","",7207
+"09.04.2015","reach_subscribers","","",4546
+"08.04.2015","reach","","",4108
+"08.04.2015","reach_subscribers","","",3742
+"07.04.2015","reach","","",6118
+"07.04.2015","reach_subscribers","","",5518
+"06.04.2015","reach","","",4266
+"06.04.2015","reach_subscribers","","",3743
+"05.04.2015","reach","","",2609
+"05.04.2015","reach_subscribers","","",2246
+"04.04.2015","reach","","",2572
+"04.04.2015","reach_subscribers","","",2254
+"03.04.2015","reach","","",3778
+"03.04.2015","reach_subscribers","","",3354
+"02.04.2015","reach","","",3957
+"02.04.2015","reach_subscribers","","",3539
+"01.04.2015","reach","","",5479
+"01.04.2015","reach_subscribers","","",4955
+"31.03.2015","reach","","",5319
+"31.03.2015","reach_subscribers","","",4816
+"30.03.2015","reach","","",3716
+"30.03.2015","reach_subscribers","","",3269
+"29.03.2015","reach","","",3361
+"29.03.2015","reach_subscribers","","",2870
+"28.03.2015","reach","","",2979
+"28.03.2015","reach_subscribers","","",2418
+"27.03.2015","reach","","",6164
+"27.03.2015","reach_subscribers","","",3075
+"26.03.2015","reach","","",4242
+"26.03.2015","reach_subscribers","","",3412
+"25.03.2015","reach","","",3555
+"25.03.2015","reach_subscribers","","",3239
+"24.03.2015","reach","","",4598
+"24.03.2015","reach_subscribers","","",4150
+"23.03.2015","reach","","",3626
+"23.03.2015","reach_subscribers","","",3240
+"22.03.2015","reach","","",2877
+"22.03.2015","reach_subscribers","","",2524
+"21.03.2015","reach","","",2641
+"21.03.2015","reach_subscribers","","",2240
+"20.03.2015","reach","","",3589
+"20.03.2015","reach_subscribers","","",3182
+"19.03.2015","reach","","",3650
+"19.03.2015","reach_subscribers","","",3209
+"18.03.2015","reach","","",3639
+"18.03.2015","reach_subscribers","","",3278
+"17.03.2015","reach","","",5767
+"17.03.2015","reach_subscribers","","",5334
+"16.03.2015","reach","","",2482
+"16.03.2015","reach_subscribers","","",2159
+"15.03.2015","reach","","",3087
+"15.03.2015","reach_subscribers","","",2747
+"14.03.2015","reach","","",3579
+"14.03.2015","reach_subscribers","","",3079
+"13.03.2015","reach","","",3976
+"13.03.2015","reach_subscribers","","",3572
+"12.03.2015","reach","","",5600
+"12.03.2015","reach_subscribers","","",5188
+"11.03.2015","reach","","",5026
+"11.03.2015","reach_subscribers","","",4532
+"10.03.2015","reach","","",4791
+"10.03.2015","reach_subscribers","","",4236
+"09.03.2015","reach","","",2958
+"09.03.2015","reach_subscribers","","",2568
+"08.03.2015","reach","","",3694
+"08.03.2015","reach_subscribers","","",3323
+"07.03.2015","reach","","",2725
+"07.03.2015","reach_subscribers","","",2293
+"06.03.2015","reach","","",3898
+"06.03.2015","reach_subscribers","","",3504
+"05.03.2015","reach","","",3566
+"05.03.2015","reach_subscribers","","",3208
+"04.03.2015","reach","","",3530
+"04.03.2015","reach_subscribers","","",3199
+"03.03.2015","reach","","",4261
+"03.03.2015","reach_subscribers","","",3858
+"02.03.2015","reach","","",3342
+"02.03.2015","reach_subscribers","","",2941
+"01.03.2015","reach","","",3003
+"01.03.2015","reach_subscribers","","",2568
+"28.02.2015","reach","","",4008
+"28.02.2015","reach_subscribers","","",3553
+"27.02.2015","reach","","",3880
+"27.02.2015","reach_subscribers","","",3328
+"26.02.2015","reach","","",5274
+"26.02.2015","reach_subscribers","","",4804
+"25.02.2015","reach","","",4349
+"25.02.2015","reach_subscribers","","",3989
+"24.02.2015","reach","","",5136
+"24.02.2015","reach_subscribers","","",4730
+"23.02.2015","reach","","",4475
+"23.02.2015","reach_subscribers","","",3909
+"22.02.2015","reach","","",4029
+"22.02.2015","reach_subscribers","","",3510
+"21.02.2015","reach","","",2825
+"21.02.2015","reach_subscribers","","",2377
+"20.02.2015","reach","","",4920
+"20.02.2015","reach_subscribers","","",4369
+"19.02.2015","reach","","",5557
+"19.02.2015","reach_subscribers","","",4840

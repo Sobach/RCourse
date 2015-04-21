@@ -5,6 +5,43 @@ date: April 2015
 
 ## Data types
 
+Basic operators
+========================================================
+
+Assignment
+
+
+```r
+var <- c(1,2,3,4)
+names(var) <- c('first', 'second', 'third', 'fourth')
+var
+```
+
+```
+ first second  third fourth 
+     1      2      3      4 
+```
+
+Comment
+
+```r
+# This is a comment 
+# nothing happens
+```
+
+Basic operators
+========================================================
+
+Explicit printing
+
+```r
+print(pi)
+```
+
+```
+[1] 3.141593
+```
+
 Objects
 ========================================================
 
@@ -133,7 +170,7 @@ as.numeric(Sys.Date())
 ```
 
 ```
-[1] 16532
+[1] 16546
 ```
 
 Special values
@@ -336,46 +373,304 @@ List
 
 List can contain elements of different classes.
 
-Indexed by double brackets. Every list element is a vector (often of length 1)
+
+```r
+l <- list(df = head(iris, 2), v = 1:10)
+l
+```
+
+```
+$df
+  Sepal.Length Sepal.Width Petal.Length Petal.Width Species
+1          5.1         3.5          1.4         0.2  setosa
+2          4.9         3.0          1.4         0.2  setosa
+
+$v
+ [1]  1  2  3  4  5  6  7  8  9 10
+```
 
 Data.frame
 ========================================================
 
 List of vectors: used to store tabular data
 
-Basic operators
+Main data type for analysis purposes
+
+
+```r
+head(iris)
+```
+
+```
+  Sepal.Length Sepal.Width Petal.Length Petal.Width Species
+1          5.1         3.5          1.4         0.2  setosa
+2          4.9         3.0          1.4         0.2  setosa
+3          4.7         3.2          1.3         0.2  setosa
+4          4.6         3.1          1.5         0.2  setosa
+5          5.0         3.6          1.4         0.2  setosa
+6          5.4         3.9          1.7         0.4  setosa
+```
+
+Subseting
 ========================================================
 
-Assignment
+Three possible options:
 
+* `[` - returns same class, as original. Multiple selection possible.
+* `[[` - extracts single element of a list (or data.frame).
+* `$` - almost same as `[[` - used to extract single element by name.
 
-```r
-var <- c(1,2,3,4)
-names(var) <- c('first', 'second', 'third', 'fourth')
-var
-```
-
-```
- first second  third fourth 
-     1      2      3      4 
-```
-
-Comment
-
-```r
-# This is a comment 
-# nothing happens
-```
-
-Basic operators
+Slicing [...]
 ========================================================
 
-Explicit printing
 
 ```r
-print(pi)
+v <- c(1,2,3,4,5,6,7)
+```
+
+Numerical or logical index could be used.
+
+
+```r
+v[3:5]
 ```
 
 ```
-[1] 3.141593
+[1] 3 4 5
 ```
+
+```r
+v[v < 4]
+```
+
+```
+[1] 1 2 3
+```
+
+Logical vectors
+========================================================
+
+Extremly useful
+
+
+```r
+v < 4
+```
+
+```
+[1]  TRUE  TRUE  TRUE FALSE FALSE FALSE FALSE
+```
+
+Complex logical structures could be used
+
+
+```r
+& - AND
+| - OR
+! - NOT
+== - EQUAL TO
+```
+
+Slicing multidimensional objects
+========================================================
+
+
+```r
+x <- matrix(1:6, 2, 3)
+x
+```
+
+```
+     [,1] [,2] [,3]
+[1,]    1    3    5
+[2,]    2    4    6
+```
+
+```r
+x[2, 2]
+```
+
+```
+[1] 4
+```
+
+```r
+x[, 3]
+```
+
+```
+[1] 5 6
+```
+
+Subsetting lists
+========================================================
+
+
+```r
+x <- list(var1 = 1:10, var2 = FALSE)
+x[1]
+```
+
+```
+$var1
+ [1]  1  2  3  4  5  6  7  8  9 10
+```
+
+```r
+x[[1]]
+```
+
+```
+ [1]  1  2  3  4  5  6  7  8  9 10
+```
+
+```r
+x$var1
+```
+
+```
+ [1]  1  2  3  4  5  6  7  8  9 10
+```
+
+Removing NA's
+========================================================
+
+
+```r
+x <- c(1, 2, NA, 4, NA, 5)
+bad <- is.na(x)
+x[!bad]
+```
+
+```
+[1] 1 2 4 5
+```
+
+```r
+x[!is.na(x)]
+```
+
+```
+[1] 1 2 4 5
+```
+
+Look also on `complete.cases()` function
+
+```r
+complete.cases(airquality)
+```
+
+
+Vectorized operations
+========================================================
+
+Operations executed in parallel
+
+
+```r
+x <- 1:10
+y <- 6:15
+x + y
+```
+
+```
+ [1]  7  9 11 13 15 17 19 21 23 25
+```
+
+```r
+x / y
+```
+
+```
+ [1] 0.1666667 0.2857143 0.3750000 0.4444444 0.5000000 0.5454545 0.5833333
+ [8] 0.6153846 0.6428571 0.6666667
+```
+
+Code become easier
+
+Reading and writing data
+========================================================
+
+* `read.table` / `read.csv` - reading tabular data
+* `readLines` - reading any character data
+* `source` - reading .R code files
+
+?read.table
+========================================================
+
+* `file` - filename
+* `header` - T/F
+* `sep` - column separator
+* `quote` - quote sign
+* `dec` - decimal sign
+...
+
+Aliases: read.csv, read.csv2, read.delim, read.delim2
+
+Example
+========================================================
+
+
+```r
+setwd('~/Documents/RCourse')
+readLines('g_analytics.csv', n=10)
+```
+
+```
+ [1] "# ----------------------------------------"
+ [2] "# All Web Site Data"                       
+ [3] "# Audience Overview"                       
+ [4] "# 20150320-20150419"                       
+ [5] "# ----------------------------------------"
+ [6] ""                                          
+ [7] "Day Index,Sessions"                        
+ [8] "3/20/15,0"                                 
+ [9] "3/21/15,0"                                 
+[10] "3/22/15,0"                                 
+```
+
+```r
+df <- read.csv('g_analytics.csv', header=T, skip=6)
+```
+
+Example
+========================================================
+
+
+```r
+tail(df, 3)
+```
+
+```
+   Day.Index Sessions
+30   4/18/15     2212
+31   4/19/15     1612
+32              54314
+```
+
+```r
+df <- df[complete.cases(df), ]
+df$date <- as.Date(df$Day.Index, format='%m/%d/%y')
+df[df$date > as.Date('2015-04-15'),]
+```
+
+```
+   Day.Index Sessions       date
+28   4/16/15     8863 2015-04-16
+29   4/17/15     5262 2015-04-17
+30   4/18/15     2212 2015-04-18
+31   4/19/15     1612 2015-04-19
+NA      <NA>       NA       <NA>
+```
+
+Homework
+========================================================
+
+File `vkontakte_group.csv` - is an export stats file from our VK community.
+
+1. Use `readLines()` to understand, what separators and quotes are used.
+2. Use right `read.table` option to read file.
+3. Use `as.Date` function to recode date object.
+4. Slice data.frame to march only data.
+5. Compute overall number of visitors and views during march (`?sum`).
+Extra: Compute female/male ratio for march visitors.

@@ -5,6 +5,31 @@ date: April 2015
 
 ## Data types
 
+Basic operators
+========================================================
+
+Assignment
+
+```{r}
+var <- c(1,2,3,4)
+names(var) <- c('first', 'second', 'third', 'fourth')
+var
+```
+
+Comment
+```{r}
+# This is a comment 
+# nothing happens
+```
+
+Basic operators
+========================================================
+
+Explicit printing
+```{r}
+print(pi)
+```
+
 Objects
 ========================================================
 
@@ -207,34 +232,159 @@ List
 
 List can contain elements of different classes.
 
-Indexed by double brackets. Every list element is a vector (often of length 1)
+```{r}
+l <- list(df = head(iris, 2), v = 1:10)
+l
+```
 
 Data.frame
 ========================================================
 
 List of vectors: used to store tabular data
 
-Basic operators
+Main data type for analysis purposes
+
+```{r}
+head(iris)
+```
+
+Subseting
 ========================================================
 
-Assignment
+Three possible options:
 
-```{r}
-var <- c(1,2,3,4)
-names(var) <- c('first', 'second', 'third', 'fourth')
-var
-```
+* `[` - returns same class, as original. Multiple selection possible.
+* `[[` - extracts single element of a list (or data.frame).
+* `$` - almost same as `[[` - used to extract single element by name.
 
-Comment
-```{r}
-# This is a comment 
-# nothing happens
-```
-
-Basic operators
+Slicing [...]
 ========================================================
 
-Explicit printing
 ```{r}
-print(pi)
+v <- c(1,2,3,4,5,6,7)
 ```
+
+Numerical or logical index could be used.
+
+```{r}
+v[3:5]
+v[v < 4]
+```
+
+Logical vectors
+========================================================
+
+Extremly useful
+
+```{r}
+v < 4
+```
+
+Complex logical structures could be used
+
+```{r, eval=FALSE}
+& - AND
+| - OR
+! - NOT
+== - EQUAL TO
+```
+
+Slicing multidimensional objects
+========================================================
+
+```{r}
+x <- matrix(1:6, 2, 3)
+x
+x[2, 2]
+x[, 3]
+```
+
+Subsetting lists
+========================================================
+
+```{r}
+x <- list(var1 = 1:10, var2 = FALSE)
+x[1]
+x[[1]]
+x$var1
+```
+
+Removing NA's
+========================================================
+
+```{r}
+x <- c(1, 2, NA, 4, NA, 5)
+bad <- is.na(x)
+x[!bad]
+x[!is.na(x)]
+```
+
+Look also on `complete.cases()` function
+```{r, eval=FALSE}
+complete.cases(airquality)
+```
+
+
+Vectorized operations
+========================================================
+
+Operations executed in parallel
+
+```{r}
+x <- 1:10
+y <- 6:15
+x + y
+x / y
+```
+
+Code become easier
+
+Reading and writing data
+========================================================
+
+* `read.table` / `read.csv` - reading tabular data
+* `readLines` - reading any character data
+* `source` - reading .R code files
+
+?read.table
+========================================================
+
+* `file` - filename
+* `header` - T/F
+* `sep` - column separator
+* `quote` - quote sign
+* `dec` - decimal sign
+...
+
+Aliases: read.csv, read.csv2, read.delim, read.delim2
+
+Example
+========================================================
+
+```{r}
+setwd('~/Documents/RCourse')
+readLines('g_analytics.csv', n=10)
+df <- read.csv('g_analytics.csv', header=T, skip=6)
+```
+
+Example
+========================================================
+
+```{r}
+tail(df, 3)
+df <- df[complete.cases(df), ]
+df$date <- as.Date(df$Day.Index, format='%m/%d/%y')
+df[df$date > as.Date('2015-04-15'),]
+```
+
+Homework
+========================================================
+
+File `vkontakte_group.csv` - is an export stats file from our VK community.
+
+1. Use `readLines()` to understand, what separators and quotes are used.
+2. Use right `read.table` option to read file.
+3. Use `as.Date` function to recode date object.
+4. Slice data.frame to march only data.
+5. Compute overall number of visitors and views during march (`?sum`).
+Extra: Compute female/male ratio for march visitors.
