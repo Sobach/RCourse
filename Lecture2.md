@@ -665,6 +665,7 @@ NA      <NA>       NA       <NA>
 
 Homework
 ========================================================
+Go to https://github.com/Sobach/RCourse
 
 File `vkontakte_group.csv` - is an export stats file from our VK community.
 
@@ -673,4 +674,11 @@ File `vkontakte_group.csv` - is an export stats file from our VK community.
 3. Use `as.Date` function to recode date object.
 4. Slice data.frame to march only data.
 5. Compute overall number of visitors and views during march (`?sum`).
-Extra: Compute female/male ratio for march visitors.
+
+Homework
+========================================================
+
+## Extra: 
+
+1. Compute female/male ratio for march visitors.
+2. What age group is most active?
