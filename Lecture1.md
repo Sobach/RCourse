@@ -126,7 +126,7 @@ last.month.day(Sys.Date())
 ```
 
 ```
-[1] "2015-04-30"
+[1] "2015-05-31"
 ```
 
 Packages
@@ -399,7 +399,7 @@ as.numeric(Sys.Date())
 ```
 
 ```
-[1] 16546
+[1] 16560
 ```
 
 Homework

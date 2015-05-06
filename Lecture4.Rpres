@@ -1,0 +1,321 @@
+Construct data.frame with "visitors" data:
+
+```{r}
+head(df)
+visitors <- df[df$Criterion == 'visitors', c('Date', 'Value')]
+visitors$Weekday <- weekdays(visitors$Date)
+head(visitors)
+```
+
+And the Oscar goes to...
+========================================================
+incremental:true
+
+Can you write `aggregate` statement to evaluate average number of visitors during different weekdays?
+
+```{r}
+aggregate(visitors$Value, by=list(visitors$Weekday), FUN='mean')
+```
+
+What had happened?
+========================================================
+
+We have splitted our data.frame into pieces, and for every piece calculated some value.
+
+But we can face to more complicated processing task.
+
+Then we will iterate over every element/row.
+
+## Loops will help us.
+
+Loops
+========================================================
+
+* `for()` - iterate over sequence
+* `while()` - iteration with condition testing
+* `repeat()` - infinite loop (equal to `while(TRUE)`)
+
+  To exit loop use `break`
+
+for() loop
+========================================================
+
+Most common used type of loop
+
+We have a sequence (the simpliest way - sequence is used to assign index):
+
+```{r}
+for(i in 1:10){
+  print(i)
+}
+```
+
+for() loop
+========================================================
+
+For loop is valid not only for indexes:
+
+```{r}
+names <- c('Alice', 'Bob', 'Carol', 'Dave')
+for(name in names){
+  print(paste('My name is', name))
+}
+```
+
+for() loop
+========================================================
+
+It is possible to nest for loops inside one another:
+
+```{r}
+tdf <- data.frame(age = c(21,20,35,14), names = c('Alice', 'Bob', 'Carol', 'Dave'))
+for(i in 1:nrow(tdf)){
+  for(j in 1:ncol(tdf)){
+    print(tdf[i, j])
+  }
+}
+```
+
+Condition testing
+========================================================
+
+```{r eval=F}
+if(<condition1>){
+  ## do something
+} else {
+  ## do something else
+}
+```
+
+```{r eval=F}
+if(<condition1>){
+  ## do something
+} else if(<condition2>) {
+  ## do something else
+} else {
+  ## do something absolutely different
+}
+```
+
+Let's return to VK data.frame
+========================================================
+
+```{r}
+head(visitors)
+```
+
+Imagine, that we conducted an ad campaign for our group during March 10-20. I need to know average number of visits during campaign and without it.
+
+Example
+========================================================
+
+It's possible to solve our task using `aggregate`, but let's use more clear way with `for()` loop.
+
+```{r}
+no.ad <- data.frame()
+during.ad <- data.frame()
+for(i in 1:nrow(visitors)){
+  if(visitors$Date[i] >= as.Date('2015-03-10') & visitors$Date[i] <= as.Date('2015-03-20')){
+    during.ad <- rbind(during.ad, visitors[i, ])
+  } else {
+    no.ad <- rbind(no.ad, visitors[i, ])
+  }
+}
+```
+
+Example
+========================================================
+
+And here is the answer:
+
+```{r}
+mean(during.ad$Value)
+mean(no.ad$Value)
+```
+
+while() loop
+========================================================
+
+```{r}
+i <- 0
+while(i < 5){
+  print(i)
+  i <- i + 1
+}
+```
+
+Don't forget to code index evaluation! Or you will get infinite loop! Or don't think too much about these loops.
+
+apply
+========================================================
+
+`apply()` is a general function which is used to evaluate any arbitrary (often anonymous) function over the margins of an array
+
+There is a bunch of functions:
+
+* `apply()` - most general apply fucntion
+* `lapply()` - loop over a list and evaluate function on each element
+* `sapply()` - same as lapply, but tries to simplify returned list
+* `mapply()` - multivariate version of lapply
+* `tapply()` - apply a function over subsets of a vector
+
+apply
+========================================================
+
+Result of apply function is similar to what for-loop does. But there is a stong belief, that `apply` is faster than `for` loop.
+Anyway, often it's more beautiful and neat.
+
+```{r}
+is.ad <- function(x){
+  x[1] >= as.Date('2015-03-10') & x[1] <= as.Date('2015-03-20')
+}
+visitors$ad <- apply(visitors, 1, is.ad)
+visitors$ad
+```
+
+lapply
+========================================================
+
+Remember?
+
+```{r}
+names(ages.list)
+sum(ages.list[['1-18']])
+```
+
+lapply
+========================================================
+
+Let's iterate over the list:
+
+```{r}
+lapply(ages.list, sum)
+```
+
+sapply
+========================================================
+
+**s** stands for *simplify*
+
+```{r}
+sapply(ages.list, sum)
+```
+
+sapply
+========================================================
+
+Could be useful, when you have a huge data.frame, and need to get column classes
+
+```{r}
+sapply(df, class)
+```
+
+tapply
+========================================================
+
+Why t? I don't know. Actually, here is simplified version of `aggregate()`
+
+```{r}
+head(visitors, 3)
+tapply(visitors$Value, visitors$ad, mean)
+```
+
+But `aggregate()` could be used for multiple columns (even data.frames) and with multiple indexes.
+
+Homework-1
+========================================================
+
+## Using VK-stat-table, calculate average number of visits and views on weekends, and on working days.
+
+Main steps:
+
+* Load data.frame, recode Date var and filter to march only values.
+* Select only views and visitors data.
+* Construct weekday var
+* Using `apply()` construct weekend-or-not variable
+* Use aggregate with two index vars (visitors or views, and weekend or not)
+
+Wide and long data
+========================================================
+type: section
+
+* Wide data has a column for each variable.
+
+* Long data has a column for variable description.
+
+Let's prepare
+========================================================
+
+```{r, eval=FALSE}
+install.packages("reshape2")
+```
+
+```{r}
+library(reshape2)
+```
+
+Here is our long data
+========================================================
+
+```{r}
+long <- df[df$Date == as.Date('2015-03-01') & df$Criterion == 'gender_age', c('Parameter.1', 'Parameter.2', 'Value')]
+long
+```
+
+And here is we transforming it to wide
+========================================================
+```{r}
+wide <- acast(long, formula = Parameter.2 ~ Parameter.1, value.var='Value')
+wide
+```
+
+And back to long
+========================================================
+```{r}
+long.again <- melt(wide)
+long.again
+```
+
+Summary
+========================================================
+
+### Long to Wide:
+
+`acast()` or `dcast()`
+
+What's for:
+
+* Simplify data representation
+* Try to use it in views/visitors homework before aggregate step
+
+***
+
+### Wide to Long:
+
+`melt()`
+
+What's for:
+* Useful for plotting (later)
+
+Homework-2
+========================================================
+
+## Using VK-stat-table, build overall (summary) wide age-gender distribution table.
+
+Main steps:
+
+* Load data.frame, recode Date var and filter to march only values.
+* Select only joint age_gender stat.
+* Aggregate overall number of visitors during month for every age-gender group.
+* Convert long data.frame to wide, using `acast()` function.
+
+Homework-3
+========================================================
+
+## Using VK-data, construct table, where rows would be dates, and columns would be: Visitors, Views, Reach, Reach_Subscribers
+
+Save this data.frame.
+
+No hints.
+
+Good luck  :)

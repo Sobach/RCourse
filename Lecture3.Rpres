@@ -1,0 +1,119 @@
+R iRL 3
+========================================================
+author: Alexander Tolmach
+date: May 2015
+
+## Data aggregating and reshaping
+
+Homework answers
+========================================================
+incremental:true
+
+1. Visitors:
+
+   **13 614**
+2. Views: 
+
+  **27 303**
+3. Female/Male Ratio: 
+
+   **0.25**
+4. Most active agegroup: 
+
+   **21-24**
+
+Homework-1
+========================================================
+
+```{r}
+setwd('~/Documents/RCourse')
+readLines('vkontakte_group.csv', n=3)
+```
+
+Homework-2
+========================================================
+
+```{r}
+df <- read.csv('vkontakte_group.csv', header=T)
+head(df)
+```
+
+Homework-3,4
+========================================================
+
+```{r}
+df$Date <- as.Date(df$Date, format='%d.%m.%Y')
+df <- df[df$Date >= as.Date('2015-03-01') & df$Date <= as.Date('2015-03-31'), ]
+summary(df$Date)
+```
+
+Homework-5
+========================================================
+
+```{r}
+sum(df$Value[df$Criterion=='visitors'])
+sum(df$Value[df$Criterion=='views'])
+```
+
+Homework-extra-1
+========================================================
+
+```{r}
+female <- sum(df$Value[df$Criterion=='gender' & df$Parameter.1 == 'F'])
+female
+male <- sum(df$Value[df$Criterion=='gender' & df$Parameter.1 == 'M'])
+male
+female/male
+```
+
+Homework-extra-2
+========================================================
+
+```{r}
+age <- df[df$Criterion == 'age', ]
+age.aggr <- aggregate(age$Value, by=list(age$Parameter.1), FUN='sum')
+age.aggr[order(age.aggr$x, decreasing=TRUE), ]
+```
+
+Aggregating
+========================================================
+
+Let's start with homework-extra-2: we have already loaded dataframe, selected filtered it to march-only dates. Let's select age-only variables to separate data.frame. 
+```{r}
+age <- df[df$Criterion == 'age', c('Date', 'Parameter.1', 'Value')]
+head(age, 3)
+```
+
+Aggregating
+========================================================
+
+Now I need to summarize one variable according to another.
+
+Long story: we can split our dataframe into groups
+
+```{r}
+ages.list <- split(age$Value, factor(as.character(age$Parameter.1)))
+names(ages.list)
+sum(ages.list[['1-18']])
+```
+
+Aggregating
+========================================================
+
+Fast story: specify parameter, you want to aggregate, specify index variable, and a function
+
+* Parameter: `df$Value`
+* Index var: `df$Parameter.1`
+* Function: `sum()`
+
+```{r}
+aggregate(age$Value, by=list(age$Parameter.1), FUN='sum')
+```
+
+Homework
+========================================================
+
+1. Load VK dataset, recode Data column as dates, select only march records.
+2. Select only visitors data (you can create new data.frame for it).
+3. Use `weekdays()` function to create new variable, based on data - weekday factor variable.
+4. Using `aggregate()` calculate average number of visitors during different weekdays.
