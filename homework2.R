@@ -29,7 +29,3 @@ df$Time.Diff <- df$Event.Time - df$Install.Time
 result <- aggregate(df$Time.Diff, by=list(df$Event.Name), median)
 result <- result[order(result$x), ]
 result
-
-
-library(knitr)
-kable(result, format='markdown')
