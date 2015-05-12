@@ -1,23 +1,42 @@
-Construct data.frame with "visitors" data:
-
-```{r}
-head(df)
-visitors <- df[df$Criterion == 'visitors', c('Date', 'Value')]
-visitors$Weekday <- weekdays(visitors$Date)
-head(visitors)
-```
-
-And the Oscar goes to...
+R iRL 3
 ========================================================
-incremental:true
+author: Alexander Tolmach
+date: May 2015
 
-Can you write `aggregate` statement to evaluate average number of visitors during different weekdays?
+## Data aggregating and reshaping - 2
 
-```{r}
-aggregate(visitors$Value, by=list(visitors$Weekday), FUN='mean')
-```
+Homework answers - task1
+========================================================
+|Group.1   |      x|
+|:---------|------:|
+|Friday    | 434.50|
+|Monday    | 434.20|
+|Saturday  | 444.50|
+|Sunday    | 456.80|
+|Thursday  | 439.25|
+|Tuesday   | 432.80|
+|Wednesday | 430.50|
 
-What had happened?
+***
+
+Code - in file `homework2.R` on GitHub
+
+Homework answers - task2
+========================================================
+
+|   |Group.1                          |x           |
+|:--|:--------------------------------|:-----------|
+|7  |Wizard_Completed                 |       8.0  |
+|2  |FreePaidTransfer                 |     471.0  |
+|5  |TrialActivation                  |    1573.5  |
+|9  |kl1091ndafs-IAP                  |   35878.5  |
+|6  |TrialPaidTransfer                |  527329.0  |
+|4  |Renew                            | 2517657.0  |
+|1  |Find_More_About_Premium_Features | 3633414.0  |
+|3  |Premium_Features_Click           | 7867056.0  |
+|8  |kl1091ndafr-IAP                  |32094196.0  |
+
+Aggregate: What had happened?
 ========================================================
 
 We have splitted our data.frame into pieces, and for every piece calculated some value.
@@ -100,6 +119,15 @@ if(<condition1>){
 Let's return to VK data.frame
 ========================================================
 
+```{r, echo=FALSE}
+setwd('~/Documents/RCourse')
+df <- read.csv('vkontakte_group.csv', header=T)
+df$Date <- as.Date(df$Date, format='%d.%m.%Y')
+df <- df[df$Date>=as.Date('2015-03-01') & df$Date<as.Date('2015-04-01'), ]
+visitors <- df[df$Criterion=='visitors', c('Date', 'Criterion', 'Value')]
+visitors$Weekday <- weekdays(visitors$Date)
+```
+
 ```{r}
 head(visitors)
 ```
@@ -177,6 +205,11 @@ lapply
 ========================================================
 
 Remember?
+
+```{r, echo=FALSE}
+age <- df[df$Criterion == 'age', c('Date', 'Parameter.1', 'Value')]
+ages.list <- split(age$Value, factor(as.character(age$Parameter.1)))
+```
 
 ```{r}
 names(ages.list)
